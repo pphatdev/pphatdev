@@ -31,7 +31,7 @@
 <br>
 <br>
 
-<div>
+<div align="center">
     <h1 align="center"> 🌈🌞 </h1>
-    <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pphatdev&hide_title=true&layout=pie&langs_count=10&hide_progress=true" />
+    <img width="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pphatdev&hide_title=true&layout=pie&langs_count=10&hide_progress=true&bg_color=9ca3af00&border_radius=0&text_color=959598" />
 </div>
