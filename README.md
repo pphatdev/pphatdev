@@ -1,6 +1,6 @@
-<div align="center">
-<h1> Hello! I'm PPhatDev<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h1>
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
 <br>
