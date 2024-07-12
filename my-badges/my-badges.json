@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/pphatdev/sidebar/commit/a55e8d1875015ea455266d85109e00bd4b783b7f\"><strong>a</strong>55e8d1875015ea455266d85109e00bd4b783b7f</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/pphatdev/sidebar/commit/ab78ab87842a23139732ca789cbdf9ded4720b15\"><strong>ab</strong>78ab87842a23139732ca789cbdf9ded4720b15</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 2 times.",
+    "body": "- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/daf4ec0b3c273204c5c6fdc560561fee45dead6d\">daf4ec0b3c273204c5c6fdc560561fee45<strong>dead</strong>6d</a>\n- <a href=\"https://github.com/pphatdev/sample-html-webpack/commit/daf4ec0b3c273204c5c6fdc560561fee45dead6d\">daf4ec0b3c273204c5c6fdc560561fee45<strong>dead</strong>6d</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 230 times)\n2. create (used 98 times)\n3. readme.md (used 68 times)\n4. merge (used 57 times)\n5. from (used 54 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/268897c80199edb5382333cff28d4c14469c4dab\">268897c</a>: Fix Header\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/4a92d2ddfed9cb46093d5754cc2c60164a83488d\">4a92d2d</a>: Fix Header",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pphatdev/blog/commit/2dd7b11b40a7145cf9d2981a9775b00852742ac4\">2dd7b11</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pphatdev/blog/commit/2dd7b11b40a7145cf9d2981a9775b00852742ac4\">2dd7b11</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/pphatdev/leatsophat.me/pull/1\">#1</a>: Relatest",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/76f4c3fd76fa709a7151ed8b636ad71550a2b312\">76f4c3f</a>\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/5069dbc9c142a647ba7370d01df1009f7875ecdd\">5069dbc</a>\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/53c3442a4dac1915775f2212eb1c5055e8c6b5ce\">53c3442</a>\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/40763b97ea649692b21cc34ab98229efc403f087\">40763b9</a>\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/b09137278806f2e32fe5a2acb9faca6cd20753e9\">b091372</a>\n- <a href=\"https://github.com/pphatdev/checking-validation/commit/67369260c1414ec638f333568bef7d98086b7e8f\">6736926</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/3641753dfda9284304d5334c21d27d0393c7caba\">3641753</a>\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/f8603ab7cf26ca6388181c9b578e757b02228f8d\">f8603ab</a>\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/d4960ce9cc83c135b7988f5242855cb133a43309\">d4960ce</a>\n- <a href=\"https://github.com/pphatdev/leatsophat.me/commit/63a8fd1beb2cbb45d2ef755560028da70713579e\">63a8fd1</a>\n- <a href=\"https://github.com/pphatdev/next-admin/commit/77c237c2296ea1fcb14fd6a2f714f41daa02683a\">77c237c</a>\n- <a href=\"https://github.com/pphatdev/next-admin/commit/e263947205ccf6cdce15079e2dfb888721231495\">e263947</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  }
+]
