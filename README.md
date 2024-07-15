@@ -12,7 +12,7 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 
 ## Favorite Badge 🤍
 <!-- Badge ⭕ -->
-<p align="center">
+<p align="left">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/stars/stars-20000.png" alt="stars-20000" width="64">
 <!-- <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/stars/stars-2000.png" alt="stars-10000" width="64"> -->
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/time-of-commit/evening-commits.png" alt="morning-commits" width="64">
@@ -37,7 +37,7 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 
 ## Daily Commit Stats 🌈
 <!-- stats 📶 -->
-<p align="center">
+<p align="left">
 <img align="" width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=pphatdev&bg_color=ffffff00&color=298f1d&line=1f8f00&point=248f12&area=true&hide_border=true&hide_title=true" />
 
 
@@ -47,7 +47,7 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 
 ## Github Stats 🌈
 <!-- Badge ⭕ -->
-<p align="center">
+<p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=pphatdev&column=5" alt="pphatdev" width="512">
 
 
