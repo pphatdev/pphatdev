@@ -24,6 +24,7 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/my-badges-contributor/my-badges-contributor.png" alt="my-badges-contributor" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/revert-revert-commit/revert-revert-commit.png" alt="revert-revert-commit" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/stars/stars-10000.png" alt="stars-10000" width="64">
+<img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/epic-commit/epic-commit.png" alt="epic-commit.png" width="64">
 
 
 <!-- border ⛔ -->
