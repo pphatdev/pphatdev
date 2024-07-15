@@ -16,8 +16,11 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/stars/stars-20000.png" alt="stars-20000" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/time-of-commit/evening-commits.png" alt="morning-commits" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/cafe-commit/cafe-commit.png" alt="cafe-commit" width="64">
-<img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/favorite-word/favorite-word.png" alt="cafe-commit" width="64">
-<img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/my-badges-contributor/my-badges-contributor.png" alt="cafe-commit" width="64">
+<img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/favorite-word/favorite-word.png" alt="favorite-word" width="64">
+<img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/my-badges-contributor/my-badges-contributor.png" alt="my-badges-contributor" width="64">
+<img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/time-of-commit/sleepy-coder.png" alt="sleepy-coder" width="64">
+<img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/time-of-commit/midnight-commits.png" alt="midnight-commits" width="64">
+<img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/stars/stars-10000.png" alt="stars-10000" width="64">
 
 
 <!-- border ⛔ -->
