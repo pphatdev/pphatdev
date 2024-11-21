@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/pphatdev/pphatdev/main/github-cover.png" alt="pphatdev">
 <img src="https://wakatime.com/badge/user/018bb8be-ff65-4d47-973f-559dde1f70ef.svg" alt="pphatdev">
+<img src="https://user-badge.committers.top/cambodia_public/pphatdev.svg" alt="pphatdev">
 
 
 <!-- <h1 align="center">Hello there 👋</h1>
@@ -10,6 +11,7 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 
 <!-- border ⛔ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 ## Favorite Badge 🤍
 <!-- Badge ⭕ -->
