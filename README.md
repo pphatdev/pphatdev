@@ -1,8 +1,10 @@
 <!-- contributors -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/pphatdev/pphatdev/main/github-cover.png" alt="pphatdev">
-<img src="https://wakatime.com/badge/user/018bb8be-ff65-4d47-973f-559dde1f70ef.svg" alt="pphatdev">
-<img src="https://user-badge.committers.top/cambodia/pphatdev.svg" alt="pphatdev">
+<a href="https://wakatime.com/@pphatdev"><img src="https://wakatime.com/badge/user/018bb8be-ff65-4d47-973f-559dde1f70ef.svg" alt="pphatdev"></a>
+<a href="https://user-badge.committers.top/cambodia_private/pphatdev"><img src="https://user-badge.committers.top/cambodia_private/pphatdev.svg" alt="pphatdev"/></a>
+<!-- <img src="https://user-badge.committers.top/cambodia/pphatdev.svg" alt="pphatdev"> -->
+
 
 
 <!-- <h1 align="center">Hello there 👋</h1>
