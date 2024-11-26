@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/pphatdev/pphatdev/main/github-cover.png" alt="pphatdev">
 <a href="https://wakatime.com/@pphatdev"><img src="https://wakatime.com/badge/user/018bb8be-ff65-4d47-973f-559dde1f70ef.svg" alt="pphatdev"></a>
 <a href="https://user-badge.committers.top/cambodia_private/pphatdev"><img src="https://user-badge.committers.top/cambodia_private/pphatdev.svg" alt="pphatdev"/></a>
+<a href="https://pphatdev.github.io/"><img src="https://img.shields.io/github/stars/pphatdev?style=flat&logo=github&label=Stars" alt="pphatdev"/></a>
 <!-- <img src="https://user-badge.committers.top/cambodia/pphatdev.svg" alt="pphatdev"> -->
 
 
