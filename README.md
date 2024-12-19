@@ -7,9 +7,22 @@
 <!-- <img src="https://user-badge.committers.top/cambodia/pphatdev.svg" alt="pphatdev"> -->
 
 
-
 <!-- <h1 align="center">Hello there 👋</h1>
 I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/UX designer. -->
+
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+
+```txt
+Rust        62 hrs 14 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.83 %
+TeX         20 hrs 34 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.83 %
+Python      15 hrs 52 mins  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.90 %
+Markdown    12 hrs 22 mins  🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.71 %
+Typst       9 hrs 13 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.75 %
+```
+
+<!--END_SECTION:waka-->
 
 
 <!-- border ⛔ -->
@@ -76,7 +89,3 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 <!-- stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&layout=donut-vertical&langs_count=15&bg_color=9ca3af00&hide_border=true&hide_title=true" width="300">
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
