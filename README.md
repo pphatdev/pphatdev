@@ -10,20 +10,6 @@
 <!-- <h1 align="center">Hello there 👋</h1>
 I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/UX designer. -->
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
-
-<!--START_SECTION:waka-->
-
-```txt
-Rust        62 hrs 14 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.83 %
-TeX         20 hrs 34 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.83 %
-Python      15 hrs 52 mins  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.90 %
-Markdown    12 hrs 22 mins  🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.71 %
-Typst       9 hrs 13 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.75 %
-```
-
-<!--END_SECTION:waka-->
-
 
 <!-- border ⛔ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
