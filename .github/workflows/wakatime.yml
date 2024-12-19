@@ -13,6 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
