@@ -18,3 +18,17 @@ jobs:
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
           SHOW_TIME: true
+          REPOSITORY: pphatdev/pphatdev
+          SHOW_TITLE: false
+          SECTION_NAME: waka
+          CODE_LANG: txt
+          LANG_COUNT: 5
+          SHOW_TOTAL: false
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: false
+          TARGET_BRANCH: main  # Not set, update to your default branch
+          TARGET_PATH: README.md  # Not set, update to your readme path
+          COMMITTER_NAME: GitHub Action  # Not set, update if needed
+          COMMITTER_EMAIL: action@github.com  # Not set, update if needed
+          AUTHOR_NAME: GitHub Action  # Not set, update if needed
+          AUTHOR_EMAIL: action@github.com  # Not set, update if needed
