@@ -1,34 +1,43 @@
-name: WakaTime Readme
+name: Waka Readme
 
 on:
-  schedule:
-    - cron: '0 20 * * *'
+  # for manual workflow trigger
   workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 20 * * *"
 
 jobs:
   update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
+        # this action name
+      - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
-          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
-          COMMIT_MESSAGE: Update Wakapi stats
-          BLOCKS: "⬜🟨🟩"
-          TIME_RANGE: last_30_days
-          SHOW_TIME: true
-          REPOSITORY: pphatdev/pphatdev
-          SHOW_TITLE: false
-          SECTION_NAME: waka
-          CODE_LANG: txt
-          LANG_COUNT: 5
-          SHOW_TOTAL: false
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: false
-          TARGET_BRANCH: main  # Not set, update to your default branch
-          TARGET_PATH: README.md  # Not set, update to your readme path
-          COMMITTER_NAME: GitHub Action  # Not set, update if needed
-          COMMITTER_EMAIL: action@github.com  # Not set, update if needed
-          AUTHOR_NAME: GitHub Action  # Not set, update if needed
-          AUTHOR_EMAIL: action@github.com  # Not set, update if needed
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
+          ### content
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          BLOCKS: '⬜🟨🟩' # optional
+          CODE_LANG: rust # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: PPhatDev # optional
+          AUTHOR_EMAIL: leatsophat02@gmail.com # optional
+          # you can populate email-id with secrets instead
