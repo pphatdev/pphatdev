@@ -34,7 +34,7 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 
 
 ## IDEs
-<img src="https://skillicons.dev/icons?i=neovim,vscode"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 ## Programming Languages
 <img src="https://skillicons.dev/icons?i=alpinejs,angular,bash,c,cs,cpp,css,js,perl,py,ts" />
