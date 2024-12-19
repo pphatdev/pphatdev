@@ -15,7 +15,6 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 <!-- border ⛔ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
 ## Favorite Badge 🤍
 <!-- Badge ⭕ -->
 <p align="left">
@@ -32,6 +31,16 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/stars/stars-10000.png" alt="stars-10000" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/epic-commit/epic-commit.png" alt="epic-commit" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/pr-collaboration/pr-collaboration-5.png" alt="pr-collaboration" width="64">
+
+
+## IDEs
+<img src="https://skillicons.dev/icons?i=neovim,vscode"/>
+
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=alpinejs,angular,bash,c,cs,cpp,css,js,perl,py,ts" />
+
+## Preferred tools
+<img src="https://skillicons.dev/icons?i=apple,babel,bitbucket,tailwind,bootstrap,bun,cloudflare,deno,express,figma,firebase,git,github,githubactions,gitlab,gmail,heroku,html,htmx,instagram,jest,jquery,laravel,less,linkedin,linux,md,mysql,netlify,nextjs,nginx,nodejs,notion,npm,nuxtjs,pnpm,postgres,postman,powershell,prisma,pug,react,regex,remix,sass,sqlite,stackoverflow,supabase,solidjs,svelte,svg,threejs,twitter,ubuntu,vercel,vim,vite,vitest,vue,vuetify,webpack,windows,wordpress,xd,yarn" />
 
 
 <!-- border ⛔ -->
