@@ -1,21 +1,26 @@
-name: WakaTime Readme
+name: Update README with WakaTime Stats
 
 on:
   schedule:
-    # - cron: '*/5 * * * *'
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
-          COMMIT_MESSAGE: Update Wakapi stats
-          BLOCKS: "⬜🟨🟩"
-          TIME_RANGE: last_30_days
-          SHOW_TIME: true
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Update README
+      run: |
+        curl -o wakatime-stats.json -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" "https://wakatime.com/api/v1/users/current/stats/last_7_days"
+        python update_readme.py
+    - name: Commit and Push
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m 'Update README with WakaTime stats'
+        git push
