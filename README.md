@@ -1,6 +1,5 @@
 
-![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/679f3f1b00316ca62b73/preview?project=667d35ca0017fb21fc6c)
-
+<img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/679f3f1b00316ca62b73/preview?project=667d35ca0017fb21fc6c" alt="pphatdev">
 <!-- contributors -->
 <p align="center">
 <!-- <img src="https://raw.githubusercontent.com/pphatdev/pphatdev/main/github-cover.png" alt="pphatdev"> -->
