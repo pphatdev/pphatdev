@@ -66,8 +66,17 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 ## Github Stats 🌈
 <!-- Badge ⭕ -->
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=pphatdev&column=5" alt="pphatdev" width="512">
 
+<table border="0">
+<tr>
+<th>
+<img src="https://github-profile-trophy.vercel.app/?username=pphatdev&column=5" alt="pphatdev" width="100%">
+</th>
+<th>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pphatdev" alt="pphatdev" width="100%">
+</th>
+</tr>
+</table>
 
 <!-- border ⛔ -->
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
