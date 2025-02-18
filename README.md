@@ -16,11 +16,10 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 <!-- border ⛔ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## Favorite Badge 🤍
-<!-- Badge ⭕ -->
+<!-- ## Favorite Badge 🤍
 <p align="left">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/stars/stars-20000.png" alt="stars-20000" width="64">
-<!-- <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/stars/stars-2000.png" alt="stars-10000" width="64"> -->
+<img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/stars/stars-2000.png" alt="stars-10000" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/time-of-commit/evening-commits.png" alt="morning-commits" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/time-of-commit/midnight-commits.png" alt="midnight-commits" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/time-of-commit/morning-commits.png" alt="midnight-commits" width="64">
@@ -32,30 +31,38 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/stars/stars-10000.png" alt="stars-10000" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/epic-commit/epic-commit.png" alt="epic-commit" width="64">
 <img src="https://raw.githubusercontent.com/my-badges/my-badges/master/badges/pr-collaboration/pr-collaboration-5.png" alt="pr-collaboration" width="64">
-
+ -->
 
 ## IDEs
+<p align="center">
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
 ## Languages
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,react,postgres,py,c,cs,cpp,babel,md" />
 
 ## Styling 💅
+<p align="center">
 <img src="https://skillicons.dev/icons?i=css,sass,less,tailwind,bootstrap" />
 
 ## Frameworks 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,remix,solidjs,svelte,angular,jquery,laravel" />
 
 ## Runtimes 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,deno,bun" />
 
 
 ## Builders 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=webpack,vite,parcel" />
 
 
 
 ## Preferred tools
+<p align="center">
 <img src="https://skillicons.dev/icons?i=bitbucket,cloudflare,figma,firebase,github,gitlab,gmail,jest,linux,nginx,postman,prisma,stackoverflow,supabase,twitter,ubuntu,windows,xd" />
 
 
