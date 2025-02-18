@@ -41,7 +41,7 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 <img src="https://skillicons.dev/icons?i=alpinejs,angular,bash,c,cs,cpp,css,js,py,ts" />
 
 ## Preferred tools
-<img src="https://skillicons.dev/icons?i=apple,babel,bitbucket,tailwind,bootstrap,bun,cloudflare,deno,express,figma,firebase,git,github,githubactions,gitlab,gmail,heroku,html,htmx,instagram,jest,jquery,laravel,less,linkedin,linux,md,mysql,netlify,nextjs,nginx,nodejs,notion,npm,nuxtjs,pnpm,postgres,postman,powershell,prisma,pug,react,regex,remix,sass,sqlite,stackoverflow,supabase,solidjs,svelte,svg,threejs,twitter,ubuntu,vercel,vim,vite,vitest,vue,vuetify,webpack,windows,wordpress,xd,yarn" />
+<img src="https://skillicons.dev/icons?i=apple,babel,bitbucket,tailwind,bootstrap,bun,cloudflare,deno,express,figma,firebase,git,github,gitlab,gmail,html,htmx,jest,jquery,laravel,less,linux,md,mysql,netlify,nextjs,nginx,nodejs,notion,npm,nuxtjs,postgres,postman,powershell,prisma,pug,react,regex,remix,sass,stackoverflow,supabase,solidjs,svelte,svg,threejs,twitter,ubuntu,vercel,vite,webpack,windows,xd,yarn" />
 
 
 <!-- border ⛔ -->
