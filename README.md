@@ -37,11 +37,26 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 ## IDEs
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
-## Programming Languages
-<img src="https://skillicons.dev/icons?i=alpinejs,angular,bash,c,cs,cpp,css,js,py,ts" />
+## Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,react,postgres,py,c,cs,cpp,babel,md" />
+
+## Styling 💅
+<img src="https://skillicons.dev/icons?i=css,sass,less,tailwind,bootstrap" />
+
+## Frameworks 
+<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,remix,solidjs,svelte,angular,jquery,laravel" />
+
+## Runtimes 
+<img src="https://skillicons.dev/icons?i=nodejs,deno,bun" />
+
+
+## Builders 
+<img src="https://skillicons.dev/icons?i=webpack,vite,parcel" />
+
+
 
 ## Preferred tools
-<img src="https://skillicons.dev/icons?i=apple,babel,bitbucket,tailwind,bootstrap,bun,cloudflare,deno,express,figma,firebase,git,github,gitlab,gmail,html,htmx,jest,jquery,laravel,less,linux,md,mysql,netlify,nextjs,nginx,nodejs,notion,npm,nuxtjs,postgres,postman,powershell,prisma,pug,react,regex,remix,sass,stackoverflow,supabase,solidjs,svelte,svg,threejs,twitter,ubuntu,vercel,vite,webpack,windows,xd,yarn" />
+<img src="https://skillicons.dev/icons?i=bitbucket,cloudflare,figma,firebase,github,gitlab,gmail,jest,linux,nginx,postman,prisma,stackoverflow,supabase,twitter,ubuntu,windows,xd" />
 
 
 <!-- border ⛔ -->
