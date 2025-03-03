@@ -105,6 +105,11 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 
 
 # Language usage 🪲👽
+
+```sh
+https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&layout=donut-vertical&langs_count=40&bg_color=9ca3af00&hide_border=true&hide_title=true
+```
+
 <!-- stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&layout=donut-vertical&langs_count=40&bg_color=9ca3af00&hide_border=true&hide_title=true" width="300">
