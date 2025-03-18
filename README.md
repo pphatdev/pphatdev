@@ -112,4 +112,4 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&layout=d
 
 <!-- stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&layout=donut-vertical&langs_count=30&bg_color=9ca3af00&hide_border=true&hide_title=true" width="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&layout=donut-vertical&langs_count=40&bg_color=9ca3af00&hide_border=true&hide_title=true" width="300">
