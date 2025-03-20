@@ -1,0 +1,39 @@
+name: Daily Workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Specify the Python version
+
+      - name: Install dependencies
+        run: |
+          cp .env.example .env
+          echo "GITHUB_TOKEN=${{ secrets.GH_TOKEN }}" >> .env
+          echo "WAKA_PROJECT=${{ secrets.WAKATIME_API_KEY }}" >> .env
+          pip install -r requirements.txt
+          pip install python-dotenv
+
+      - name: Load environment variables
+        run: |
+          echo "Loading environment variables from .env"
+          set -o allexport; source .env; set +o allexport
+
+      - name: Run main.py
+        run: python src/main.py
