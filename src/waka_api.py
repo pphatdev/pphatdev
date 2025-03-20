@@ -2,7 +2,6 @@ import requests
 from datetime import datetime, timedelta
 from config import WAKA_API, WAKA_TOKEN
 
-
 class WakaTimeAPI:
     def __init__(self):
         self.api_key = WAKA_TOKEN
@@ -57,15 +56,41 @@ class WakaTimeAPI:
                 f"Error fetching coding activity: {response.status_code}"
             )
 
-    def daily_activity(self):
+    def daily_activity(self, date=None):
+        """
+        Fetch daily coding activity
+        Args:
+            date: Optional date string in YYYY-MM-DD format. Defaults to today.
+        """
+        if not date:
+            date = datetime.now().strftime("%Y-%m-%d")
 
-        """Fetch daily coding activity"""
-        endpoint = f"{self.base_url}/users/current/summaries?start=2025-03-18&end=2025-03-19"
-        response = requests.get(endpoint, headers=self.headers)
+        params = {
+            "start": date,
+            "end": date
+        }
 
-        if response.status_code == 200:
+        endpoint = f"{self.base_url}/users/current/summaries"
+        try:
+            response = requests.get(
+                endpoint, headers=self.headers, params=params)
+            response.raise_for_status()
             return response.json()
-        else:
+        except requests.exceptions.HTTPError as e:
+            if response.status_code == 401:
+                raise Exception(
+                    "Authentication failed. Please check your WakaTime API token") from e
             raise Exception(
-                f"Error fetching daily coding activity: {response.status_code}"
-            )
+                f"Error fetching daily coding activity: {response.status_code}") from e
+        except requests.exceptions.RequestException as e:
+            raise Exception(f"Network error occurred: {str(e)}") from e
+
+
+api = WakaTimeAPI()
+try:
+    # Get today's activity
+    today_activity = api.daily_activity()
+    # Or specify a date
+    specific_date = api.daily_activity("2025-03-18")
+except Exception as e:
+    print(f"Error: {e}")
