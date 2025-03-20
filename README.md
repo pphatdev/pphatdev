@@ -10,17 +10,17 @@
 
 <!--START_SECTION:daily-->
 ```diff
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ JavaScript • 37.54%
-🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ Blade Template • 22.87%
-🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ Python • 18.0%
-🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ PHP • 13.49%
-🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ Bash • 4.01%
-🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ Other • 2.52%
-🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ Markdown • 1.17%
-🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ Git Config • 0.21%
-🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ Text • 0.15%
-🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ JSON • 0.04%
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ Git • 0.0%
+██████████░░░░░░░░░░░░░░░ ⁝ 37.54% • JavaScript
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 22.87% • Blade Template
+█████░░░░░░░░░░░░░░░░░░░░ ⁝ 18.0% • Python
+████░░░░░░░░░░░░░░░░░░░░░ ⁝ 13.49% • PHP
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.01% • Bash
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.52% • Other
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.17% • Markdown
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.21% • Git Config
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.15% • Text
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.04% • JSON
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.0% • Git
 ```
 <!--END_SECTION:daily-->
 
@@ -29,8 +29,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## IDEs
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode"/>
+
 
 ## Languages
 
@@ -38,30 +40,37 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,react,postgres,py,c,cs,cpp,babel,md" />
 
 ## Styling 💅
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=css,sass,less,tailwind,bootstrap" />
 
 ## Frameworks
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,remix,solidjs,svelte,angular,jquery,laravel" />
 
+
 ## Runtimes
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,deno,bun" />
 
 
 ## Builders
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=webpack,vite,parcel" />
 
 
 
 ## Preferred tools
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=bitbucket,cloudflare,figma,firebase,github,gitlab,gmail,jest,linux,nginx,postman,prisma,stackoverflow,supabase,twitter,ubuntu,windows,xd" />
 
 
 ## Daily Commit Stats 🌈
+
 <!-- stats 📶 -->
 <p align="left">
 <img align="" width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=pphatdev&bg_color=ffffff00&color=298f1d&line=1f8f00&point=248f12&area=true&hide_border=true&hide_title=true" />
@@ -69,6 +78,7 @@
 
 
 ## Github Stats 🌈
+
 <!-- Badge ⭕ -->
 <p align="left">
 
