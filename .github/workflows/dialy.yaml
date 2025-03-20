@@ -24,10 +24,21 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cp .env.example .env
+          touch .env
+          echo "GITHUB_API_URL"=https://api.github.com
+          echo "GITHUB_USERNAME"=pphatdev
+          echo "GITHUB_REPO"=pphatdev
+          echo "STATUS_UPDATE_INTERVAL"=60
+          echo "WAKA_API"=https://wakatime.com/api/v1
+          echo "WAKA_USERNAME"=pphatdev
+          echo "WAKA_PROJECT"=
+          echo "WAKA_INTERVAL"=60
+          echo "DATA_PATH"=data
           echo "GITHUB_TOKEN=${{ secrets.GH_TOKEN }}" >> .env
           echo "WAKA_PROJECT=${{ secrets.WAKA_KEY }}" >> .env
+
           cat .env
+
           pip install -r requirements.txt
           pip install python-dotenv
 

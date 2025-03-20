@@ -73,13 +73,15 @@ class WakaTimeAPI:
         endpoint = f"{self.base_url}/users/current/summaries"
         try:
             response = requests.get(
-                endpoint, headers=self.headers, params=params)
+                endpoint,
+                headers=self.headers,
+                params=params
+            )
             response.raise_for_status()
             return response.json()
         except requests.exceptions.HTTPError as e:
             if response.status_code == 401:
-                raise Exception(
-                    "Authentication failed. Please check your WakaTime API token") from e
+                raise Exception("Authentication failed. Please check your WakaTime API token") from e
             raise Exception(
                 f"Error fetching daily coding activity: {response.status_code}") from e
         except requests.exceptions.RequestException as e:
