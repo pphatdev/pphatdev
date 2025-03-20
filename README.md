@@ -6,7 +6,7 @@
 <a href="https://pphatdev.github.io/"><img src="https://img.shields.io/github/stars/pphatdev?style=flat&logo=github&label=Stars" alt="pphatdev"/></a> -->
 
 
-## Daily Activity
+## Daily Code Activity 😎
 
 <!--START_SECTION:daily-->
 ```diff

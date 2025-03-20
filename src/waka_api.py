@@ -93,6 +93,6 @@ try:
     # Get today's activity
     today_activity = api.daily_activity()
     # Or specify a date
-    specific_date = api.daily_activity("2025-03-18")
+    # specific_date = api.daily_activity("2025-03-18")
 except Exception as e:
     print(f"Error: {e}")
