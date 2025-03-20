@@ -7,6 +7,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
@@ -20,7 +23,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Specify the Python version
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
@@ -38,3 +41,11 @@ jobs:
 
       - name: Run main.py
         run: python src/main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'pphatdev'
+          git config --global user.email 'pphat.kits@gmail.com'
+          git add .
+          git commit -m "Update generated content" || echo "No changes to commit"
+          git push
