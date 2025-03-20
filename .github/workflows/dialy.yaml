@@ -47,5 +47,5 @@ jobs:
           git config --global user.name 'pphatdev'
           git config --global user.email 'pphat.kits@gmail.com'
           git add .
-          git commit -m "Update generated content" || echo "No changes to commit"
+          git commit -m "Update generated content $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
