@@ -11,6 +11,7 @@ This stats will be updated every 2h.
 
 <!--START_SECTION:daily-->
 ```diff
+█████████████████████████ ⁝ 100.0% • TypeScript
 ```
 <!--END_SECTION:daily-->
 
