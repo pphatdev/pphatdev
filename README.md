@@ -11,10 +11,6 @@ This stats will be updated every 2h.
 
 <!--START_SECTION:daily-->
 ```diff
-███████████████████████░░ ⁝ 90.11% • TypeScript
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.6% • JSON
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.63% • Markdown
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.66% • CSS
 ```
 <!--END_SECTION:daily-->
 
