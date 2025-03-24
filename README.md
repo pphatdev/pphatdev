@@ -1,3 +1,4 @@
+![](https://socialify.git.ci/pphatdev/pphatdev/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Auto)
 
 <!-- <img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/679f3f1b00316ca62b73/preview?project=667d35ca0017fb21fc6c" alt="pphatdev">
 <p align="center">
