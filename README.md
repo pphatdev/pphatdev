@@ -12,6 +12,7 @@ This stats will be updated every 2h.
 
 <!--START_SECTION:daily-->
 ```diff
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0% • Other
 ```
 <!--END_SECTION:daily-->
 
