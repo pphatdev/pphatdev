@@ -12,7 +12,10 @@ This stats will be updated every 2h.
 
 <!--START_SECTION:daily-->
 ```diff
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0% • Other
+█████████████████░░░░░░░░ ⁝ 65.84% • Blade Template
+███████░░░░░░░░░░░░░░░░░░ ⁝ 26.06% • Other
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 6.22% • JavaScript
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.88% • PHP
 ```
 <!--END_SECTION:daily-->
 
