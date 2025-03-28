@@ -12,6 +12,8 @@ This stats will be updated every 2h.
 
 <!--START_SECTION:daily-->
 ```diff
+██████████████░░░░░░░░░░░ ⁝ 55.4% • JavaScript
+████████████░░░░░░░░░░░░░ ⁝ 44.6% • JSON
 ```
 <!--END_SECTION:daily-->
 
