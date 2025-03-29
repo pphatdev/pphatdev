@@ -12,12 +12,6 @@ This stats will be updated every 2h.
 
 <!--START_SECTION:daily-->
 ```diff
-███████████████████░░░░░░ ⁝ 73.26% • JavaScript
-████░░░░░░░░░░░░░░░░░░░░░ ⁝ 13.83% • Other
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 7.8% • JSON
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.18% • TypeScript
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.1% • Markdown
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.82% • Bash
 ```
 <!--END_SECTION:daily-->
 
