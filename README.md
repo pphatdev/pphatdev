@@ -12,8 +12,8 @@ This stats will be updated every 2h.
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████████████████ ⁝ 99.84% • Other
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.16% • TypeScript
+█████████████████████████ ⁝ 99.87% • Other
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.13% • TypeScript
 ```
 <!--END_SECTION:daily-->
 
