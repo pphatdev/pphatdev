@@ -12,56 +12,14 @@ This stats will be updated every 2h.
 
 <!--START_SECTION:daily-->
 ```diff
-██████████████████░░░░░░░ ⁝ 68.54% • Other
-███████░░░░░░░░░░░░░░░░░░ ⁝ 26.34% • PHP
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.07% • CSV
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.06% • JSON
+█████████████████░░░░░░░░ ⁝ 64.76% • PHP
+█████████░░░░░░░░░░░░░░░░ ⁝ 35.24% • Other
 ```
 <!--END_SECTION:daily-->
 
 
 <!-- border ⛔ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## IDEs
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-
-## Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,react,postgres,py,c,cs,cpp,babel,md" />
-
-## Styling 💅
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=css,sass,less,tailwind,bootstrap" />
-
-## Frameworks
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,remix,solidjs,svelte,angular,jquery,laravel" />
-
-
-## Runtimes
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,deno,bun" />
-
-
-## Builders
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=webpack,vite,parcel" />
-
-
-
-## Preferred tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=bitbucket,cloudflare,figma,firebase,github,gitlab,gmail,jest,linux,nginx,postman,prisma,stackoverflow,supabase,twitter,ubuntu,windows,xd" />
 
 
 ## Daily Commit Stats 🌈
