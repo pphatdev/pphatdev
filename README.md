@@ -12,6 +12,8 @@ This stats will be updated every 2h.
 
 <!--START_SECTION:daily-->
 ```diff
+█████████████████░░░░░░░░ ⁝ 64.76% • PHP
+█████████░░░░░░░░░░░░░░░░ ⁝ 35.24% • Other
 ```
 <!--END_SECTION:daily-->
 
