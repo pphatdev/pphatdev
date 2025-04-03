@@ -8,7 +8,7 @@
 
 
 ## Daily Code Activity 😎
-This stats will be updated every 2h. 
+Runs every minute, every 6 hours. 
 
 <!--START_SECTION:daily-->
 ```diff
