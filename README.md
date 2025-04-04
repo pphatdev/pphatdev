@@ -12,6 +12,7 @@ Runs every minute, every 6 hours.
 
 <!--START_SECTION:daily-->
 ```diff
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0% • Other
 ```
 <!--END_SECTION:daily-->
 
