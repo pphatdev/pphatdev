@@ -12,6 +12,8 @@ Runs every minute, every 6 hours.
 
 <!--START_SECTION:daily-->
 ```diff
+████████████████████████░ ⁝ 92.85% • Other
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 7.15% • TypeScript
 ```
 <!--END_SECTION:daily-->
 
