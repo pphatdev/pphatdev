@@ -12,6 +12,10 @@ Runs every minute, every 6 hours.
 
 <!--START_SECTION:daily-->
 ```diff
+███████████░░░░░░░░░░░░░░ ⁝ 43.78% • Markdown
+████████░░░░░░░░░░░░░░░░░ ⁝ 28.28% • CMake
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 23.56% • C++
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.37% • Other
 ```
 <!--END_SECTION:daily-->
 
