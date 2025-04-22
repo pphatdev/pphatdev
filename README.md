@@ -12,6 +12,11 @@ Runs every minute, every 6 hours.
 
 <!--START_SECTION:daily-->
 ```diff
+██████████░░░░░░░░░░░░░░░ ⁝ 38.04% • Blade Template
+██████████░░░░░░░░░░░░░░░ ⁝ 37.52% • JavaScript
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 21.85% • PHP
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.22% • CSS
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.37% • Bash
 ```
 <!--END_SECTION:daily-->
 
