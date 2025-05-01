@@ -12,7 +12,12 @@ Runs every minute, every 6 hours.
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████████████████ ⁝ 100.0% • TypeScript
+█████████████████████░░░░ ⁝ 81.43% • TypeScript
+████░░░░░░░░░░░░░░░░░░░░░ ⁝ 13.25% • Blade Template
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.28% • Bash
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.88% • PHP
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.12% • JavaScript
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.04% • Markdown
 ```
 <!--END_SECTION:daily-->
 
