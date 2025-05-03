@@ -12,8 +12,9 @@ Runs every minute, every 6 hours.
 
 <!--START_SECTION:daily-->
 ```diff
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0% • TypeScript
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0% • Bash
+█████████████████████████ ⁝ 99.79% • Bash
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.21% • Other
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.0% • TypeScript
 ```
 <!--END_SECTION:daily-->
 
