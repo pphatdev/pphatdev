@@ -15,6 +15,7 @@ Runs every minute, every 6 hours.
 
 <!--START_SECTION:daily-->
 ```diff
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0% • Blade Template
 ```
 <!--END_SECTION:daily-->
 
