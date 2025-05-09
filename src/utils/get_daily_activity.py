@@ -5,9 +5,12 @@ from utils.helpers import generate_progress_bar
 
 wakatimes = WakaTimeAPI()
 
+from datetime import datetime, timedelta
+
 def get_daily_activity():
     try:
-        usr_stats = wakatimes.daily_activity()
+        yesterday = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+        usr_stats = wakatimes.daily_activity(date=yesterday)
         data = usr_stats['data']
 
         # Export Data to JSON file
