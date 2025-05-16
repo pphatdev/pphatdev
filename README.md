@@ -10,6 +10,10 @@
 <a href="https://pphatdev.github.io/"><img src="https://img.shields.io/github/stars/pphatdev?style=flat&logo=github&label=Stars" alt="pphatdev"/></a> -->
 
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pphatdev&theme=apprentice" width="100%">
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pphatdev&theme=apprentice" width="40%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pphatdev&theme=apprentice" width="40%"> -->
+
 ## Latest Activity 😎
 
 <!--START_SECTION:daily-->
