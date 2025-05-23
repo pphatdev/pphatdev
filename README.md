@@ -65,3 +65,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&layout=donut-vertical&langs_count=50&bg_color=9ca3af00&hide_border=true&hide_title=true" width="300">
 <br>
 <img src="https://user-badge.committers.top/cambodia_private/pphatdev.svg">
+<img src="https://wakatime.com/badge/user/018bb8be-ff65-4d47-973f-559dde1f70ef.svg">
