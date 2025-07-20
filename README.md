@@ -12,7 +12,7 @@
 
 ---
 
-## 🍳 Cooking with Code
+## 🍳 Cookied
 
 Stay updated with my daily coding journey!  
 <details>
