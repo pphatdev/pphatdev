@@ -20,9 +20,9 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
-███████████░░░░░░░░░░░░░░ ⁝ 42.31% • PHP
-█████████░░░░░░░░░░░░░░░░ ⁝ 35.24% • JavaScript
-██████░░░░░░░░░░░░░░░░░░░ ⁝ 22.45% • Blade Template
+█████████████████████████ ⁝ 96.31% • TypeScript
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.99% • JSON
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.7% • TOML
 ```
 <!--END_SECTION:daily-->
 </details>
