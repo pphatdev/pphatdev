@@ -62,8 +62,6 @@ Stay updated with my daily coding journey!
 
 ## 🌍 Let's Connect
 
-- 🏆 [WakaTime Cambodia Leaderboard](https://wakatime.com/leaders?country_code=KH)
-- 💼 [My GitHub Profile](https://github.com/pphatdev)
 - 🚀 Always learning, always shipping!
 
 ---
