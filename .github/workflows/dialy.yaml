@@ -1,8 +1,8 @@
 name: Daily Workflow
 
 on:
-  # schedule:
-  #   - cron: '* */6 * * *'
+  schedule:
+    - cron: '* */6 * * *'
   push:
     branches:
       - main
@@ -49,5 +49,6 @@ jobs:
           git add .
           git commit -m "Runs every 5 minutes, between 08:00 and 12:59. Actions schedules run at most every 5 minutes using UTC time. $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
+
 
 
