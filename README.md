@@ -20,8 +20,11 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
-████████████████████████░ ⁝ 95.39% • TypeScript
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.61% • Other
+███████████░░░░░░░░░░░░░░ ⁝ 42.38% • JavaScript
+███████░░░░░░░░░░░░░░░░░░ ⁝ 27.09% • Other
+███████░░░░░░░░░░░░░░░░░░ ⁝ 24.61% • Blade Template
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.06% • TypeScript
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.86% • PHP
 ```
 <!--END_SECTION:daily-->
 </details>
