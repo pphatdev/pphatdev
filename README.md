@@ -20,9 +20,6 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
-█████████████████████████ ⁝ 98.36% • TypeScript
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.62% • Other
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.02% • Git
 ```
 <!--END_SECTION:daily-->
 </details>
