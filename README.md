@@ -20,6 +20,10 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
+█████████████░░░░░░░░░░░░ ⁝ 49.91% • JavaScript
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 23.04% • PHP
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 22.88% • Blade Template
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.17% • CSS
 ```
 <!--END_SECTION:daily-->
 </details>
