@@ -20,9 +20,6 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
-██████████████████░░░░░░░ ⁝ 69.7% • PHP
-███████░░░░░░░░░░░░░░░░░░ ⁝ 27.82% • JavaScript
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.48% • Bash
 ```
 <!--END_SECTION:daily-->
 </details>
