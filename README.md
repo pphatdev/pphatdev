@@ -6,7 +6,7 @@
   <img src="https://count.getloli.com/get/@pphatdev?theme=gelbooru" alt="pphatdev" width="550px" align="center">
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pphatdev&border_radius=20&short_numbers=true&fire=EB8D32" alt="pphatdev" width="550px" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pphatdev&border_radius=20&short_numbers=true&fire=EB8D31" alt="pphatdev" width="550px" align="center">
 </p>
 
 
@@ -45,7 +45,7 @@ Stay updated with my daily coding journey!
 ## 🪲👽 Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&layout=donut-vertical&langs_count=10&bg_color=9ca3af00&hide_border=true&hide_title=true" width="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&layout=donut-vertical&langs_count=20&bg_color=9ca3af00&hide_border=true&hide_title=true" width="300">
   <br>
   <img src="https://user-badge.committers.top/cambodia_private/pphatdev.svg">
   <a href="https://wakatime.com/leaders?country_code=KH"><img src="https://wakatime.com/badge/user/018bb8be-ff65-4d47-973f-559dde1f70ef.svg"></a>
