@@ -20,10 +20,6 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
-███████████████████░░░░░░ ⁝ 72.99% • Java
-█████░░░░░░░░░░░░░░░░░░░░ ⁝ 17.04% • Markdown
-███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 8.0% • PHP
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.97% • Text
 ```
 <!--END_SECTION:daily-->
 </details>
