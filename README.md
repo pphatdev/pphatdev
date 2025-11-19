@@ -20,9 +20,9 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
-██████████████████████░░░ ⁝ 84.04% • Other
-████░░░░░░░░░░░░░░░░░░░░░ ⁝ 15.96% • PHP
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.0% • TypeScript
+████████████████████████░ ⁝ 93.26% • Java
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.29% • Markdown
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.45% • Other
 ```
 <!--END_SECTION:daily-->
 </details>
