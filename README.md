@@ -20,10 +20,6 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
-████████████████████░░░░░ ⁝ 76.69% • TypeScript
-█████░░░░░░░░░░░░░░░░░░░░ ⁝ 19.86% • C#
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.39% • JSON
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.06% • XML
 ```
 <!--END_SECTION:daily-->
 </details>
