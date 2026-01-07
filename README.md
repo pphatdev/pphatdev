@@ -20,6 +20,7 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0% • XML
 ```
 <!--END_SECTION:daily-->
 </details>
