@@ -20,9 +20,6 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
-██████████████████████░░░ ⁝ 86.94% • C#
-████░░░░░░░░░░░░░░░░░░░░░ ⁝ 12.91% • SQL
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.15% • XML
 ```
 <!--END_SECTION:daily-->
 </details>
