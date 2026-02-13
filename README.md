@@ -20,6 +20,12 @@ Stay updated with my daily coding journey!
 
   <!--START_SECTION:daily-->
 ```diff
+██████████████████░░░░░░░ ⁝ 70.99% • EJS
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 23.66% • TypeScript
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.91% • TSConfig
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.57% • JavaScript
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.04% • CSS
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.83% • JSON
 ```
 <!--END_SECTION:daily-->
 </details>
