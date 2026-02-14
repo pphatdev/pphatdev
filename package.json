@@ -1,0 +1,36 @@
+{
+  "name": "github-stats",
+  "version": "2.0.0",
+  "description": "Generate dynamic GitHub stats cards for your README",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node --watch --no-warnings=ExperimentalWarning --loader ts-node/esm ./src/index.ts",
+    "start": "node dist/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "github",
+    "stats",
+    "readme",
+    "svg",
+    "card"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.10.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
