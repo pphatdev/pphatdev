@@ -10,8 +10,6 @@ Hi, I'm Sophat LEAT (PPhatDev)
 
 ## 🍳 Stay updated with my daily coding journey!
 
-Stay updated with my daily coding journey!
-
 <!--START_SECTION:daily-->
 ```diff
 ███████████████░░░░░░░░░░ ⁝ 58.79% • TypeScript
