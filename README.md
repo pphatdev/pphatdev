@@ -5,6 +5,10 @@ Hi, I'm Sophat LEAT (PPhatDev)
 
 <img align='middle' src="https://stats.sophat.top/stats?username=pphatdev&avatar_mode=radar&data_border_style=frame&data_border_frame=out&theme=default&hide_title=false" style="width:100%"/>
 
+## 🌟 The most used languages on GitHub
+
+<img align='middle' src="https://stats.pphat.top/languages?username=pphatdev&type=card&variant=bubbles&show_info=true" style="width:100%"/>
+
 
 ---
 
