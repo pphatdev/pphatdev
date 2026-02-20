@@ -4,6 +4,7 @@ Hi, I'm Sophat LEAT (PPhatDev)
 </h1>
 
 <img align='middle' src="https://stats.sophat.top/stats?username=pphatdev&avatar_mode=radar&data_border_style=frame&data_border_frame=out&theme=default&hide_title=false" style="width:100%"/>
+<img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&show_title=false&show_total_contribution=false&animate=pulse&show_background=false&size=small" width="100%"/>
 
 ## 🌟 The most used languages on GitHub
 
