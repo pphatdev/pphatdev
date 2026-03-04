@@ -3,7 +3,7 @@ Hi Mate! Welcome
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25">
 </h1>
 
-<img align='middle' src="https://stats.sophat.top/stats?username=pphatdev&avatar_mode=radar&data_border_style=frame&data_border_frame=out&theme=default&hide_title=false" style="width:100%"/>
+<img align='middle' src="https://stats.sophat.top/stats?username=pphatdev&avatar_mode=radar&data_border_style=frame&data_border_frame=out&hide_title=false" style="width:100%"/>
 
 <div align="center" style="margin-top: 20px;">
 
