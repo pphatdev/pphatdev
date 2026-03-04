@@ -14,8 +14,8 @@
 # Hi, Welcome back <img src="https://github.com/user-attachments/assets/4eb41909-6368-46f2-869b-4281fc134615" width="25">
 *កម្មករសរសេរកូដ* 😂 *(Vibe Coder • Vibe Designer)*
 
-<p align="left">I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source Vibe Coder with a huge love for Node.js, Next.js, Nuxt.js, PostgreSQL, REST API and Data Visualization.
-</p>
+I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *Vibe (Coder/Designer)* with a huge love for Node.js, Next.js, Nuxt.js, PostgreSQL, REST API and Data Visualization.
+
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🧑‍💻 Passionate about coding and open source projects
