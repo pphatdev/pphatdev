@@ -1,8 +1,3 @@
-<h1 align="center">
-Hi Mate! Welcome
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25">
-</h1>
-
 <img align='middle' src="https://stats.sophat.top/stats?username=pphatdev&avatar_mode=radar&data_border_style=frame&data_border_frame=out&hide_title=false" style="width:100%"/>
 
 <div align="center" style="margin-top: 20px;">
@@ -15,11 +10,9 @@ Hi Mate! Welcome
 ![Portfolio](https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=ocean&valueColor=ffffff)
 </div>
 
-
 <img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small" width="100%"/>
 
-
-## 😧 What did I code yesterday?
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25" style="float: right;"> Yesterday </h1>
 
 <!--START_SECTION:daily-->
 ```diff
