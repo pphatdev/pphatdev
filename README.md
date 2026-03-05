@@ -28,7 +28,7 @@
 </div>
 
 
-# Hi, Welcome back <img src="https://github.com/user-attachments/assets/4eb41909-6368-46f2-869b-4281fc134615" width="25">
+# Hi, Welcome back <img src="https://github.com/user-attachments/assets/4eb41909-6368-46f2-869b-4281fc134615" width="25"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25"> 
 *កម្មករសរសេរកូដ* 😂 *(Vibe Coder • Vibe Designer)*
 
 I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *Vibe (Coder/Designer)* with a huge love for Node.js, Next.js, Nuxt.js, PostgreSQL, REST API and Data Visualization.
@@ -42,14 +42,9 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 
 
 <div align="center">
-  
-# 🛸 Coding Day  
-
-
-
+ 
 <img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="100%"/>
 
-<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25"> Yesterday </h1>
 <div align="left">
   
 
@@ -70,9 +65,6 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 
 </div>
 
-# 🚧 Most Languages used
-
-</div>
 <img align='middle' src="https://stats.pphat.top/languages?username=pphatdev&type=card&variant=bubbles&show_info=true" style="width:100%"/>
 
 <div align="center">
