@@ -1,4 +1,4 @@
-<img align='middle' src="https://stats.sophat.top/stats?username=pphatdev&avatar_mode=radar&data_border_style=frame&data_border_frame=out&hide_title=false" style="width:100%"/>
+<img align='middle' src="https://stats.pphat.top/stats?username=pphatdev&avatar_mode=radar&theme=defualt" style="width:100%"/>
 
 <div align="center" style="margin-top: 20px;">
 
