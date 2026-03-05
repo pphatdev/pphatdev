@@ -40,9 +40,6 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 ![icon-shadcnui](https://stats.pphat.top/assets/icons/shadcnui.svg)
 ![icon-postgresql](https://stats.pphat.top/assets/icons/postgresql.svg)
 ![icon-mysql](https://stats.pphat.top/assets/icons/mysql.svg)
-![icon-dotnet](https://stats.pphat.top/assets/icons/dotnet.svg)
-![icon-composer](https://stats.pphat.top/assets/icons/composer.svg)
-![icon-git](https://stats.pphat.top/assets/icons/git.svg)
 
 <br>
 
