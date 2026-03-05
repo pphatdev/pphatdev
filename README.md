@@ -51,5 +51,5 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 
 <div align="center">
   
-Interesting GitHub Stats Graph? [Check Here🚀](https://github.com/pphatdev/github-stats)
+Interesting GitHub Stats Graph? [<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" height="20"> ](https://github.com/pphatdev/github-stats)
 </div>
