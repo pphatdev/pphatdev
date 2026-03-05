@@ -3,11 +3,11 @@
 <div align="center" style="margin-top: 20px;">
 
 ![Portfolio](https://stats.pphat.top/badge/visitors?username=pphatdev&theme=ocean)
-![Portfolio](https://stats.pphat.top/badge/repositories?username=pphatdev&theme=ocean)
-![Portfolio](https://stats.pphat.top/badge/languages?username=pphatdev&theme=ocean)
-![Portfolio](https://stats.pphat.top/badge/followers?username=pphatdev&theme=ocean)
-![Portfolio](https://stats.pphat.top/badge/total-stars?username=pphatdev&theme=ocean)
-![Portfolio](https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=ocean)
+![Portfolio](https://stats.pphat.top/badge/repositories?username=pphatdev&theme=neon)
+![Portfolio](https://stats.pphat.top/badge/languages?username=pphatdev&theme=inferno)
+![Portfolio](https://stats.pphat.top/badge/followers?username=pphatdev&theme=matrix)
+![Portfolio](https://stats.pphat.top/badge/total-stars?username=pphatdev&theme=solar)
+![Portfolio](https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy)
 </div>
 
 
