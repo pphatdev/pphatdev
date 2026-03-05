@@ -23,6 +23,29 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 - 💖 Explorer of new technologies and frameworks
 - 💻 Visit my [Portfolio](https://pphat.top) for more details about me.
 
+# 🪺 My Tech Stack 
+
+
+![icon-tailwindcss](https://stats.pphat.top/assets/icons/tailwindcss.svg)
+![icon-javascript](https://stats.pphat.top/assets/icons/javascript.svg)
+![icon-typescript](https://stats.pphat.top/assets/icons/typescript.svg)
+![icon-vuedotjs](https://stats.pphat.top/assets/icons/vuedotjs.svg)
+![icon-react](https://stats.pphat.top/assets/icons/react.svg)
+![icon-nuxt](https://stats.pphat.top/assets/icons/nuxt.svg)
+![icon-nextjs](https://stats.pphat.top/assets/icons/nextjs.svg)
+![icon-deno](https://stats.pphat.top/assets/icons/deno.svg)
+![icon-nodedotjs](https://stats.pphat.top/assets/icons/nodedotjs.svg)
+![icon-nginx](https://stats.pphat.top/assets/icons/nginx.svg)
+![icon-laravel](https://stats.pphat.top/assets/icons/laravel.svg)
+![icon-shadcnui](https://stats.pphat.top/assets/icons/shadcnui.svg)
+![icon-postgresql](https://stats.pphat.top/assets/icons/postgresql.svg)
+![icon-mysql](https://stats.pphat.top/assets/icons/mysql.svg)
+![icon-dotnet](https://stats.pphat.top/assets/icons/dotnet.svg)
+![icon-composer](https://stats.pphat.top/assets/icons/composer.svg)
+![icon-git](https://stats.pphat.top/assets/icons/git.svg)
+
+<br>
+
 # 🛸 Coding Day
 
 <img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="100%"/>
