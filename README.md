@@ -48,3 +48,8 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 # 🚧 Most Languages used
 
 <img align='middle' src="https://stats.pphat.top/languages?username=pphatdev&type=card&variant=bubbles&show_info=true" style="width:100%"/>
+
+<div align="center">
+  
+Interesting GitHub Stats Graph? [Check Here🚀](https://github.com/pphatdev/github-stats)
+</div>
