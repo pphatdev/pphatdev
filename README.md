@@ -1,4 +1,4 @@
-<img align='middle' src="https://stats.pphat.top/stats?username=pphatdev&avatar_mode=radar&theme=defualt" style="width:100%"/>
+<img align='middle' src="https://stats.pphat.top/stats?username=pphatdev&avatar_mode=radar&theme=defualt&data_border_style=frame" style="width:100%"/>
 
 <div align="center" style="margin-top: 20px;">
 
@@ -9,20 +9,20 @@
 ![Portfolio](https://stats.pphat.top/badge/total-stars?username=pphatdev&theme=solar)
 ![Portfolio](https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy)
 
-![icon-tailwindcss](https://stats.pphat.top/assets/icons/tailwindcss.svg)
-![icon-javascript](https://stats.pphat.top/assets/icons/javascript.svg)
-![icon-typescript](https://stats.pphat.top/assets/icons/typescript.svg)
-![icon-vuedotjs](https://stats.pphat.top/assets/icons/vuedotjs.svg)
-![icon-react](https://stats.pphat.top/assets/icons/react.svg)
-![icon-nuxt](https://stats.pphat.top/assets/icons/nuxt.svg)
-![icon-nextjs](https://stats.pphat.top/assets/icons/nextjs.svg)
-![icon-deno](https://stats.pphat.top/assets/icons/deno.svg)
-![icon-nodedotjs](https://stats.pphat.top/assets/icons/nodedotjs.svg)
-![icon-nginx](https://stats.pphat.top/assets/icons/nginx.svg)
-![icon-laravel](https://stats.pphat.top/assets/icons/laravel.svg)
-![icon-shadcnui](https://stats.pphat.top/assets/icons/shadcnui.svg)
-![icon-postgresql](https://stats.pphat.top/assets/icons/postgresql.svg)
-![icon-mysql](https://stats.pphat.top/assets/icons/mysql.svg)
+![icon-tailwindcss](https://stats.pphat.top/icons/tailwindcss)
+![icon-javascript](https://stats.pphat.top/icons/javascript)
+![icon-typescript](https://stats.pphat.top/icons/typescript)
+![icon-vuedotjs](https://stats.pphat.top/icons/vuedotjs)
+![icon-react](https://stats.pphat.top/icons/react)
+![icon-nuxt](https://stats.pphat.top/icons/nuxt)
+![icon-nextjs](https://stats.pphat.top/icons/nextjs)
+![icon-deno](https://stats.pphat.top/icons/deno)
+![icon-nodedotjs](https://stats.pphat.top/icons/nodedotjs)
+![icon-nginx](https://stats.pphat.top/icons/nginx)
+![icon-laravel](https://stats.pphat.top/icons/laravel)
+![icon-shadcnui](https://stats.pphat.top/icons/shadcnui)
+![icon-postgresql](https://stats.pphat.top/icons/postgresql)
+![icon-mysql](https://stats.pphat.top/icons/mysql)
 
 <br>
 </div>
