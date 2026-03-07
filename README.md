@@ -25,7 +25,8 @@
 ![icon-csharp](https://stats.pphat.top/icons/csharp?color=%2300AACC&glow=true&glowColor=%2300AACC)
 
 
-<br>
+<img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="700px"/>
+
 </div>
 
 
@@ -42,21 +43,17 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 - 💻 Visit my [Portfolio](https://pphat.top) for more details about me.
 
 
-<div align="center">
- 
-<img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="100%"/>
-
 <div align="left">
   
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████░░░░░░░░░░░░ ⁝ 51.95% • TypeScript
-█████░░░░░░░░░░░░░░░░░░░░ ⁝ 18.81% • Markdown
-███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 9.17% • Image (svg)
-███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 8.52% • JavaScript
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.45% • Other
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.68% • JSON
+██████████████░░░░░░░░░░░ ⁝ 52.01% • TypeScript
+█████░░░░░░░░░░░░░░░░░░░░ ⁝ 18.64% • Markdown
+███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 9.21% • Image (svg)
+███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 8.55% • JavaScript
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.47% • Other
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.69% • JSON
 █░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.84% • TSConfig
 █░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.59% • CSS
 ```
@@ -64,9 +61,10 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 
 </div>
 
-<img align='middle' src="https://stats.pphat.top/languages?username=pphatdev&type=card&variant=bubbles&show_info=true" style="width:100%"/>
+---
+
+<br>
 
 <div align="center">
-  
-Interesting GitHub Stats Graph? [<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" height="20"> ](https://github.com/pphatdev/github-stats)
-</div>
+ 
+If you interesting My GitHub Stats Graph [Check My Project ](https://github.com/pphatdev/github-stats) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" height="20">
