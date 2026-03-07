@@ -9,20 +9,21 @@
 ![Portfolio](https://stats.pphat.top/badge/total-stars?username=pphatdev&theme=solar)
 ![Portfolio](https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy)
 
-![icon-tailwindcss](https://stats.pphat.top/icons/tailwindcss)
-![icon-javascript](https://stats.pphat.top/icons/javascript)
-![icon-typescript](https://stats.pphat.top/icons/typescript)
-![icon-vuedotjs](https://stats.pphat.top/icons/vuedotjs)
-![icon-react](https://stats.pphat.top/icons/react)
-![icon-nuxt](https://stats.pphat.top/icons/nuxt)
-![icon-nextjs](https://stats.pphat.top/icons/nextjs)
-![icon-deno](https://stats.pphat.top/icons/deno)
-![icon-nodedotjs](https://stats.pphat.top/icons/nodedotjs)
-![icon-nginx](https://stats.pphat.top/icons/nginx)
-![icon-laravel](https://stats.pphat.top/icons/laravel)
-![icon-shadcnui](https://stats.pphat.top/icons/shadcnui)
-![icon-postgresql](https://stats.pphat.top/icons/postgresql)
-![icon-mysql](https://stats.pphat.top/icons/mysql)
+
+<br>
+
+![icon-typescript](https://stats.pphat.top/icons/typescript?color=%230088CC&glow=true&glowColor=%230088CC)
+![icon-javascript](https://stats.pphat.top/icons/javascript?color=%23FFDE57&glow=true&glowColor=%23FFDE57)
+![icon-nodedotjs](https://stats.pphat.top/icons/nodedotjs?color=%23339933&glow=true&glowColor=%23339933)
+![icon-nextjs](https://stats.pphat.top/icons/nextjs?color=white&glow=true&glowColor=white)
+![icon-shadcnui](https://stats.pphat.top/icons/shadcnui?color=white&glow=true&glowColor=red)
+![icon-nuxt](https://stats.pphat.top/icons/nuxt?color=%2300C58E&glow=true&glowColor=%2300C58E)
+![icon-postgresql](https://stats.pphat.top/icons/postgresql?color=%230088CC&glow=true&glowColor=%230088CC)
+![icon-drizzle](https://stats.pphat.top/icons/drizzle?color=%238EED14&glow=true&glowColor=%23FF00FF)
+![icon-tailwindcss](https://stats.pphat.top/icons/tailwindcss?color=%2338B2AC&glow=true&glowColor=%2338B2AC)
+![icon-laravel](https://stats.pphat.top/icons/laravel?color=%23FF2D20&glow=true&glowColor=%23FF2D20)
+![icon-csharp](https://stats.pphat.top/icons/csharp?color=%2300AACC&glow=true&glowColor=%2300AACC)
+
 
 <br>
 </div>
