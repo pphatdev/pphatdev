@@ -14,14 +14,14 @@
 <img src="https://stats.pphat.top/icons/typescript?color=%230088CC&glow=true&glowColor=%230088CC" alt="icon of typescript"/>
 <img src="https://stats.pphat.top/icons/javascript?color=%23FFDE57&glow=true&glowColor=%23FFDE57" alt="icon of javascript"/>
 <img src="https://stats.pphat.top/icons/nodedotjs?color=%23339933&glow=true&glowColor=%23339933" alt="icon of nodedotjs"/>
-<img src="https://stats.pphat.top/icons/nextjs?color=green&glow=true&glowColor=white" alt="icon of nextjs"/>
-<img src="https://stats.pphat.top/icons/shadcnui?color=green&glow=true&glowColor=red" alt="icon of shadcnui"/>
+<img src="https://stats.pphat.top/icons/nextjs?color=green" alt="icon of nextjs"/>
+<img src="https://stats.pphat.top/icons/shadcnui?color=green" alt="icon of shadcnui"/>
 <img src="https://stats.pphat.top/icons/nuxt?color=%2300C58E&glow=true&glowColor=%2300C58E" alt="icon of nuxt"/>
 <img src="https://stats.pphat.top/icons/postgresql?color=%230088CC&glow=true&glowColor=%230088CC" alt="icon of postgresql"/>
 <img src="https://stats.pphat.top/icons/drizzle?color=%238EED14&glow=true&glowColor=%23FF00FF" alt="icon of drizzle"/>
 <img src="https://stats.pphat.top/icons/tailwindcss?color=%2338B2AC&glow=true&glowColor=%2338B2AC" alt="icon of tailwindcss"/>
 <img src="https://stats.pphat.top/icons/laravel?color=%23FF2D20&glow=true&glowColor=%23FF2D20" alt="icon of laravel"/>
-<img src="https://stats.pphat.top/icons/csharp?color=%2300AACC&glow=true&glowColor=%2300AACC" alt="icon of csharp"/>
+<img src="https://stats.pphat.top/icons/csharp?color=%2300AACC" alt="icon of csharp"/>
 
 <img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="700px" alt="GitHub Stats"/>
 
@@ -42,7 +42,7 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 <div align="left">
 
 <!--START_SECTION:daily-->
-```diff
+```ruby
 █████░░░░░░░░░░░░░░░░░░░░ ⁝ 19.77% • TypeScript
 █████░░░░░░░░░░░░░░░░░░░░ ⁝ 18.44% • JavaScript
 ████░░░░░░░░░░░░░░░░░░░░░ ⁝ 14.04% • PHP
