@@ -42,7 +42,7 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 <div align="left">
 
 <!--START_SECTION:daily-->
-```ruby
+```diff
 █████░░░░░░░░░░░░░░░░░░░░ ⁝ 19.77% • TypeScript
 █████░░░░░░░░░░░░░░░░░░░░ ⁝ 18.44% • JavaScript
 ████░░░░░░░░░░░░░░░░░░░░░ ⁝ 14.04% • PHP
