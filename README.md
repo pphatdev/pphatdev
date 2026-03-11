@@ -10,18 +10,19 @@
 <img src="https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy" alt="PPhat Profile Total Contributors"/>
 
 <br>
+<br>
 
-<img src="https://stats.pphat.top/icons/typescript?color=%230088CC&glow=true&glowColor=%230088CC" alt="icon of typescript"/>
-<img src="https://stats.pphat.top/icons/javascript?color=%23FFDE57&glow=true&glowColor=%23FFDE57" alt="icon of javascript"/>
-<img src="https://stats.pphat.top/icons/nodedotjs?color=%23339933&glow=true&glowColor=%23339933" alt="icon of nodedotjs"/>
-<img src="https://stats.pphat.top/icons/nextjs?color=green" alt="icon of nextjs"/>
-<img src="https://stats.pphat.top/icons/shadcnui?color=green" alt="icon of shadcnui"/>
-<img src="https://stats.pphat.top/icons/nuxt?color=%2300C58E&glow=true&glowColor=%2300C58E" alt="icon of nuxt"/>
-<img src="https://stats.pphat.top/icons/postgresql?color=%230088CC&glow=true&glowColor=%230088CC" alt="icon of postgresql"/>
-<img src="https://stats.pphat.top/icons/drizzle?color=%238EED14&glow=true&glowColor=%23FF00FF" alt="icon of drizzle"/>
-<img src="https://stats.pphat.top/icons/tailwindcss?color=%2338B2AC&glow=true&glowColor=%2338B2AC" alt="icon of tailwindcss"/>
-<img src="https://stats.pphat.top/icons/laravel?color=%23FF2D20&glow=true&glowColor=%23FF2D20" alt="icon of laravel"/>
-<img src="https://stats.pphat.top/icons/csharp?color=%2300AACC" alt="icon of csharp"/>
+<img src="https://stats.pphat.top/icons/typescript?color=green&glow=true" alt="icon of typescript"/>
+<img src="https://stats.pphat.top/icons/javascript?color=green&glow=true" alt="icon of javascript"/>
+<img src="https://stats.pphat.top/icons/nodedotjs?color=green&glow=true" alt="icon of nodedotjs"/>
+<img src="https://stats.pphat.top/icons/nextjs?color=green&glow=true" alt="icon of nextjs"/>
+<img src="https://stats.pphat.top/icons/shadcnui?color=green&glow=true" alt="icon of shadcnui"/>
+<img src="https://stats.pphat.top/icons/nuxt?color=green&glow=true" alt="icon of nuxt"/>
+<img src="https://stats.pphat.top/icons/postgresql?color=green&glow=true" alt="icon of postgresql"/>
+<img src="https://stats.pphat.top/icons/drizzle?color=green&glow=true" alt="icon of drizzle"/>
+<img src="https://stats.pphat.top/icons/tailwindcss?color=green&glow=true" alt="icon of tailwindcss"/>
+<img src="https://stats.pphat.top/icons/laravel?color=green&glow=true" alt="icon of laravel"/>
+<img src="https://stats.pphat.top/icons/csharp?color=green&glow=true" alt="icon of csharp"/>
 
 <img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="700px" alt="GitHub Stats"/>
 
