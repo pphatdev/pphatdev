@@ -22,7 +22,7 @@
 <img src="https://stats.pphat.top/icons/drizzle?color=green&glow=true" alt="icon of drizzle"/>
 <img src="https://stats.pphat.top/icons/tailwindcss?color=green&glow=true" alt="icon of tailwindcss"/>
 <img src="https://stats.pphat.top/icons/laravel?color=green&glow=true" alt="icon of laravel"/>
-<img src="https://stats.pphat.top/icons/csharp?color=green&glow=true" alt="icon of csharp"/>
+<img src="https://stats.pphat.top/icons/csharp?color=green&foreground=white" alt="icon of csharp"/>
 
 <img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="700px" alt="GitHub Stats"/>
 
