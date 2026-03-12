@@ -1,8 +1,8 @@
-name: Daily Workflow
+name: Daily README Update
 
 on:
   schedule:
-    - cron: '* */6 * * *'
+    - cron: "0 */6 * * *"
   push:
     branches:
       - main
@@ -25,45 +25,44 @@ permissions:
   contents: write
 
 jobs:
-  run-script:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: main
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.12"
+          cache: "pip"
 
-      - name: Install dependencies
+      - name: Install dependencies and create .env
+        env:
+          WAKA_TOKEN: ${{ secrets.WAKA_KEY }}
+          BAR_STYLE_INPUT: ${{ github.event.inputs.bar_style }}
+          BAR_STYLE_DEFAULT: ${{ vars.BAR_STYLE }}
         run: |
           cp .env.example .env
-          printf "\nGITHUB_TOKEN=%s\n" "${{ secrets.GH_TOKEN }}" >> .env
-          printf "WAKA_TOKEN=%s\n" "${{ secrets.WAKA_KEY }}" >> .env
-          printf "BAR_STYLE=%s\n" "${{ github.event.inputs.bar_style || vars.BAR_STYLE || 'block' }}" >> .env
+          printf "\nGITHUB_TOKEN=%s\n" "${{ secrets.GITHUB_TOKEN }}" >> .env
+          printf "WAKA_TOKEN=%s\n" "$WAKA_TOKEN" >> .env
+          printf "BAR_STYLE=%s\n" "${BAR_STYLE_INPUT:-${BAR_STYLE_DEFAULT:-block}}" >> .env
           grep -vE '^(GITHUB_TOKEN|WAKA_TOKEN)=' .env
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
-          pip install python-dotenv
-
-      - name: Load environment variables
-        run: |
-          echo "Loading environment variables from .env"
-          set -o allexport; source .env; set +o allexport
 
       - name: Run main.py
         run: python src/main.py
 
       - name: Commit and push changes
-        run: |
-          git config --global user.name 'pphatdev'
-          git config --global user.email 'pphat.kits@gmail.com'
-          git add .
-          git commit -m "Runs every 5 minutes, between 08:00 and 12:59. Actions schedules run at most every 5 minutes using UTC time. $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(readme): update daily coding stats"
+          file_pattern: "README.md data/coding_stats.json"
+          branch: main
 
 
 
