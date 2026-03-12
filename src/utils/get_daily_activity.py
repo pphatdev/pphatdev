@@ -1,54 +1,54 @@
-import os
-from waka_api import WakaTimeAPI
-from config import DATA_PATH
-from utils.helpers import generate_progress_bar
-
-wakatimes = WakaTimeAPI()
-
+import json
 from datetime import datetime, timedelta
 
+from config import DATA_PATH, README_PATH
+from utils.helpers import generate_progress_bar
+from waka_api import WakaTimeAPI
+
+
+START_TAG = "<!--START_SECTION:daily-->"
+END_TAG = "<!--END_SECTION:daily-->"
+CODING_STATS_PATH = DATA_PATH / "coding_stats.json"
+
+
+def _build_daily_section(languages):
+    lines = ["```diff"]
+    for item in languages:
+        progress_bar = generate_progress_bar(item["percent"])
+        lines.append(f"{progress_bar} ⁝ {item['percent']}% • {item['name']}")
+    lines.append("```")
+    return "\n".join(lines)
+
+
 def get_daily_activity():
-    try:
-        yesterday = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
-        usr_stats = wakatimes.daily_activity(date=yesterday)
-        data = usr_stats['data']
+    wakatimes = WakaTimeAPI()
+    yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+    stats = wakatimes.daily_activity(date=yesterday)
+    daily_entries = stats.get("data", [])
 
-        # Export Data to JSON file
-        if not os.path.exists(DATA_PATH):
-            os.makedirs(DATA_PATH)
+    if not daily_entries:
+        raise ValueError(f"No WakaTime activity data returned for {yesterday}.")
 
-        # Generate new content
-        new_content = "```diff\n"
-        for item in data[0]['languages']:
-            progress_bar = generate_progress_bar(item['percent'])
-            new_content += f"{progress_bar} ⁝ {item['percent']}% • {item['name']}\n"
-        new_content += "```\n"
+    languages = daily_entries[0].get("languages", [])
+    if not languages:
+        raise ValueError(f"No language activity found for {yesterday}.")
 
-        # Read existing README content
-        readme_path = "README.md"
-        with open(readme_path, 'r', encoding='utf-8') as f:
-            content = f.read()
+    DATA_PATH.mkdir(parents=True, exist_ok=True)
+    CODING_STATS_PATH.write_text(
+        json.dumps(stats, indent=4),
+        encoding="utf-8",
+    )
 
-        # Replace content between tags
-        start_tag = "<!--START_SECTION:daily-->"
-        end_tag = "<!--END_SECTION:daily-->"
+    content = README_PATH.read_text(encoding="utf-8")
+    start_index = content.find(START_TAG)
+    end_index = content.find(END_TAG)
 
-        # Split the content
-        start_index = content.find(start_tag)
-        end_index = content.find(end_tag) + len(end_tag)
+    if start_index == -1 or end_index == -1:
+        raise ValueError("Could not find daily section markers in README.md")
 
-        if start_index == -1 or end_index == -1:
-            raise ValueError("Could not find daily section markers in README.md")
+    end_index += len(END_TAG)
+    new_section = f"{START_TAG}\n{_build_daily_section(languages)}\n{END_TAG}"
+    updated_content = content[:start_index] + new_section + content[end_index:]
+    README_PATH.write_text(updated_content, encoding="utf-8")
 
-        # Construct new content
-        new_section = f"{start_tag}\n{new_content}{end_tag}"
-
-        # Replace the section
-        updated_content = content[:start_index] + new_section + content[end_index:]
-
-        # Write back to README
-        with open(readme_path, 'w', encoding='utf-8') as f:
-            f.write(updated_content)
-
-    except Exception as e:
-        print(f"Fatal error: {e}")
+    return stats

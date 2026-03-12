@@ -1,11 +1,9 @@
 def generate_progress_bar(percent):
-    """Generate a progress bar using emojis based on percentage
-    █: 10%, █: 5%, ░: remaining
-    """
+    """Generate a 25-block progress bar for a percentage value."""
     total_blocks = 25
-    green_blocks = int((percent / 100) * total_blocks)
-    yellow_blocks = 1 if percent > 0 and green_blocks < total_blocks else 0
-    white_blocks = total_blocks - green_blocks - yellow_blocks
+    normalized_percent = max(0, min(percent, 100))
+    filled_blocks = round((normalized_percent / 100) * total_blocks)
+    empty_blocks = total_blocks - filled_blocks
 
-    progress = "█" * green_blocks + "█" * yellow_blocks + "░" * white_blocks
+    progress = "█" * filled_blocks + "░" * empty_blocks
     return progress
