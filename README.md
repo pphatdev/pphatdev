@@ -12,17 +12,18 @@
 <br>
 <br>
 
-<img src="https://stats.pphat.top/icons/typescript?color=green&glow=true" alt="icon of typescript"/>
-<img src="https://stats.pphat.top/icons/javascript?color=green&glow=true" alt="icon of javascript"/>
-<img src="https://stats.pphat.top/icons/nodedotjs?color=green&glow=true" alt="icon of nodedotjs"/>
-<img src="https://stats.pphat.top/icons/nextjs?color=green&glow=true" alt="icon of nextjs"/>
-<img src="https://stats.pphat.top/icons/shadcnui?color=green&glow=true" alt="icon of shadcnui"/>
-<img src="https://stats.pphat.top/icons/nuxt?color=green&glow=true" alt="icon of nuxt"/>
-<img src="https://stats.pphat.top/icons/postgresql?color=green&glow=true" alt="icon of postgresql"/>
-<img src="https://stats.pphat.top/icons/drizzle?color=green&glow=true" alt="icon of drizzle"/>
-<img src="https://stats.pphat.top/icons/tailwindcss?color=green&glow=true" alt="icon of tailwindcss"/>
-<img src="https://stats.pphat.top/icons/laravel?color=green&glow=true" alt="icon of laravel"/>
+<img src="https://stats.pphat.top/icons/typescript?color=green" alt="icon of typescript"/>
+<img src="https://stats.pphat.top/icons/javascript?color=green" alt="icon of javascript"/>
+<img src="https://stats.pphat.top/icons/nodedotjs?color=green" alt="icon of nodedotjs"/>
+<img src="https://stats.pphat.top/icons/nextjs?color=green" alt="icon of nextjs"/>
+<img src="https://stats.pphat.top/icons/shadcnui?color=green" alt="icon of shadcnui"/>
+<img src="https://stats.pphat.top/icons/nuxt?color=green" alt="icon of nuxt"/>
+<img src="https://stats.pphat.top/icons/postgresql?color=green" alt="icon of postgresql"/>
+<img src="https://stats.pphat.top/icons/drizzle?color=green" alt="icon of drizzle"/>
+<img src="https://stats.pphat.top/icons/tailwindcss?color=green" alt="icon of tailwindcss"/>
+<img src="https://stats.pphat.top/icons/laravel?color=green" alt="icon of laravel"/>
 <img src="https://stats.pphat.top/icons/csharp?color=green&foreground=white" alt="icon of csharp"/>
+
 
 <img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="700px" alt="GitHub Stats"/>
 
