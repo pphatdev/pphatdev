@@ -1,6 +1,91 @@
 {
     "data": [
         {
+            "grand_total": {
+                "hours": 10,
+                "minutes": 38,
+                "total_seconds": 38280.811,
+                "digital": "10:38",
+                "decimal": "10.63",
+                "text": "10 hrs 38 mins",
+                "ai_additions": 29,
+                "ai_deletions": 18,
+                "human_additions": 1662,
+                "human_deletions": 1065
+            },
+            "range": {
+                "start": "2026-03-10T17:00:00Z",
+                "end": "2026-03-11T16:59:59Z",
+                "date": "2026-03-11",
+                "text": "Wed Mar 11th 2026",
+                "timezone": "Asia/Bangkok"
+            },
+            "projects": [
+                {
+                    "name": "project-management.smarterp.app",
+                    "total_seconds": 17005.17,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 591,
+                    "human_deletions": 336,
+                    "color": null,
+                    "digital": "4:43:25",
+                    "decimal": "4.72",
+                    "text": "4 hrs 43 mins",
+                    "hours": 4,
+                    "minutes": 43,
+                    "seconds": 25,
+                    "percent": 44.42
+                },
+                {
+                    "name": "pphat.netlify.app",
+                    "total_seconds": 12076.592,
+                    "ai_additions": 29,
+                    "ai_deletions": 18,
+                    "human_additions": 373,
+                    "human_deletions": 349,
+                    "color": null,
+                    "digital": "3:21:16",
+                    "decimal": "3.35",
+                    "text": "3 hrs 21 mins",
+                    "hours": 3,
+                    "minutes": 21,
+                    "seconds": 16,
+                    "percent": 31.55
+                },
+                {
+                    "name": "github-stats",
+                    "total_seconds": 9170.975,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 698,
+                    "human_deletions": 380,
+                    "color": null,
+                    "digital": "2:32:50",
+                    "decimal": "2.53",
+                    "text": "2 hrs 32 mins",
+                    "hours": 2,
+                    "minutes": 32,
+                    "seconds": 50,
+                    "percent": 23.96
+                },
+                {
+                    "name": "devops.turbotech.smarterp.app",
+                    "total_seconds": 28.074,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:00:28",
+                    "decimal": "0.00",
+                    "text": "28 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 28,
+                    "percent": 0.07
+                }
+            ],
             "languages": [
                 {
                     "name": "JavaScript",
@@ -11,7 +96,7 @@
                     "hours": 3,
                     "minutes": 31,
                     "seconds": 48,
-                    "percent": 33.27
+                    "percent": 33.2
                 },
                 {
                     "name": "TypeScript",
@@ -22,18 +107,18 @@
                     "hours": 2,
                     "minutes": 4,
                     "seconds": 50,
-                    "percent": 19.61
+                    "percent": 19.57
                 },
                 {
                     "name": "Markdown",
-                    "total_seconds": 6481.057,
-                    "digital": "1:48:01",
-                    "decimal": "1.80",
-                    "text": "1 hr 48 mins",
+                    "total_seconds": 6565.555,
+                    "digital": "1:49:25",
+                    "decimal": "1.82",
+                    "text": "1 hr 49 mins",
                     "hours": 1,
-                    "minutes": 48,
-                    "seconds": 1,
-                    "percent": 16.97
+                    "minutes": 49,
+                    "seconds": 25,
+                    "percent": 17.15
                 },
                 {
                     "name": "Image (svg)",
@@ -44,7 +129,7 @@
                     "hours": 1,
                     "minutes": 33,
                     "seconds": 57,
-                    "percent": 14.76
+                    "percent": 14.73
                 },
                 {
                     "name": "Blade Template",
@@ -55,7 +140,7 @@
                     "hours": 0,
                     "minutes": 56,
                     "seconds": 32,
-                    "percent": 8.88
+                    "percent": 8.86
                 },
                 {
                     "name": "Other",
@@ -77,7 +162,7 @@
                     "hours": 0,
                     "minutes": 12,
                     "seconds": 20,
-                    "percent": 1.94
+                    "percent": 1.93
                 },
                 {
                     "name": "CSS",
@@ -155,79 +240,6 @@
                     "minutes": 0,
                     "seconds": 1,
                     "percent": 0.0
-                }
-            ],
-            "grand_total": {
-                "hours": 10,
-                "minutes": 36,
-                "total_seconds": 38196.313,
-                "digital": "10:36",
-                "decimal": "10.60",
-                "text": "10 hrs 36 mins",
-                "ai_additions": 29,
-                "ai_deletions": 18,
-                "human_additions": 1662,
-                "human_deletions": 1065
-            },
-            "editors": [
-                {
-                    "name": "VS Code",
-                    "total_seconds": 38196.313,
-                    "digital": "10:36:36",
-                    "decimal": "10.60",
-                    "text": "10 hrs 36 mins",
-                    "hours": 10,
-                    "minutes": 36,
-                    "seconds": 36,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 38196.313,
-                    "digital": "10:36:36",
-                    "decimal": "10.60",
-                    "text": "10 hrs 36 mins",
-                    "hours": 10,
-                    "minutes": 36,
-                    "seconds": 36,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 31378.462,
-                    "digital": "8:42:58",
-                    "decimal": "8.70",
-                    "text": "8 hrs 42 mins",
-                    "hours": 8,
-                    "minutes": 42,
-                    "seconds": 58,
-                    "percent": 82.15
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 6582.989,
-                    "digital": "1:49:42",
-                    "decimal": "1.82",
-                    "text": "1 hr 49 mins",
-                    "hours": 1,
-                    "minutes": 49,
-                    "seconds": 42,
-                    "percent": 17.23
-                },
-                {
-                    "name": "AI Coding",
-                    "total_seconds": 234.862,
-                    "digital": "0:03:54",
-                    "decimal": "0.05",
-                    "text": "3 mins",
-                    "hours": 0,
-                    "minutes": 3,
-                    "seconds": 54,
-                    "percent": 0.61
                 }
             ],
             "dependencies": [
@@ -1398,111 +1410,99 @@
                     "hours": 8,
                     "minutes": 5,
                     "seconds": 9,
-                    "percent": 76.21
+                    "percent": 76.04
                 },
                 {
                     "name": "PPhat",
-                    "total_seconds": 9086.477,
+                    "total_seconds": 9170.975,
                     "machine_name_id": "f7991a1a-525b-4064-b364-f6572eb4938a",
-                    "digital": "2:31:26",
-                    "decimal": "2.52",
-                    "text": "2 hrs 31 mins",
+                    "digital": "2:32:50",
+                    "decimal": "2.53",
+                    "text": "2 hrs 32 mins",
                     "hours": 2,
-                    "minutes": 31,
-                    "seconds": 26,
-                    "percent": 23.79
+                    "minutes": 32,
+                    "seconds": 50,
+                    "percent": 23.96
                 }
             ],
-            "projects": [
+            "editors": [
                 {
-                    "name": "project-management.smarterp.app",
-                    "total_seconds": 17005.17,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 591,
-                    "human_deletions": 336,
-                    "color": null,
-                    "digital": "4:43:25",
-                    "decimal": "4.72",
-                    "text": "4 hrs 43 mins",
-                    "hours": 4,
-                    "minutes": 43,
-                    "seconds": 25,
-                    "percent": 44.52
+                    "name": "VS Code",
+                    "total_seconds": 38280.811,
+                    "digital": "10:38:00",
+                    "decimal": "10.63",
+                    "text": "10 hrs 38 mins",
+                    "hours": 10,
+                    "minutes": 38,
+                    "seconds": 0,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 38280.811,
+                    "digital": "10:38:00",
+                    "decimal": "10.63",
+                    "text": "10 hrs 38 mins",
+                    "hours": 10,
+                    "minutes": 38,
+                    "seconds": 0,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 31378.462,
+                    "digital": "8:42:58",
+                    "decimal": "8.70",
+                    "text": "8 hrs 42 mins",
+                    "hours": 8,
+                    "minutes": 42,
+                    "seconds": 58,
+                    "percent": 81.97
                 },
                 {
-                    "name": "pphat.netlify.app",
-                    "total_seconds": 12076.592,
-                    "ai_additions": 29,
-                    "ai_deletions": 18,
-                    "human_additions": 373,
-                    "human_deletions": 349,
-                    "color": null,
-                    "digital": "3:21:16",
-                    "decimal": "3.35",
-                    "text": "3 hrs 21 mins",
-                    "hours": 3,
-                    "minutes": 21,
-                    "seconds": 16,
-                    "percent": 31.62
+                    "name": "Writing Docs",
+                    "total_seconds": 6582.989,
+                    "digital": "1:49:42",
+                    "decimal": "1.82",
+                    "text": "1 hr 49 mins",
+                    "hours": 1,
+                    "minutes": 49,
+                    "seconds": 42,
+                    "percent": 17.2
                 },
                 {
-                    "name": "github-stats",
-                    "total_seconds": 9086.477,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 698,
-                    "human_deletions": 380,
-                    "color": null,
-                    "digital": "2:31:26",
-                    "decimal": "2.52",
-                    "text": "2 hrs 31 mins",
-                    "hours": 2,
-                    "minutes": 31,
-                    "seconds": 26,
-                    "percent": 23.79
-                },
-                {
-                    "name": "devops.turbotech.smarterp.app",
-                    "total_seconds": 28.074,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "color": null,
-                    "digital": "0:00:28",
-                    "decimal": "0.00",
-                    "text": "28 secs",
+                    "name": "AI Coding",
+                    "total_seconds": 319.36,
+                    "digital": "0:05:19",
+                    "decimal": "0.08",
+                    "text": "5 mins",
                     "hours": 0,
-                    "minutes": 0,
-                    "seconds": 28,
-                    "percent": 0.07
+                    "minutes": 5,
+                    "seconds": 19,
+                    "percent": 0.83
                 }
-            ],
-            "range": {
-                "start": "2026-03-10T17:00:00Z",
-                "end": "2026-03-11T16:59:59Z",
-                "date": "2026-03-11",
-                "text": "Wed Mar 11th 2026",
-                "timezone": "Asia/Bangkok"
-            }
+            ]
         }
     ],
     "start": "2026-03-10T17:00:00Z",
     "end": "2026-03-11T16:59:59Z",
     "cumulative_total": {
-        "seconds": 38196.313,
-        "text": "10 hrs 36 mins",
-        "digital": "10:36",
-        "decimal": "10.60"
+        "seconds": 38280.811,
+        "text": "10 hrs 38 mins",
+        "digital": "10:38",
+        "decimal": "10.63"
     },
     "daily_average": {
         "holidays": 0,
         "days_minus_holidays": 1,
         "days_including_holidays": 1,
-        "seconds": 36911,
-        "seconds_including_other_language": 38196,
-        "text": "10 hrs 15 mins",
-        "text_including_other_language": "10 hrs 36 mins"
+        "seconds": 36996,
+        "seconds_including_other_language": 38281,
+        "text": "10 hrs 16 mins",
+        "text_including_other_language": "10 hrs 38 mins"
     }
 }
