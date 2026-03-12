@@ -120,6 +120,19 @@ Output:
 
 ## Changelog 📝
 
+### v1.0.4 (2026-03-12)
+
+**Bug Fixes:**
+- Removed `setup-python` pip caching (`cache: "pip"` and `cache-dependency-path`)
+- `cache-dependency-path` only resolves globs within the caller's workspace, so it cannot reference the action's own `requirements.txt`
+- Direct `pip install` in shell step handles dependencies correctly for all use cases
+
+### v1.0.3 (2026-03-12)
+
+**Bug Fixes:**
+- Resolved `${{ github.action_path }}` to absolute path before using in `setup-python`
+- Fixes issue where `github.action_path` returns `.` in owner's own repo
+
 ### v1.0.2 (2026-03-12)
 
 **Bug Fixes:**
