@@ -1,8 +1,8 @@
 import json
 from datetime import datetime, timedelta
 
-from config import DATA_PATH, README_PATH
-from utils.helpers import generate_progress_bar
+from config import BAR_STYLE, DATA_PATH, README_PATH
+from utils.helpers import BAR_STYLES, generate_progress_bar
 from waka_api import WakaTimeAPI
 
 
@@ -11,10 +11,12 @@ END_TAG = "<!--END_SECTION:daily-->"
 CODING_STATS_PATH = DATA_PATH / "coding_stats.json"
 
 
-def _build_daily_section(languages):
+def _build_daily_section(languages, style="block"):
+    if style not in BAR_STYLES:
+        raise ValueError(f"Unknown BAR_STYLE '{style}'. Choose from: {', '.join(BAR_STYLES)}")
     lines = ["```diff"]
     for item in languages:
-        progress_bar = generate_progress_bar(item["percent"])
+        progress_bar = generate_progress_bar(item["percent"], style=style)
         lines.append(f"{progress_bar} ⁝ {item['percent']}% • {item['name']}")
     lines.append("```")
     return "\n".join(lines)
@@ -47,7 +49,7 @@ def get_daily_activity():
         raise ValueError("Could not find daily section markers in README.md")
 
     end_index += len(END_TAG)
-    new_section = f"{START_TAG}\n{_build_daily_section(languages)}\n{END_TAG}"
+    new_section = f"{START_TAG}\n{_build_daily_section(languages, style=BAR_STYLE)}\n{END_TAG}"
     updated_content = content[:start_index] + new_section + content[end_index:]
     README_PATH.write_text(updated_content, encoding="utf-8")
 

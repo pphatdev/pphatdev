@@ -29,3 +29,5 @@ WAKA_PROJECT = os.getenv("WAKA_PROJECT")
 WAKA_INTERVAL = int(os.getenv("WAKA_INTERVAL", 60))
 
 DATA_PATH = _resolve_path(os.getenv("DATA_PATH", "data"))
+
+BAR_STYLE = os.getenv("BAR_STYLE", "block")
