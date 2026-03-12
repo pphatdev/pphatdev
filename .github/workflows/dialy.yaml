@@ -42,10 +42,10 @@ jobs:
       - name: Install dependencies
         run: |
           cp .env.example .env
-          echo "GITHUB_TOKEN=${{ secrets.GH_TOKEN }}" >> .env
-          echo "WAKA_TOKEN=${{ secrets.WAKA_KEY }}" >> .env
-          echo "BAR_STYLE=${{ github.event.inputs.bar_style || vars.BAR_STYLE || 'block' }}" >> .env
-          cat .env
+          printf "\nGITHUB_TOKEN=%s\n" "${{ secrets.GH_TOKEN }}" >> .env
+          printf "WAKA_TOKEN=%s\n" "${{ secrets.WAKA_KEY }}" >> .env
+          printf "BAR_STYLE=%s\n" "${{ github.event.inputs.bar_style || vars.BAR_STYLE || 'block' }}" >> .env
+          grep -vE '^(GITHUB_TOKEN|WAKA_TOKEN)=' .env
           pip install -r requirements.txt
           pip install python-dotenv
 
