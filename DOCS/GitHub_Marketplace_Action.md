@@ -24,33 +24,33 @@ This repository now includes a reusable GitHub Action at the root: `action.yml`.
 name: Update README Daily
 
 on:
-	schedule:
-		- cron: "0 */6 * * *"
-	workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 permissions:
-	contents: write
+  contents: write
 
 jobs:
-	update:
-		runs-on: ubuntu-latest
-		steps:
-			- uses: actions/checkout@v4
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
-			- name: Run Waka README Action
-				id: daily
-				uses: pphatdev/pphatdev@v1
-				with:
-					waka-token: ${{ secrets.WAKA_KEY }}
-					github-token: ${{ secrets.GITHUB_TOKEN }}
-					bar-style: block
+      - name: Run Waka README Action
+        id: daily
+        uses: pphatdev/pphatdev@v1
+        with:
+          waka-token: ${{ secrets.WAKA_KEY }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          bar-style: block
 
-			- name: Commit generated files
-				if: steps.daily.outputs.changed == 'true'
-				uses: stefanzweifel/git-auto-commit-action@v5
-				with:
-					commit_message: "chore(readme): update daily coding stats"
-					file_pattern: "README.md data/coding_stats.json"
+      - name: Commit generated files
+        if: steps.daily.outputs.changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(readme): update daily coding stats"
+          file_pattern: "README.md data/coding_stats.json"
 ```
 
 ### Publish to Marketplace
@@ -60,3 +60,4 @@ jobs:
 3. Create/update moving major tag `v1` to that release commit.
 4. Open your repository on GitHub and choose **Publish this Action to Marketplace**.
 5. Fill in listing metadata (name, icon, categories, description) and submit.
+
