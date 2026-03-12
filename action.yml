@@ -1,0 +1,76 @@
+name: "Waka README Daily Stats"
+description: "Update README daily coding stats using WakaTime summaries"
+author: "pphatdev"
+branding:
+  icon: "activity"
+  color: "green"
+
+inputs:
+  waka-token:
+    description: "WakaTime API token"
+    required: true
+  github-token:
+    description: "GitHub token used by your script when needed"
+    required: false
+    default: ""
+  waka-api:
+    description: "WakaTime API base URL"
+    required: false
+    default: "https://wakatime.com/api/v1"
+  bar-style:
+    description: "Progress bar style (block, shade, ascii, dot, pipe, emoji)"
+    required: false
+    default: "block"
+  python-version:
+    description: "Python version"
+    required: false
+    default: "3.12"
+  entrypoint:
+    description: "Python entrypoint path"
+    required: false
+    default: "src/main.py"
+
+outputs:
+  changed:
+    description: "Whether README/data files changed after running"
+    value: ${{ steps.detect.outputs.changed }}
+
+runs:
+  using: "composite"
+  steps:
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ inputs.python-version }}
+        cache: "pip"
+
+    - name: Install dependencies
+      shell: bash
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Create runtime .env for script
+      shell: bash
+      run: |
+        cp .env.example .env
+        printf "\nWAKA_API=%s\n" "${{ inputs.waka-api }}" >> .env
+        printf "WAKA_TOKEN=%s\n" "${{ inputs.waka-token }}" >> .env
+        printf "BAR_STYLE=%s\n" "${{ inputs.bar-style }}" >> .env
+        if [ -n "${{ inputs.github-token }}" ]; then
+          printf "GITHUB_TOKEN=%s\n" "${{ inputs.github-token }}" >> .env
+        fi
+
+    - name: Run updater
+      shell: bash
+      run: python ${{ inputs.entrypoint }}
+
+    - name: Detect file changes
+      id: detect
+      shell: bash
+      run: |
+        if git diff --quiet -- README.md data/coding_stats.json; then
+          echo "changed=false" >> "$GITHUB_OUTPUT"
+        else
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+        fi
