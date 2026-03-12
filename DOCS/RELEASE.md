@@ -120,6 +120,13 @@ Output:
 
 ## Changelog 📝
 
+### v1.0.2 (2026-03-12)
+
+**Bug Fixes:**
+- Fixed `cache-dependency-path` to use `${{ github.action_path }}/requirements.txt` so it resolves to the action's own file, not the caller's repo
+- Fixed `.env.example` copy path to use `${{ github.action_path }}/.env.example` for non-forked repos
+- Action now works correctly when used from any repository via GitHub Marketplace
+
 ### v1.0.1 (2026-03-12)
 
 **Bug Fixes:**
