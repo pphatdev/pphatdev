@@ -6,6 +6,20 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+    inputs:
+      bar_style:
+        description: 'Progress bar style (block | shade | ascii | dot | arrow | pipe)'
+        required: false
+        default: 'block'
+        type: choice
+        options:
+          - block
+          - shade
+          - ascii
+          - dot
+          - pipe
+          - emoji
 
 permissions:
   contents: write
@@ -30,6 +44,7 @@ jobs:
           cp .env.example .env
           echo "GITHUB_TOKEN=${{ secrets.GH_TOKEN }}" >> .env
           echo "WAKA_TOKEN=${{ secrets.WAKA_KEY }}" >> .env
+          echo "BAR_STYLE=${{ github.event.inputs.bar_style || vars.BAR_STYLE || 'block' }}" >> .env
           cat .env
           pip install -r requirements.txt
           pip install python-dotenv
