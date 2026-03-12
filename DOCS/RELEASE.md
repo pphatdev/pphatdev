@@ -118,6 +118,22 @@ Output:
     - `true` when `README.md` or `data/coding_stats.json` changed
     - `false` when no update was needed
 
+## Changelog 📝
+
+### v1.0.1 (2026-03-12)
+
+**Bug Fixes:**
+- Fixed cache-dependency-path error for GitHub Marketplace users
+- Use glob pattern `**/requirements.txt` for pip dependency caching instead of invalid relative paths
+- Ensure action works correctly when installed from GitHub Marketplace
+
+**Improvements:**
+- Better compatibility with GitHub Actions setup-python@v5
+
+### v1.0.0
+
+Initial stable release with composite action for WakaTime stats.
+
 ## Quick Release Notes (Maintainers) 🧾
 
 When publishing a new version:
