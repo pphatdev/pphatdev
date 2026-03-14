@@ -1,6 +1,59 @@
 {
     "data": [
         {
+            "grand_total": {
+                "hours": 10,
+                "minutes": 21,
+                "total_seconds": 37316.29,
+                "digital": "10:21",
+                "decimal": "10.35",
+                "text": "10 hrs 21 mins",
+                "ai_additions": 8,
+                "ai_deletions": 2,
+                "human_additions": 1159,
+                "human_deletions": 433
+            },
+            "range": {
+                "start": "2026-03-12T17:00:00Z",
+                "end": "2026-03-13T16:59:59Z",
+                "date": "2026-03-13",
+                "text": "Fri Mar 13th 2026",
+                "timezone": "Asia/Bangkok"
+            },
+            "projects": [
+                {
+                    "name": "pphat.netlify.app",
+                    "total_seconds": 28115.511,
+                    "ai_additions": 8,
+                    "ai_deletions": 2,
+                    "human_additions": 731,
+                    "human_deletions": 246,
+                    "color": null,
+                    "digital": "7:48:35",
+                    "decimal": "7.80",
+                    "text": "7 hrs 48 mins",
+                    "hours": 7,
+                    "minutes": 48,
+                    "seconds": 35,
+                    "percent": 75.34
+                },
+                {
+                    "name": "project-management.smarterp.app",
+                    "total_seconds": 9200.779,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 428,
+                    "human_deletions": 187,
+                    "color": null,
+                    "digital": "2:33:20",
+                    "decimal": "2.55",
+                    "text": "2 hrs 33 mins",
+                    "hours": 2,
+                    "minutes": 33,
+                    "seconds": 20,
+                    "percent": 24.66
+                }
+            ],
             "languages": [
                 {
                     "name": "TypeScript",
@@ -144,79 +197,6 @@
                     "minutes": 0,
                     "seconds": 5,
                     "percent": 0.01
-                }
-            ],
-            "grand_total": {
-                "hours": 10,
-                "minutes": 21,
-                "total_seconds": 37316.29,
-                "digital": "10:21",
-                "decimal": "10.35",
-                "text": "10 hrs 21 mins",
-                "ai_additions": 8,
-                "ai_deletions": 2,
-                "human_additions": 1159,
-                "human_deletions": 433
-            },
-            "editors": [
-                {
-                    "name": "VS Code",
-                    "total_seconds": 37316.29,
-                    "digital": "10:21:56",
-                    "decimal": "10.35",
-                    "text": "10 hrs 21 mins",
-                    "hours": 10,
-                    "minutes": 21,
-                    "seconds": 56,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 37316.29,
-                    "digital": "10:21:56",
-                    "decimal": "10.35",
-                    "text": "10 hrs 21 mins",
-                    "hours": 10,
-                    "minutes": 21,
-                    "seconds": 56,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 32180.707,
-                    "digital": "8:56:20",
-                    "decimal": "8.93",
-                    "text": "8 hrs 56 mins",
-                    "hours": 8,
-                    "minutes": 56,
-                    "seconds": 20,
-                    "percent": 86.24
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 4833.308,
-                    "digital": "1:20:33",
-                    "decimal": "1.33",
-                    "text": "1 hr 20 mins",
-                    "hours": 1,
-                    "minutes": 20,
-                    "seconds": 33,
-                    "percent": 12.95
-                },
-                {
-                    "name": "AI Coding",
-                    "total_seconds": 302.275,
-                    "digital": "0:05:02",
-                    "decimal": "0.08",
-                    "text": "5 mins",
-                    "hours": 0,
-                    "minutes": 5,
-                    "seconds": 2,
-                    "percent": 0.81
                 }
             ],
             "dependencies": [
@@ -1732,47 +1712,67 @@
                     "percent": 43.9
                 }
             ],
-            "projects": [
+            "editors": [
                 {
-                    "name": "pphat.netlify.app",
-                    "total_seconds": 28115.511,
-                    "ai_additions": 8,
-                    "ai_deletions": 2,
-                    "human_additions": 731,
-                    "human_deletions": 246,
-                    "color": null,
-                    "digital": "7:48:35",
-                    "decimal": "7.80",
-                    "text": "7 hrs 48 mins",
-                    "hours": 7,
-                    "minutes": 48,
-                    "seconds": 35,
-                    "percent": 75.34
-                },
-                {
-                    "name": "project-management.smarterp.app",
-                    "total_seconds": 9200.779,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 428,
-                    "human_deletions": 187,
-                    "color": null,
-                    "digital": "2:33:20",
-                    "decimal": "2.55",
-                    "text": "2 hrs 33 mins",
-                    "hours": 2,
-                    "minutes": 33,
-                    "seconds": 20,
-                    "percent": 24.66
+                    "name": "VS Code",
+                    "total_seconds": 37316.29,
+                    "digital": "10:21:56",
+                    "decimal": "10.35",
+                    "text": "10 hrs 21 mins",
+                    "hours": 10,
+                    "minutes": 21,
+                    "seconds": 56,
+                    "percent": 100.0
                 }
             ],
-            "range": {
-                "start": "2026-03-12T17:00:00Z",
-                "end": "2026-03-13T16:59:59Z",
-                "date": "2026-03-13",
-                "text": "Fri Mar 13th 2026",
-                "timezone": "Asia/Bangkok"
-            }
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 37316.29,
+                    "digital": "10:21:56",
+                    "decimal": "10.35",
+                    "text": "10 hrs 21 mins",
+                    "hours": 10,
+                    "minutes": 21,
+                    "seconds": 56,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 32180.707,
+                    "digital": "8:56:20",
+                    "decimal": "8.93",
+                    "text": "8 hrs 56 mins",
+                    "hours": 8,
+                    "minutes": 56,
+                    "seconds": 20,
+                    "percent": 86.24
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 4833.308,
+                    "digital": "1:20:33",
+                    "decimal": "1.33",
+                    "text": "1 hr 20 mins",
+                    "hours": 1,
+                    "minutes": 20,
+                    "seconds": 33,
+                    "percent": 12.95
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 302.275,
+                    "digital": "0:05:02",
+                    "decimal": "0.08",
+                    "text": "5 mins",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 2,
+                    "percent": 0.81
+                }
+            ]
         }
     ],
     "start": "2026-03-12T17:00:00Z",
