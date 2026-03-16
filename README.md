@@ -45,9 +45,9 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████░░░░░░░░░░░░ ⁝ 53.3% • TypeScript
-███████████░░░░░░░░░░░░░░ ⁝ 45.22% • MDX
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.44% • JavaScript
+█████████████░░░░░░░░░░░░ ⁝ 53.57% • TypeScript
+███████████░░░░░░░░░░░░░░ ⁝ 44.96% • MDX
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.43% • JavaScript
 ░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.02% • Other
 ░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.02% • PowerShell
 ░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.02% • Batchfile
