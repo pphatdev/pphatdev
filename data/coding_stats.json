@@ -1,6 +1,43 @@
 {
     "data": [
         {
+            "grand_total": {
+                "hours": 6,
+                "minutes": 12,
+                "total_seconds": 22334.74,
+                "digital": "6:12",
+                "decimal": "6.20",
+                "text": "6 hrs 12 mins",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 861,
+                "human_deletions": 346
+            },
+            "range": {
+                "start": "2026-03-14T17:00:00Z",
+                "end": "2026-03-15T16:59:59Z",
+                "date": "2026-03-15",
+                "text": "Sun Mar 15th 2026",
+                "timezone": "Asia/Bangkok"
+            },
+            "projects": [
+                {
+                    "name": "pphat.netlify.app",
+                    "total_seconds": 22334.74,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 861,
+                    "human_deletions": 346,
+                    "color": null,
+                    "digital": "6:12:14",
+                    "decimal": "6.20",
+                    "text": "6 hrs 12 mins",
+                    "hours": 6,
+                    "minutes": 12,
+                    "seconds": 14,
+                    "percent": 100.0
+                }
+            ],
             "languages": [
                 {
                     "name": "TypeScript",
@@ -67,68 +104,6 @@
                     "minutes": 0,
                     "seconds": 3,
                     "percent": 0.02
-                }
-            ],
-            "grand_total": {
-                "hours": 6,
-                "minutes": 12,
-                "total_seconds": 22334.74,
-                "digital": "6:12",
-                "decimal": "6.20",
-                "text": "6 hrs 12 mins",
-                "ai_additions": 0,
-                "ai_deletions": 0,
-                "human_additions": 861,
-                "human_deletions": 346
-            },
-            "editors": [
-                {
-                    "name": "VS Code",
-                    "total_seconds": 22334.74,
-                    "digital": "6:12:14",
-                    "decimal": "6.20",
-                    "text": "6 hrs 12 mins",
-                    "hours": 6,
-                    "minutes": 12,
-                    "seconds": 14,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 22334.74,
-                    "digital": "6:12:14",
-                    "decimal": "6.20",
-                    "text": "6 hrs 12 mins",
-                    "hours": 6,
-                    "minutes": 12,
-                    "seconds": 14,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 12293.475,
-                    "digital": "3:24:53",
-                    "decimal": "3.40",
-                    "text": "3 hrs 24 mins",
-                    "hours": 3,
-                    "minutes": 24,
-                    "seconds": 53,
-                    "percent": 55.04
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 10041.265,
-                    "digital": "2:47:21",
-                    "decimal": "2.78",
-                    "text": "2 hrs 47 mins",
-                    "hours": 2,
-                    "minutes": 47,
-                    "seconds": 21,
-                    "percent": 44.96
                 }
             ],
             "dependencies": [
@@ -972,15 +947,10 @@
                     "percent": 100.0
                 }
             ],
-            "projects": [
+            "editors": [
                 {
-                    "name": "pphat.netlify.app",
+                    "name": "VS Code",
                     "total_seconds": 22334.74,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 861,
-                    "human_deletions": 346,
-                    "color": null,
                     "digital": "6:12:14",
                     "decimal": "6.20",
                     "text": "6 hrs 12 mins",
@@ -990,13 +960,43 @@
                     "percent": 100.0
                 }
             ],
-            "range": {
-                "start": "2026-03-14T17:00:00Z",
-                "end": "2026-03-15T16:59:59Z",
-                "date": "2026-03-15",
-                "text": "Sun Mar 15th 2026",
-                "timezone": "Asia/Bangkok"
-            }
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 22334.74,
+                    "digital": "6:12:14",
+                    "decimal": "6.20",
+                    "text": "6 hrs 12 mins",
+                    "hours": 6,
+                    "minutes": 12,
+                    "seconds": 14,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 12293.475,
+                    "digital": "3:24:53",
+                    "decimal": "3.40",
+                    "text": "3 hrs 24 mins",
+                    "hours": 3,
+                    "minutes": 24,
+                    "seconds": 53,
+                    "percent": 55.04
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 10041.265,
+                    "digital": "2:47:21",
+                    "decimal": "2.78",
+                    "text": "2 hrs 47 mins",
+                    "hours": 2,
+                    "minutes": 47,
+                    "seconds": 21,
+                    "percent": 44.96
+                }
+            ]
         }
     ],
     "start": "2026-03-14T17:00:00Z",
