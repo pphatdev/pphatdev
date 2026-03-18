@@ -3,7 +3,7 @@
 
 </div>
 
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25" alt="rocket"/>  Hi, Welcome back <img src="https://github.com/user-attachments/assets/4eb41909-6368-46f2-869b-4281fc134615" width="25" alt="wave"/> 
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25" alt="rocket"/>  Hi, Welcome back <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 <div style="margin-top: 20px;">
 
