@@ -33,17 +33,9 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 
 <br>
 <div>
-<img src="https://stats.pphat.top/icons/typescript?color=green" alt="icon of typescript"/>
-<img src="https://stats.pphat.top/icons/javascript?color=green" alt="icon of javascript"/>
-<img src="https://stats.pphat.top/icons/nodedotjs?color=green" alt="icon of nodedotjs"/>
-<img src="https://stats.pphat.top/icons/nextjs?color=green" alt="icon of nextjs"/>
-<img src="https://stats.pphat.top/icons/shadcnui?color=green" alt="icon of shadcnui"/>
-<img src="https://stats.pphat.top/icons/nuxt?color=green" alt="icon of nuxt"/>
-<img src="https://stats.pphat.top/icons/postgresql?color=green" alt="icon of postgresql"/>
-<img src="https://stats.pphat.top/icons/drizzle?color=green" alt="icon of drizzle"/>
-<img src="https://stats.pphat.top/icons/tailwindcss?color=green" alt="icon of tailwindcss"/>
-<img src="https://stats.pphat.top/icons/laravel?color=green" alt="icon of laravel"/>
-<img src="https://stats.pphat.top/icons/csharp?color=green&foreground=white" alt="icon of csharp"/> 
+
+![Tech Stack](https://stats.pphat.top/icons?name=typescript,javascript,nodedotjs,nextjs,nuxt,shadcnui,postgresql,drizzle,tailwindcss,laravel,csharp&columns=12&size=small&effect=wave)
+
 </div>
 
 ## 🥗 Most tech stack used yesterday
