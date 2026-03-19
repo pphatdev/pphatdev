@@ -1,4 +1,5 @@
 from datetime import datetime
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from config import README_PATH
 from api.blog import BlogAPI
@@ -15,49 +16,40 @@ def _format_date(iso_str: str) -> str:
         return iso_str
 
 
+def _ensure_thumbnail_width(url: str, width: int = 200) -> str:
+    if not url:
+        return url
+
+    parsed = urlsplit(url)
+    query = dict(parse_qsl(parsed.query, keep_blank_values=True))
+    query["w"] = str(width)
+    return urlunsplit((parsed.scheme, parsed.netloc, parsed.path, urlencode(query), parsed.fragment))
+
+
 def _build_blogs_section(posts):
     cards = []
     for post in posts:
         title = post.get("title", "Untitled")
         slug = post.get("slug", "")
-        description = " ".join(post.get("description", "").split())
-        thumbnail = post.get("thumbnail", "")
-        created_at = _format_date(post.get("createdAt", ""))
+        thumbnail = _ensure_thumbnail_width(post.get("thumbnail", ""), width=200)
         url = f"https://pphat.me/posts/{slug}"
 
-        card = [
-            '<td width="250px" valign="top">',
-            "<div>",
-        ]
+        card = []
         if thumbnail:
             card.extend(
                 [
-                    f'<a href="{url}">',
-                    f'<img src="{thumbnail}" width="250px" alt="{title}" />',
+                    f'<a href="{url}" style="width: 200px;">',
+                    "    <picture>",
+                    f'    <source media="(prefers-color-scheme: dark)" srcset="{thumbnail}">',
+                    f'    <img src="{thumbnail}" alt="{title}" title="{title}">',
+                    "    </picture>",
+                    f"    <p>{title}</p>",
                     "</a>",
                 ]
             )
-        card.extend(
-            [
-                f'<strong><a href="{url}">{title}</a></strong>',
-                f"<p>{description}</p>" if description else "",
-                "",
-                f"<sub>{created_at}</sub>",
-                "</div>",
-                "</td>",
-            ]
-        )
         cards.append("\n".join(card))
 
-    rows = []
-    columns_per_row = 4
-    for index in range(0, len(cards), columns_per_row):
-        row_cards = cards[index:index + columns_per_row]
-        while len(row_cards) < columns_per_row:
-            row_cards.append('<td width="250px" valign="top"></td>')
-        rows.append("<tr>\n" + "\n".join(row_cards) + "\n</tr>")
-
-    return "<table width='400px' border='0'>\n" + "\n".join(rows) + "\n</table>"
+    return "\n".join(cards)
 
 
 def get_recent_blog_posts():
