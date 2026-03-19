@@ -25,7 +25,7 @@ def _build_blogs_section(posts):
         created_at = _format_date(post.get("createdAt", ""))
         url = f"https://pphat.me/posts/{slug}"
 
-        card = ["<td width=\"50%\" valign=\"top\">", "<table>"]
+        card = ["<td width=\"50%\" valign=\"top\">", "<table width='100%'>"]
         if thumbnail:
             card.extend(
                 [
