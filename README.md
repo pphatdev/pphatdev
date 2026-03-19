@@ -83,7 +83,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 </div>
 
 
-# 🚀 My Recent Blogs
+## 🚀 Recent Blogs
 
 <!--START_SECTION:blogs-->
 <table width='400px' border='0'>
