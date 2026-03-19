@@ -89,7 +89,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <table>
 <tr>
 <td width="50%" valign="top">
-<table>
+<table width='100%'>
 <tr>
 <td><a href="https://pphat.me/posts/07-03-2026-kampot"><img src="https://cdn.api.pphat.stackdev.cloud/api/image/assets/2026-03-11_3db1720c-53db-4351-b122-0e3863e3bfbf.webp?fm=webp&q=80&w=1200&fit=cover" width="100%" alt="ហ្នឹងមែនៗ កំពត!! 😂" /></a></td>
 </tr>
