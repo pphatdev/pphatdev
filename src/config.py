@@ -28,7 +28,7 @@ def _sanitize_env_value(value: str) -> str:
 	return cleaned.strip()
 
 GITHUB_API_URL = os.getenv("GITHUB_API_URL", "https://api.github.com")
-GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
+GITHUB_USERNAME = os.getenv("GITHUB_USERNAME") or os.getenv("GITHUB_REPOSITORY", "pphatdev/pphatdev").split("/")[0]
 GITHUB_REPO = os.getenv("GITHUB_REPO")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 STATUS_UPDATE_INTERVAL = int(os.getenv("STATUS_UPDATE_INTERVAL", 60))

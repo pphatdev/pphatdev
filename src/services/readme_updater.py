@@ -2,8 +2,8 @@ import json
 from datetime import datetime, timedelta
 
 from config import BAR_STYLE, DATA_PATH, README_PATH
-from utils.helpers import BAR_STYLES, generate_progress_bar
-from waka_api import WakaTimeAPI
+from utils.formatting import BAR_STYLES, generate_progress_bar
+from api.wakatime import WakaTimeAPI
 
 
 START_TAG = "<!--START_SECTION:daily-->"
