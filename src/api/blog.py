@@ -2,7 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
-BLOG_RSS_URL = "https://pphat.me/rss.xml"
+BLOG_RSS_URL = "https://pphat.me/blogs/rss.xml"
 MEDIA_NS = "http://search.yahoo.com/mrss/"
 
 
