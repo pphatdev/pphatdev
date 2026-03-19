@@ -86,10 +86,17 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 ## 🚀 Recent Blogs
 
 <!--START_SECTION:blogs-->
+<a href="https://pphat.me/posts/stats-card-usage" style="width: 200px;">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/blogs/stats-card-usage/cover.webp?w=200">
+    <img src="/assets/blogs/stats-card-usage/cover.webp?w=200" alt="Using Stats from stats.pphat.top" title="Using Stats from stats.pphat.top">
+    </picture>
+    <p>Using Stats from stats.pphat.top</p>
+</a>
 <a href="https://pphat.me/posts/07-03-2026-kampot" style="width: 200px;">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.api.pphat.stackdev.cloud/api/image/assets/2026-03-11_3db1720c-53db-4351-b122-0e3863e3bfbf.webp?fm=webp&q=80&w=200&fit=cover">
-    <img src="https://cdn.api.pphat.stackdev.cloud/api/image/assets/2026-03-11_3db1720c-53db-4351-b122-0e3863e3bfbf.webp?fm=webp&q=80&w=200&fit=cover" alt="ហ្នឹងមែនៗ កំពត!! 😂" title="ហ្នឹងមែនៗ កំពត!! 😂">
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/blogs/07-03-2026-kampot/cover.webp?w=200">
+    <img src="/assets/blogs/07-03-2026-kampot/cover.webp?w=200" alt="ហ្នឹងមែនៗ កំពត!! 😂" title="ហ្នឹងមែនៗ កំពត!! 😂">
     </picture>
     <p>ហ្នឹងមែនៗ កំពត!! 😂</p>
 </a>
