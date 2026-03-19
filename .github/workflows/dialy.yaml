@@ -46,7 +46,7 @@ jobs:
         if: steps.update_stats.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(readme): update daily stats and followers"
+          commit_message: "chore(readme): update daily stats, followers and blog posts"
           file_pattern: "README.md data/coding_stats.json"
           branch: main
 

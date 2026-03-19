@@ -1,75 +1,6 @@
 {
     "data": [
         {
-            "grand_total": {
-                "hours": 5,
-                "minutes": 20,
-                "total_seconds": 19237.961,
-                "digital": "5:20",
-                "decimal": "5.33",
-                "text": "5 hrs 20 mins",
-                "ai_additions": 17,
-                "ai_deletions": 0,
-                "human_additions": 1393,
-                "human_deletions": 1565
-            },
-            "range": {
-                "start": "2026-03-17T17:00:00Z",
-                "end": "2026-03-18T16:59:59Z",
-                "date": "2026-03-18",
-                "text": "Wed Mar 18th 2026",
-                "timezone": "Asia/Bangkok"
-            },
-            "projects": [
-                {
-                    "name": "py_fingerprint",
-                    "total_seconds": 10462.951,
-                    "ai_additions": 17,
-                    "ai_deletions": 0,
-                    "human_additions": 876,
-                    "human_deletions": 761,
-                    "color": null,
-                    "digital": "2:54:22",
-                    "decimal": "2.90",
-                    "text": "2 hrs 54 mins",
-                    "hours": 2,
-                    "minutes": 54,
-                    "seconds": 22,
-                    "percent": 54.39
-                },
-                {
-                    "name": "stats.pphat.top",
-                    "total_seconds": 8421.694,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 517,
-                    "human_deletions": 804,
-                    "color": null,
-                    "digital": "2:20:21",
-                    "decimal": "2.33",
-                    "text": "2 hrs 20 mins",
-                    "hours": 2,
-                    "minutes": 20,
-                    "seconds": 21,
-                    "percent": 43.78
-                },
-                {
-                    "name": "Unknown Project",
-                    "total_seconds": 353.316,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "color": null,
-                    "digital": "0:05:53",
-                    "decimal": "0.08",
-                    "text": "5 mins",
-                    "hours": 0,
-                    "minutes": 5,
-                    "seconds": 53,
-                    "percent": 1.84
-                }
-            ],
             "languages": [
                 {
                     "name": "Markdown",
@@ -217,6 +148,101 @@
                 {
                     "name": "TSConfig",
                     "total_seconds": 1.134,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.01
+                }
+            ],
+            "grand_total": {
+                "hours": 5,
+                "minutes": 20,
+                "total_seconds": 19237.961,
+                "digital": "5:20",
+                "decimal": "5.33",
+                "text": "5 hrs 20 mins",
+                "ai_additions": 17,
+                "ai_deletions": 0,
+                "human_additions": 1393,
+                "human_deletions": 1565
+            },
+            "editors": [
+                {
+                    "name": "VS Code",
+                    "total_seconds": 19237.961,
+                    "digital": "5:20:37",
+                    "decimal": "5.33",
+                    "text": "5 hrs 20 mins",
+                    "hours": 5,
+                    "minutes": 20,
+                    "seconds": 37,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 19237.961,
+                    "digital": "5:20:37",
+                    "decimal": "5.33",
+                    "text": "5 hrs 20 mins",
+                    "hours": 5,
+                    "minutes": 20,
+                    "seconds": 37,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 13423.814,
+                    "digital": "3:43:43",
+                    "decimal": "3.72",
+                    "text": "3 hrs 43 mins",
+                    "hours": 3,
+                    "minutes": 43,
+                    "seconds": 43,
+                    "percent": 69.78
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 5355.814,
+                    "digital": "1:29:15",
+                    "decimal": "1.48",
+                    "text": "1 hr 29 mins",
+                    "hours": 1,
+                    "minutes": 29,
+                    "seconds": 15,
+                    "percent": 27.84
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 435.452,
+                    "digital": "0:07:15",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 15,
+                    "percent": 2.26
+                },
+                {
+                    "name": "Writing Tests",
+                    "total_seconds": 21.11,
+                    "digital": "0:00:21",
+                    "decimal": "0.00",
+                    "text": "21 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "percent": 0.11
+                },
+                {
+                    "name": "Building",
+                    "total_seconds": 1.771,
                     "digital": "0:00:01",
                     "decimal": "0.00",
                     "text": "1 sec",
@@ -726,89 +752,63 @@
                     "percent": 100.0
                 }
             ],
-            "editors": [
+            "projects": [
                 {
-                    "name": "VS Code",
-                    "total_seconds": 19237.961,
-                    "digital": "5:20:37",
-                    "decimal": "5.33",
-                    "text": "5 hrs 20 mins",
-                    "hours": 5,
+                    "name": "py_fingerprint",
+                    "total_seconds": 10462.951,
+                    "ai_additions": 17,
+                    "ai_deletions": 0,
+                    "human_additions": 876,
+                    "human_deletions": 761,
+                    "color": null,
+                    "digital": "2:54:22",
+                    "decimal": "2.90",
+                    "text": "2 hrs 54 mins",
+                    "hours": 2,
+                    "minutes": 54,
+                    "seconds": 22,
+                    "percent": 54.39
+                },
+                {
+                    "name": "stats.pphat.top",
+                    "total_seconds": 8421.694,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 517,
+                    "human_deletions": 804,
+                    "color": null,
+                    "digital": "2:20:21",
+                    "decimal": "2.33",
+                    "text": "2 hrs 20 mins",
+                    "hours": 2,
                     "minutes": 20,
-                    "seconds": 37,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 19237.961,
-                    "digital": "5:20:37",
-                    "decimal": "5.33",
-                    "text": "5 hrs 20 mins",
-                    "hours": 5,
-                    "minutes": 20,
-                    "seconds": 37,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 13423.814,
-                    "digital": "3:43:43",
-                    "decimal": "3.72",
-                    "text": "3 hrs 43 mins",
-                    "hours": 3,
-                    "minutes": 43,
-                    "seconds": 43,
-                    "percent": 69.78
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 5355.814,
-                    "digital": "1:29:15",
-                    "decimal": "1.48",
-                    "text": "1 hr 29 mins",
-                    "hours": 1,
-                    "minutes": 29,
-                    "seconds": 15,
-                    "percent": 27.84
-                },
-                {
-                    "name": "AI Coding",
-                    "total_seconds": 435.452,
-                    "digital": "0:07:15",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 15,
-                    "percent": 2.26
-                },
-                {
-                    "name": "Writing Tests",
-                    "total_seconds": 21.11,
-                    "digital": "0:00:21",
-                    "decimal": "0.00",
-                    "text": "21 secs",
-                    "hours": 0,
-                    "minutes": 0,
                     "seconds": 21,
-                    "percent": 0.11
+                    "percent": 43.78
                 },
                 {
-                    "name": "Building",
-                    "total_seconds": 1.771,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
+                    "name": "Unknown Project",
+                    "total_seconds": 353.316,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:05:53",
+                    "decimal": "0.08",
+                    "text": "5 mins",
                     "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.01
+                    "minutes": 5,
+                    "seconds": 53,
+                    "percent": 1.84
                 }
-            ]
+            ],
+            "range": {
+                "start": "2026-03-17T17:00:00Z",
+                "end": "2026-03-18T16:59:59Z",
+                "date": "2026-03-18",
+                "text": "Wed Mar 18th 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-03-17T17:00:00Z",

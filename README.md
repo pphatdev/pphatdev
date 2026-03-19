@@ -82,6 +82,33 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <!--END_SECTION:followers-->
 </div>
 
+
+# Recent Blogs
+
+<!--START_SECTION:blogs-->
+<table>
+<tr>
+<td width="50%" valign="top">
+<table>
+<tr>
+<td><a href="https://pphat.me/posts/07-03-2026-kampot"><img src="https://cdn.api.pphat.stackdev.cloud/api/image/assets/2026-03-11_3db1720c-53db-4351-b122-0e3863e3bfbf.webp?fm=webp&q=80&w=1200&fit=cover" width="100%" alt="ហ្នឹងមែនៗ កំពត!! 😂" /></a></td>
+</tr>
+<tr>
+<td><strong><a href="https://pphat.me/posts/07-03-2026-kampot">ហ្នឹងមែនៗ កំពត!! 😂</a></strong></td>
+</tr>
+<tr>
+<td>អានុស្សាវរីយ៍ដំណើរកំសាន្តជុំគ្នារបស់ពួកយើងនៅខេត្តកំពត និងខេត្តកែប នៅថ្ងៃទី ០៧ មីនា ២០២៦</td>
+</tr>
+<tr>
+<td><sub>Mar 07, 2026</sub></td>
+</tr>
+</table>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+<!--END_SECTION:blogs-->
+
 <br>
 
 ---
