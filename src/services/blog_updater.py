@@ -25,49 +25,39 @@ def _build_blogs_section(posts):
         created_at = _format_date(post.get("createdAt", ""))
         url = f"https://pphat.me/posts/{slug}"
 
-        card = ["<td width=\"50%\" valign=\"top\">", "<table width='100%'>"]
+        card = [
+            '<td width="250px" valign="top">',
+            "<div>",
+        ]
         if thumbnail:
             card.extend(
                 [
-                    "<tr>",
-                    f'<td><a href="{url}"><img src="{thumbnail}" width="100%" alt="{title}" /></a></td>',
-                    "</tr>",
+                    f'<a href="{url}">',
+                    f'<img src="{thumbnail}" width="250px" alt="{title}" />',
+                    "</a>",
                 ]
             )
         card.extend(
             [
-                "<tr>",
-                f'<td><strong><a href="{url}">{title}</a></strong></td>',
-                "</tr>",
-            ]
-        )
-        if description:
-            card.extend(
-                [
-                    "<tr>",
-                    f"<td>{description}</td>",
-                    "</tr>",
-                ]
-            )
-        card.extend(
-            [
-                "<tr>",
-                f"<td><sub>{created_at}</sub></td>",
-                "</tr>",
-                "</table>",
+                f'<strong><a href="{url}">{title}</a></strong>',
+                f"<p>{description}</p>" if description else "",
+                "",
+                f"<sub>{created_at}</sub>",
+                "</div>",
                 "</td>",
             ]
         )
         cards.append("\n".join(card))
 
     rows = []
-    for index in range(0, len(cards), 2):
-        row_cards = cards[index:index + 2]
-        if len(row_cards) == 1:
-            row_cards.append('<td width="50%"></td>')
+    columns_per_row = 3
+    for index in range(0, len(cards), columns_per_row):
+        row_cards = cards[index:index + columns_per_row]
+        while len(row_cards) < columns_per_row:
+            row_cards.append('<td width="250px" valign="top"></td>')
         rows.append("<tr>\n" + "\n".join(row_cards) + "\n</tr>")
 
-    return "<table width='100%'>\n" + "\n".join(rows) + "\n</table>"
+    return "<table width='400px'>\n" + "\n".join(rows) + "\n</table>"
 
 
 def get_recent_blog_posts():

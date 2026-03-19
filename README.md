@@ -86,25 +86,21 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 # Recent Blogs
 
 <!--START_SECTION:blogs-->
-<table width='100%'>
+<table width='400px'>
 <tr>
-<td width="50%" valign="top">
-<table width='100%'>
-<tr>
-<td><a href="https://pphat.me/posts/07-03-2026-kampot"><img src="https://cdn.api.pphat.stackdev.cloud/api/image/assets/2026-03-11_3db1720c-53db-4351-b122-0e3863e3bfbf.webp?fm=webp&q=80&w=1200&fit=cover" width="100%" alt="ហ្នឹងមែនៗ កំពត!! 😂" /></a></td>
-</tr>
-<tr>
-<td><strong><a href="https://pphat.me/posts/07-03-2026-kampot">ហ្នឹងមែនៗ កំពត!! 😂</a></strong></td>
-</tr>
-<tr>
-<td>អានុស្សាវរីយ៍ដំណើរកំសាន្តជុំគ្នារបស់ពួកយើងនៅខេត្តកំពត និងខេត្តកែប នៅថ្ងៃទី ០៧ មីនា ២០២៦</td>
-</tr>
-<tr>
-<td><sub>Mar 07, 2026</sub></td>
-</tr>
-</table>
+<td width="250px" valign="top">
+<div>
+<a href="https://pphat.me/posts/07-03-2026-kampot">
+<img src="https://cdn.api.pphat.stackdev.cloud/api/image/assets/2026-03-11_3db1720c-53db-4351-b122-0e3863e3bfbf.webp?fm=webp&q=80&w=1200&fit=cover" width="250px" alt="ហ្នឹងមែនៗ កំពត!! 😂" />
+</a>
+<strong><a href="https://pphat.me/posts/07-03-2026-kampot">ហ្នឹងមែនៗ កំពត!! 😂</a></strong>
+<p>អានុស្សាវរីយ៍ដំណើរកំសាន្តជុំគ្នារបស់ពួកយើងនៅខេត្តកំពត និងខេត្តកែប នៅថ្ងៃទី ០៧ មីនា ២០២៦</p>
+
+<sub>Mar 07, 2026</sub>
+</div>
 </td>
-<td width="50%"></td>
+<td width="250px" valign="top"></td>
+<td width="250px" valign="top"></td>
 </tr>
 </table>
 <!--END_SECTION:blogs-->
