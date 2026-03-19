@@ -36,8 +36,7 @@ jobs:
 
       - name: Update README stats
         id: update_stats
-        uses: pphatdev/pphatdev@v1.0.4
-        # uses: ./
+        uses: ./
         with:
           waka-token: ${{ secrets.WAKA_KEY }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -47,7 +46,7 @@ jobs:
         if: steps.update_stats.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(readme): update daily coding stats"
+          commit_message: "chore(readme): update daily stats and followers"
           file_pattern: "README.md data/coding_stats.json"
           branch: main
 
