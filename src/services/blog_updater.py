@@ -50,14 +50,14 @@ def _build_blogs_section(posts):
         cards.append("\n".join(card))
 
     rows = []
-    columns_per_row = 3
+    columns_per_row = 4
     for index in range(0, len(cards), columns_per_row):
         row_cards = cards[index:index + columns_per_row]
         while len(row_cards) < columns_per_row:
             row_cards.append('<td width="250px" valign="top"></td>')
         rows.append("<tr>\n" + "\n".join(row_cards) + "\n</tr>")
 
-    return "<table width='400px'>\n" + "\n".join(rows) + "\n</table>"
+    return "<table width='400px' border='0'>\n" + "\n".join(rows) + "\n</table>"
 
 
 def get_recent_blog_posts():

@@ -86,7 +86,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 # Recent Blogs
 
 <!--START_SECTION:blogs-->
-<table width='400px'>
+<table width='400px' border='0'>
 <tr>
 <td width="250px" valign="top">
 <div>
@@ -99,6 +99,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <sub>Mar 07, 2026</sub>
 </div>
 </td>
+<td width="250px" valign="top"></td>
 <td width="250px" valign="top"></td>
 <td width="250px" valign="top"></td>
 </tr>
