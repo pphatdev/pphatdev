@@ -6,6 +6,7 @@ from api.blog import BlogAPI
 
 START_TAG = "<!--START_SECTION:blogs-->"
 END_TAG = "<!--END_SECTION:blogs-->"
+SITE_ORIGIN = "https://pphat.me"
 
 
 def _format_date(iso_str: str) -> str:
@@ -26,12 +27,23 @@ def _ensure_thumbnail_width(url: str, width: int = 200) -> str:
     return urlunsplit((parsed.scheme, parsed.netloc, parsed.path, urlencode(query), parsed.fragment))
 
 
+def _ensure_absolute_url(url: str, origin: str = SITE_ORIGIN) -> str:
+    if not url:
+        return url
+
+    if url.startswith(("http://", "https://")):
+        return url
+
+    return f"{origin}{url}" if url.startswith("/") else f"{origin}/{url}"
+
+
 def _build_blogs_section(posts):
     cards = []
     for post in posts:
         title = post.get("title", "Untitled")
         slug = post.get("slug", "")
         thumbnail = _ensure_thumbnail_width(post.get("thumbnail", ""), width=200)
+        thumbnail_url = _ensure_absolute_url(thumbnail)
         url = f"https://pphat.me/posts/{slug}"
 
         card = []
@@ -40,8 +52,8 @@ def _build_blogs_section(posts):
                 [
                     f'<a href="{url}" style="width: 200px;">',
                     "    <picture>",
-                    f'    <source media="(prefers-color-scheme: dark)" srcset="{thumbnail}">',
-                    f'    <img src="{thumbnail}" alt="{title}" title="{title}">',
+                    f'    <source media="(prefers-color-scheme: dark)" srcset="{thumbnail_url}">',
+                    f'    <img src="{thumbnail_url}" alt="{title}" title="{title}">',
                     "    </picture>",
                     f"    <p>{title}</p>",
                     "</a>",
