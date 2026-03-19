@@ -67,7 +67,7 @@ def _build_blogs_section(posts):
             row_cards.append('<td width="50%"></td>')
         rows.append("<tr>\n" + "\n".join(row_cards) + "\n</tr>")
 
-    return "<table>\n" + "\n".join(rows) + "\n</table>"
+    return "<table width='100%'>\n" + "\n".join(rows) + "\n</table>"
 
 
 def get_recent_blog_posts():
