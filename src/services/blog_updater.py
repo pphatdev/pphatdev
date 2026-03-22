@@ -75,8 +75,9 @@ def get_recent_blog_posts():
     start_index = content.find(START_TAG)
     end_index = content.find(END_TAG)
 
-    if start_index == -1 or end_index == -1:
-        raise ValueError("Could not find blog section markers in README.md")
+    # Skip silently when README has no blog section markers.
+    if start_index == -1 or end_index == -1 or end_index < start_index:
+        return posts
 
     end_index += len(END_TAG)
     new_section = f"{START_TAG}\n{_build_blogs_section(posts)}\n{END_TAG}"

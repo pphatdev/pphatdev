@@ -42,17 +42,15 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████░░░░░░░░░░░░ ⁝ 53.9% • TypeScript
-█████░░░░░░░░░░░░░░░░░░░░ ⁝ 19.54% • JSON
-████░░░░░░░░░░░░░░░░░░░░░ ⁝ 15.05% • MDX
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.09% • Bash
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.2% • Markdown
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.66% • JavaScript
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.94% • HTML
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.66% • TSConfig
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.54% • XML
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.27% • INI
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.14% • Other
+██████████████████████░░░ ⁝ 87.25% • TypeScript
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.73% • JSON
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.32% • Bash
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.81% • INI
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.45% • Python
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.4% • Other
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.03% • Git Config
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.01% • Text
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.0% • MDX
 ```
 <!--END_SECTION:daily-->
 
@@ -68,6 +66,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <div>
 <!--START_SECTION:followers-->
+<a href="https://github.com/RaksaOC"><img src="https://avatars.githubusercontent.com/u/123465277?s=130&v=4" width="60" height="60" alt="RaksaOC" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/phanithphan"><img src="https://avatars.githubusercontent.com/u/263699332?s=130&v=4" width="60" height="60" alt="phanithphan" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/hexarch"><img src="https://avatars.githubusercontent.com/u/67343604?s=130&v=4" width="60" height="60" alt="hexarch" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/AVENOIR-REVERIE"><img src="https://avatars.githubusercontent.com/u/208582167?s=130&v=4" width="60" height="60" alt="AVENOIR-REVERIE" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
@@ -75,7 +74,6 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <a href="https://github.com/ishandutta2007"><img src="https://avatars.githubusercontent.com/u/2527354?s=130&v=4" width="60" height="60" alt="ishandutta2007" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/youngkimtesting12345"><img src="https://avatars.githubusercontent.com/u/261312078?s=130&v=4" width="60" height="60" alt="youngkimtesting12345" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/prime-autobot"><img src="https://avatars.githubusercontent.com/u/224136678?s=130&v=4" width="60" height="60" alt="prime-autobot" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/kanangmin76-sudo"><img src="https://avatars.githubusercontent.com/u/239620752?s=130&v=4" width="60" height="60" alt="kanangmin76-sudo" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <!--END_SECTION:followers-->
 </div>
 
