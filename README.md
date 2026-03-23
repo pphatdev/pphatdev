@@ -59,7 +59,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <br>
 
-## ✨ My Recent friends
+## ✨ My new friends
 
 <div>
 <!--START_SECTION:followers-->
