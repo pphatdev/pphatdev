@@ -6,12 +6,14 @@
 
 <div style="margin-top: 20px;">
 
-<img src="https://stats.pphat.top/badge/visitors?username=pphatdev&theme=ocean" alt="PPhat Profile Visitors"/>
+<!-- <img src="https://stats.pphat.top/badge/visitors?username=pphatdev&theme=ocean" alt="PPhat Profile Visitors"/>
 <img src="https://stats.pphat.top/badge/repositories?username=pphatdev&theme=neon" alt="PPhat Profile Repositories"/>
 <img src="https://stats.pphat.top/badge/languages?username=pphatdev&theme=inferno" alt="PPhat Profile Languages"/>
 <img src="https://stats.pphat.top/badge/followers?username=pphatdev&theme=matrix" alt="PPhat Profile Followers"/>
 <img src="https://stats.pphat.top/badge/total-stars?username=pphatdev&theme=solar" alt="PPhat Profile Total Stars"/>
-<img src="https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy" alt="PPhat Profile Total Contributors"/>
+<img src="https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy" alt="PPhat Profile Total Contributors"/> -->
+
+![](https://stats.pphat.top/badge/collection?username=pphatdev&type=visitors,repositories,languages,followers,total-stars,total-contributors&theme=ocean,neon,inferno,matrix,solar,galaxy&effect=wave&padding=10)
 
 <br>
 
