@@ -13,7 +13,7 @@
 <img src="https://stats.pphat.top/badge/total-stars?username=pphatdev&theme=solar" alt="PPhat Profile Total Stars"/>
 <img src="https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy" alt="PPhat Profile Total Contributors"/> -->
 
-![](https://stats.pphat.top/badges?username=pphatdev&name=visitors,repositories,languages,followers,total-stars,total-contributors&theme=ocean,neon,inferno,matrix,solar,galaxy&padding=10)
+![](https://stats.pphat.top/badges?username=pphatdev&name=visitors,repositories,languages,followers,total-stars,total-contributors&theme=ocean,neon,inferno,matrix,solar,galaxy&padding=10&size=medium)
 
 _កម្មករសរសេរកូដ_ 😂 _(Vibe Coder • Vibe Designer)_
 
