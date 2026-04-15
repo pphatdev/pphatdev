@@ -40,10 +40,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████░░░░░░░░░░░░ ⁝ 53.55% • TypeScript
-█████░░░░░░░░░░░░░░░░░░░░ ⁝ 18.33% • Other
-█████░░░░░░░░░░░░░░░░░░░░ ⁝ 18.17% • JSON
-██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 9.95% • Bash
+█████████████████████████ ⁝ 100.0% • TypeScript
 ```
 <!--END_SECTION:daily-->
 
