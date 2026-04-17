@@ -27,13 +27,18 @@ def get_daily_activity():
     yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
     stats = wakatimes.daily_activity(date=yesterday)
     daily_entries = stats.get("data", [])
+    languages = daily_entries[0].get("languages", []) if daily_entries else []
 
-    if not daily_entries:
-        raise ValueError(f"No WakaTime activity data returned for {yesterday}.")
-
-    languages = daily_entries[0].get("languages", [])
     if not languages:
-        raise ValueError(f"No language activity found for {yesterday}.")
+        print(f"No language activity found for {yesterday}. Falling back to cached stats.")
+        if CODING_STATS_PATH.exists():
+            cached = json.loads(CODING_STATS_PATH.read_text(encoding="utf-8"))
+            cached_entries = cached.get("data", [])
+            languages = cached_entries[0].get("languages", []) if cached_entries else []
+
+        if not languages:
+            print("No cached activity available. Skipping daily section update.")
+            return None
 
     DATA_PATH.mkdir(parents=True, exist_ok=True)
     CODING_STATS_PATH.write_text(
