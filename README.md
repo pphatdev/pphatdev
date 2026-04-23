@@ -66,6 +66,12 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <br>
 
+## 🧪 Most coding language 
+
+<img align='middle' src="https://stats.pphat.top/languages?username=pphatdev&type=pie&show_info=true&theme=default" width="100%" alt="GitHub Stats"/>
+
+
+
 ## ✨ Hello new friends
 
 <div>
@@ -83,3 +89,4 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 </div>
 
 <br>
+
