@@ -308,28 +308,6 @@
                     "percent": 2.81
                 },
                 {
-                    "name": "grid-pattern",
-                    "total_seconds": 4255.786,
-                    "digital": "1:10:55",
-                    "decimal": "1.17",
-                    "text": "1 hr 10 mins",
-                    "hours": 1,
-                    "minutes": 10,
-                    "seconds": 55,
-                    "percent": 2.8
-                },
-                {
-                    "name": "post-cover-image",
-                    "total_seconds": 4255.786,
-                    "digital": "1:10:55",
-                    "decimal": "1.17",
-                    "text": "1 hr 10 mins",
-                    "hours": 1,
-                    "minutes": 10,
-                    "seconds": 55,
-                    "percent": 2.8
-                },
-                {
                     "name": "date-fns",
                     "total_seconds": 4255.786,
                     "digital": "1:10:55",
@@ -352,7 +330,7 @@
                     "percent": 2.8
                 },
                 {
-                    "name": "markdown-renderer",
+                    "name": "button",
                     "total_seconds": 4255.786,
                     "digital": "1:10:55",
                     "decimal": "1.17",
@@ -363,7 +341,18 @@
                     "percent": 2.8
                 },
                 {
-                    "name": "code-block-node",
+                    "name": "software-application",
+                    "total_seconds": 4255.786,
+                    "digital": "1:10:55",
+                    "decimal": "1.17",
+                    "text": "1 hr 10 mins",
+                    "hours": 1,
+                    "minutes": 10,
+                    "seconds": 55,
+                    "percent": 2.8
+                },
+                {
+                    "name": "post-cover-image",
                     "total_seconds": 4255.786,
                     "digital": "1:10:55",
                     "decimal": "1.17",
@@ -396,7 +385,7 @@
                     "percent": 2.8
                 },
                 {
-                    "name": "button",
+                    "name": "grid-pattern",
                     "total_seconds": 4255.786,
                     "digital": "1:10:55",
                     "decimal": "1.17",
@@ -407,7 +396,18 @@
                     "percent": 2.8
                 },
                 {
-                    "name": "software-application",
+                    "name": "markdown-renderer",
+                    "total_seconds": 4255.786,
+                    "digital": "1:10:55",
+                    "decimal": "1.17",
+                    "text": "1 hr 10 mins",
+                    "hours": 1,
+                    "minutes": 10,
+                    "seconds": 55,
+                    "percent": 2.8
+                },
+                {
+                    "name": "code-block-node",
                     "total_seconds": 4255.786,
                     "digital": "1:10:55",
                     "decimal": "1.17",
@@ -572,7 +572,7 @@
                     "percent": 1.03
                 },
                 {
-                    "name": "loading-safe",
+                    "name": "project-hero",
                     "total_seconds": 1544.535,
                     "digital": "0:25:44",
                     "decimal": "0.42",
@@ -594,7 +594,7 @@
                     "percent": 1.02
                 },
                 {
-                    "name": "project-hero",
+                    "name": "loading-safe",
                     "total_seconds": 1544.535,
                     "digital": "0:25:44",
                     "decimal": "0.42",
@@ -627,7 +627,7 @@
                     "percent": 1.02
                 },
                 {
-                    "name": "tags.service",
+                    "name": "tags",
                     "total_seconds": 1506.771,
                     "digital": "0:25:06",
                     "decimal": "0.42",
@@ -638,7 +638,7 @@
                     "percent": 0.99
                 },
                 {
-                    "name": "tags",
+                    "name": "tags.service",
                     "total_seconds": 1506.771,
                     "digital": "0:25:06",
                     "decimal": "0.42",
@@ -693,7 +693,7 @@
                     "percent": 0.62
                 },
                 {
-                    "name": "@types/node",
+                    "name": "typescript",
                     "total_seconds": 746.154,
                     "digital": "0:12:26",
                     "decimal": "0.20",
@@ -715,18 +715,7 @@
                     "percent": 0.49
                 },
                 {
-                    "name": "@types/nodemailer",
-                    "total_seconds": 746.154,
-                    "digital": "0:12:26",
-                    "decimal": "0.20",
-                    "text": "12 mins",
-                    "hours": 0,
-                    "minutes": 12,
-                    "seconds": 26,
-                    "percent": 0.49
-                },
-                {
-                    "name": "typescript",
+                    "name": "npm",
                     "total_seconds": 746.154,
                     "digital": "0:12:26",
                     "decimal": "0.20",
@@ -748,7 +737,7 @@
                     "percent": 0.49
                 },
                 {
-                    "name": "@cloudflare/vitest-pool-workers",
+                    "name": "@types/nodemailer",
                     "total_seconds": 746.154,
                     "digital": "0:12:26",
                     "decimal": "0.20",
@@ -759,7 +748,18 @@
                     "percent": 0.49
                 },
                 {
-                    "name": "npm",
+                    "name": "@types/node",
+                    "total_seconds": 746.154,
+                    "digital": "0:12:26",
+                    "decimal": "0.20",
+                    "text": "12 mins",
+                    "hours": 0,
+                    "minutes": 12,
+                    "seconds": 26,
+                    "percent": 0.49
+                },
+                {
+                    "name": "@cloudflare/vitest-pool-workers",
                     "total_seconds": 746.154,
                     "digital": "0:12:26",
                     "decimal": "0.20",
@@ -781,7 +781,7 @@
                     "percent": 0.47
                 },
                 {
-                    "name": "articles.service",
+                    "name": "articles",
                     "total_seconds": 524.755,
                     "digital": "0:08:44",
                     "decimal": "0.13",
@@ -792,7 +792,7 @@
                     "percent": 0.35
                 },
                 {
-                    "name": "articles",
+                    "name": "articles.service",
                     "total_seconds": 524.755,
                     "digital": "0:08:44",
                     "decimal": "0.13",
@@ -825,29 +825,7 @@
                     "percent": 0.11
                 },
                 {
-                    "name": "tags.routes",
-                    "total_seconds": 128.535,
-                    "digital": "0:02:08",
-                    "decimal": "0.03",
-                    "text": "2 mins",
-                    "hours": 0,
-                    "minutes": 2,
-                    "seconds": 8,
-                    "percent": 0.08
-                },
-                {
                     "name": "authors.routes",
-                    "total_seconds": 128.535,
-                    "digital": "0:02:08",
-                    "decimal": "0.03",
-                    "text": "2 mins",
-                    "hours": 0,
-                    "minutes": 2,
-                    "seconds": 8,
-                    "percent": 0.08
-                },
-                {
-                    "name": "projects.route",
                     "total_seconds": 128.535,
                     "digital": "0:02:08",
                     "decimal": "0.03",
@@ -870,6 +848,28 @@
                 },
                 {
                     "name": "articles.route",
+                    "total_seconds": 128.535,
+                    "digital": "0:02:08",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 8,
+                    "percent": 0.08
+                },
+                {
+                    "name": "tags.routes",
+                    "total_seconds": 128.535,
+                    "digital": "0:02:08",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 8,
+                    "percent": 0.08
+                },
+                {
+                    "name": "projects.route",
                     "total_seconds": 128.535,
                     "digital": "0:02:08",
                     "decimal": "0.03",
@@ -913,7 +913,7 @@
                     "percent": 0.07
                 },
                 {
-                    "name": "article-comments.controller",
+                    "name": "articles.controller",
                     "total_seconds": 112.0,
                     "digital": "0:01:52",
                     "decimal": "0.02",
@@ -935,7 +935,7 @@
                     "percent": 0.07
                 },
                 {
-                    "name": "articles.controller",
+                    "name": "article-comments.controller",
                     "total_seconds": 112.0,
                     "digital": "0:01:52",
                     "decimal": "0.02",
@@ -1034,17 +1034,6 @@
                     "percent": 0.03
                 },
                 {
-                    "name": "theme-switch",
-                    "total_seconds": 25.46,
-                    "digital": "0:00:25",
-                    "decimal": "0.00",
-                    "text": "25 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 25,
-                    "percent": 0.02
-                },
-                {
                     "name": "resizable-navbar",
                     "total_seconds": 25.46,
                     "digital": "0:00:25",
@@ -1067,7 +1056,18 @@
                     "percent": 0.02
                 },
                 {
-                    "name": "project-details.controller",
+                    "name": "theme-switch",
+                    "total_seconds": 25.46,
+                    "digital": "0:00:25",
+                    "decimal": "0.00",
+                    "text": "25 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "percent": 0.02
+                },
+                {
+                    "name": "projects.controller",
                     "total_seconds": 22.015,
                     "digital": "0:00:22",
                     "decimal": "0.00",
@@ -1078,7 +1078,7 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "projects.controller",
+                    "name": "project-details.controller",
                     "total_seconds": 22.015,
                     "digital": "0:00:22",
                     "decimal": "0.00",
@@ -1111,7 +1111,7 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "project-details.service",
+                    "name": "project-details",
                     "total_seconds": 7.724,
                     "digital": "0:00:07",
                     "decimal": "0.00",
@@ -1122,7 +1122,7 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "project-details",
+                    "name": "project-details.service",
                     "total_seconds": 7.724,
                     "digital": "0:00:07",
                     "decimal": "0.00",
@@ -1179,6 +1179,7 @@
                     "human_deletions": 396,
                     "ai_input_tokens": 30160,
                     "ai_output_tokens": 156,
+                    "color": null,
                     "sum_ai_prompt_length": 82,
                     "avg_ai_prompt_length": 20,
                     "num_ai_prompt_events": 4,
@@ -1199,6 +1200,7 @@
                     "human_deletions": 25,
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
+                    "color": null,
                     "sum_ai_prompt_length": 4646,
                     "avg_ai_prompt_length": 310,
                     "num_ai_prompt_events": 15,
@@ -1219,6 +1221,7 @@
                     "human_deletions": 0,
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
+                    "color": null,
                     "sum_ai_prompt_length": 142,
                     "avg_ai_prompt_length": 71,
                     "num_ai_prompt_events": 2,
@@ -1239,6 +1242,7 @@
                     "human_deletions": 0,
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
+                    "color": null,
                     "sum_ai_prompt_length": 33,
                     "avg_ai_prompt_length": 33,
                     "num_ai_prompt_events": 1,
@@ -1259,6 +1263,7 @@
                     "human_deletions": 0,
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
+                    "color": null,
                     "sum_ai_prompt_length": 0,
                     "avg_ai_prompt_length": 0,
                     "num_ai_prompt_events": 0,
@@ -1279,6 +1284,7 @@
                     "human_deletions": 0,
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
+                    "color": null,
                     "sum_ai_prompt_length": 28,
                     "avg_ai_prompt_length": 28,
                     "num_ai_prompt_events": 1,
@@ -1299,6 +1305,7 @@
                     "human_deletions": 0,
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
+                    "color": null,
                     "sum_ai_prompt_length": 0,
                     "avg_ai_prompt_length": 0,
                     "num_ai_prompt_events": 0,
