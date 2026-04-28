@@ -71,9 +71,9 @@
                 "human_deletions": 34,
                 "ai_input_tokens": 254949,
                 "ai_output_tokens": 3567,
-                "avg_ai_prompt_length": 47,
-                "num_ai_prompt_events": 7,
-                "sum_ai_prompt_length": 331
+                "ai_prompt_length_avg": 47,
+                "ai_prompt_length_sum": 331,
+                "ai_prompt_events": 7
             },
             "editors": [
                 {
@@ -85,9 +85,9 @@
                     "human_deletions": 34,
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
-                    "sum_ai_prompt_length": 10,
-                    "avg_ai_prompt_length": 10,
-                    "num_ai_prompt_events": 1,
+                    "ai_prompt_length_sum": 10,
+                    "ai_prompt_events": 1,
+                    "ai_prompt_length_avg": 10,
                     "digital": "3:25:26",
                     "decimal": "3.42",
                     "text": "3 hrs 25 mins",
@@ -105,9 +105,9 @@
                     "human_deletions": 0,
                     "ai_input_tokens": 254949,
                     "ai_output_tokens": 3567,
-                    "sum_ai_prompt_length": 321,
-                    "avg_ai_prompt_length": 54,
-                    "num_ai_prompt_events": 6,
+                    "ai_prompt_length_sum": 321,
+                    "ai_prompt_events": 6,
+                    "ai_prompt_length_avg": 54,
                     "digital": "0:05:11",
                     "decimal": "0.08",
                     "text": "5 mins",
@@ -222,17 +222,6 @@
                     "percent": 5.67
                 },
                 {
-                    "name": "tailwind-merge",
-                    "total_seconds": 699.873,
-                    "digital": "0:11:39",
-                    "decimal": "0.18",
-                    "text": "11 mins",
-                    "hours": 0,
-                    "minutes": 11,
-                    "seconds": 39,
-                    "percent": 5.67
-                },
-                {
                     "name": "alert-dialog",
                     "total_seconds": 699.873,
                     "digital": "0:11:39",
@@ -244,15 +233,15 @@
                     "percent": 5.67
                 },
                 {
-                    "name": "map",
-                    "total_seconds": 17.722,
-                    "digital": "0:00:17",
-                    "decimal": "0.00",
-                    "text": "17 secs",
+                    "name": "tailwind-merge",
+                    "total_seconds": 699.873,
+                    "digital": "0:11:39",
+                    "decimal": "0.18",
+                    "text": "11 mins",
                     "hours": 0,
-                    "minutes": 0,
-                    "seconds": 17,
-                    "percent": 0.14
+                    "minutes": 11,
+                    "seconds": 39,
+                    "percent": 5.67
                 },
                 {
                     "name": "Select2",
@@ -266,7 +255,7 @@
                     "percent": 0.14
                 },
                 {
-                    "name": "moment-mini",
+                    "name": "map",
                     "total_seconds": 17.722,
                     "digital": "0:00:17",
                     "decimal": "0.00",
@@ -278,6 +267,17 @@
                 },
                 {
                     "name": "accordion",
+                    "total_seconds": 17.722,
+                    "digital": "0:00:17",
+                    "decimal": "0.00",
+                    "text": "17 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "percent": 0.14
+                },
+                {
+                    "name": "moment-mini",
                     "total_seconds": 17.722,
                     "digital": "0:00:17",
                     "decimal": "0.00",
@@ -310,7 +310,7 @@
                     "percent": 0.11
                 },
                 {
-                    "name": "ParagonIE",
+                    "name": "GuzzleHttp",
                     "total_seconds": 9.817,
                     "digital": "0:00:09",
                     "decimal": "0.00",
@@ -321,7 +321,7 @@
                     "percent": 0.08
                 },
                 {
-                    "name": "GuzzleHttp",
+                    "name": "ParagonIE",
                     "total_seconds": 9.817,
                     "digital": "0:00:09",
                     "decimal": "0.00",
@@ -378,9 +378,10 @@
                     "human_deletions": 34,
                     "ai_input_tokens": 254949,
                     "ai_output_tokens": 3567,
-                    "sum_ai_prompt_length": 326,
-                    "avg_ai_prompt_length": 65,
-                    "num_ai_prompt_events": 5,
+                    "ai_prompt_length_sum": 326,
+                    "ai_prompt_events": 5,
+                    "color": null,
+                    "ai_prompt_length_avg": 65,
                     "digital": "3:28:32",
                     "decimal": "3.47",
                     "text": "3 hrs 28 mins",
@@ -398,9 +399,10 @@
                     "human_deletions": 0,
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
-                    "sum_ai_prompt_length": 5,
-                    "avg_ai_prompt_length": 2,
-                    "num_ai_prompt_events": 2,
+                    "ai_prompt_length_sum": 5,
+                    "ai_prompt_events": 2,
+                    "color": null,
+                    "ai_prompt_length_avg": 2,
                     "digital": "0:02:05",
                     "decimal": "0.03",
                     "text": "2 mins",
