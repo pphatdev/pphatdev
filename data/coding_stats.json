@@ -352,7 +352,7 @@
                     "percent": 0.03
                 },
                 {
-                    "name": "date-fns",
+                    "name": "article",
                     "total_seconds": 0.0,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -374,51 +374,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "post-cover-image",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                },
-                {
-                    "name": "grid-pattern",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                },
-                {
                     "name": "separator",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                },
-                {
-                    "name": "lucide-react",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                },
-                {
-                    "name": "article",
                     "total_seconds": 0.0,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -451,7 +407,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "headers",
+                    "name": "lucide-react",
                     "total_seconds": 0.0,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -462,40 +418,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "react",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                },
-                {
-                    "name": "markdown-renderer",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                },
-                {
-                    "name": "breadcrumb-structured-data",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                },
-                {
-                    "name": "avatar",
+                    "name": "grid-pattern",
                     "total_seconds": 0.0,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -517,7 +440,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "scroll-to-top-button",
+                    "name": "date-fns",
                     "total_seconds": 0.0,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -528,7 +451,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "badge",
+                    "name": "headers",
                     "total_seconds": 0.0,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -550,7 +473,84 @@
                     "percent": 0.0
                 },
                 {
+                    "name": "badge",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "avatar",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
                     "name": "link",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "breadcrumb-structured-data",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "post-cover-image",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "react",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "scroll-to-top-button",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "markdown-renderer",
                     "total_seconds": 0.0,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -610,6 +610,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_prompt_length_avg": 0,
                     "digital": "2:32:48",
                     "decimal": "2.53",
@@ -630,6 +631,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_prompt_length_avg": 0,
                     "digital": "1:42:59",
                     "decimal": "1.70",
@@ -650,6 +652,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_prompt_length_avg": 0,
                     "digital": "0:02:38",
                     "decimal": "0.03",
@@ -670,6 +673,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_prompt_length_avg": 0,
                     "digital": "0:00:00",
                     "decimal": "0.00",
