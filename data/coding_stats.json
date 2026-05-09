@@ -208,7 +208,7 @@
                     "percent": 5.62
                 },
                 {
-                    "name": "button",
+                    "name": "icons-react",
                     "total_seconds": 1691.087,
                     "digital": "0:28:11",
                     "decimal": "0.47",
@@ -219,7 +219,7 @@
                     "percent": 5.42
                 },
                 {
-                    "name": "icons-react",
+                    "name": "button",
                     "total_seconds": 1691.087,
                     "digital": "0:28:11",
                     "decimal": "0.47",
@@ -252,7 +252,7 @@
                     "percent": 2.6
                 },
                 {
-                    "name": "AutoMapper",
+                    "name": "Turbotech",
                     "total_seconds": 749.643,
                     "digital": "0:12:29",
                     "decimal": "0.20",
@@ -263,7 +263,7 @@
                     "percent": 2.4
                 },
                 {
-                    "name": "Turbotech",
+                    "name": "AutoMapper",
                     "total_seconds": 749.643,
                     "digital": "0:12:29",
                     "decimal": "0.20",
@@ -285,7 +285,7 @@
                     "percent": 0.9
                 },
                 {
-                    "name": "navigation",
+                    "name": "login-form",
                     "total_seconds": 170.671,
                     "digital": "0:02:50",
                     "decimal": "0.03",
@@ -296,7 +296,7 @@
                     "percent": 0.55
                 },
                 {
-                    "name": "login-form",
+                    "name": "navigation",
                     "total_seconds": 170.671,
                     "digital": "0:02:50",
                     "decimal": "0.03",
@@ -318,7 +318,7 @@
                     "percent": 0.23
                 },
                 {
-                    "name": "lucide-react",
+                    "name": "github",
                     "total_seconds": 69.731,
                     "digital": "0:01:09",
                     "decimal": "0.02",
@@ -351,7 +351,7 @@
                     "percent": 0.22
                 },
                 {
-                    "name": "github",
+                    "name": "lucide-react",
                     "total_seconds": 69.731,
                     "digital": "0:01:09",
                     "decimal": "0.02",
@@ -384,7 +384,7 @@
                     "percent": 0.18
                 },
                 {
-                    "name": "datatable",
+                    "name": "helper",
                     "total_seconds": 37.92,
                     "digital": "0:00:37",
                     "decimal": "0.00",
@@ -406,7 +406,7 @@
                     "percent": 0.12
                 },
                 {
-                    "name": "helper",
+                    "name": "datatable",
                     "total_seconds": 37.92,
                     "digital": "0:00:37",
                     "decimal": "0.00",
@@ -415,6 +415,17 @@
                     "minutes": 0,
                     "seconds": 37,
                     "percent": 0.12
+                },
+                {
+                    "name": "sessions",
+                    "total_seconds": 30.203,
+                    "digital": "0:00:30",
+                    "decimal": "0.00",
+                    "text": "30 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "percent": 0.1
                 },
                 {
                     "name": "field-protector",
@@ -429,17 +440,6 @@
                 },
                 {
                     "name": "deep-merge",
-                    "total_seconds": 30.203,
-                    "digital": "0:00:30",
-                    "decimal": "0.00",
-                    "text": "30 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 30,
-                    "percent": 0.1
-                },
-                {
-                    "name": "sessions",
                     "total_seconds": 30.203,
                     "digital": "0:00:30",
                     "decimal": "0.00",
@@ -472,7 +472,7 @@
                     "percent": 0.06
                 },
                 {
-                    "name": "pusher-js",
+                    "name": "laravel-echo",
                     "total_seconds": 17.834,
                     "digital": "0:00:17",
                     "decimal": "0.00",
@@ -483,7 +483,7 @@
                     "percent": 0.06
                 },
                 {
-                    "name": "laravel-echo",
+                    "name": "pusher-js",
                     "total_seconds": 17.834,
                     "digital": "0:00:17",
                     "decimal": "0.00",
@@ -516,6 +516,17 @@
                     "percent": 0.01
                 },
                 {
+                    "name": "dropdownButton",
+                    "total_seconds": 2.032,
+                    "digital": "0:00:02",
+                    "decimal": "0.00",
+                    "text": "2 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "percent": 0.01
+                },
+                {
                     "name": "toggleModal",
                     "total_seconds": 2.032,
                     "digital": "0:00:02",
@@ -538,29 +549,18 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "modalTabs",
-                    "total_seconds": 2.032,
-                    "digital": "0:00:02",
-                    "decimal": "0.00",
-                    "text": "2 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 2,
-                    "percent": 0.01
-                },
-                {
-                    "name": "dropdownButton",
-                    "total_seconds": 2.032,
-                    "digital": "0:00:02",
-                    "decimal": "0.00",
-                    "text": "2 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 2,
-                    "percent": 0.01
-                },
-                {
                     "name": "moment-mini",
+                    "total_seconds": 2.032,
+                    "digital": "0:00:02",
+                    "decimal": "0.00",
+                    "text": "2 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "percent": 0.01
+                },
+                {
+                    "name": "modalTabs",
                     "total_seconds": 2.032,
                     "digital": "0:00:02",
                     "decimal": "0.00",
@@ -593,7 +593,7 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "'crm::opportunity.schedule'",
+                    "name": "'crm::opportunity.qualified'",
                     "total_seconds": 0.603,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -604,7 +604,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "'crm::opportunity.qualified'",
+                    "name": "'crm::opportunity.schedule'",
                     "total_seconds": 0.603,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -642,6 +642,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
@@ -666,6 +667,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
@@ -690,6 +692,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
