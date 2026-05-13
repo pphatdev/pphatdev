@@ -1,4 +1,4 @@
-<img align='middle' src="https://stats.pphat.top/stats?username=pphatdev&avatar_mode=radar&data_border_style=frame" style="width:100%"/>
+<img align='middle' src="https://stats.pphat.top/stats?username=pphatdev&size=small&avatar_mode=radar&data_border_style=frame" style="width:100%"/>
 
 </div>
 
