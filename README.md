@@ -81,7 +81,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 - [Angkor-Rhapsody](https://github.com/Angkor-Rhapsody)
 - [RaksaOC](https://github.com/RaksaOC)
 - [phanithphan](https://github.com/phanithphan)
-- [HEUYUINE](https://github.com/HEUYUINE)
+- [SEV7NSEAS](https://github.com/SEV7NSEAS)
 <!--END_SECTION:followers-->
 </div>
 
