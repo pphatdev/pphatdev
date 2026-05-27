@@ -4,14 +4,14 @@
             "languages": [
                 {
                     "name": "Blade Template",
-                    "total_seconds": 3742.119,
-                    "digital": "1:02:22",
-                    "decimal": "1.03",
-                    "text": "1 hr 2 mins",
+                    "total_seconds": 3924.833,
+                    "digital": "1:05:24",
+                    "decimal": "1.08",
+                    "text": "1 hr 5 mins",
                     "hours": 1,
-                    "minutes": 2,
-                    "seconds": 22,
-                    "percent": 55.19
+                    "minutes": 5,
+                    "seconds": 24,
+                    "percent": 55.53
                 },
                 {
                     "name": "PHP",
@@ -22,18 +22,18 @@
                     "hours": 0,
                     "minutes": 24,
                     "seconds": 34,
-                    "percent": 21.75
+                    "percent": 20.86
                 },
                 {
                     "name": "Vue",
-                    "total_seconds": 1149.774,
-                    "digital": "0:19:09",
-                    "decimal": "0.32",
-                    "text": "19 mins",
+                    "total_seconds": 1250.887,
+                    "digital": "0:20:50",
+                    "decimal": "0.33",
+                    "text": "20 mins",
                     "hours": 0,
-                    "minutes": 19,
-                    "seconds": 9,
-                    "percent": 16.96
+                    "minutes": 20,
+                    "seconds": 50,
+                    "percent": 17.7
                 },
                 {
                     "name": "Markdown",
@@ -44,7 +44,7 @@
                     "hours": 0,
                     "minutes": 4,
                     "seconds": 24,
-                    "percent": 3.9
+                    "percent": 3.74
                 },
                 {
                     "name": "CSS",
@@ -55,18 +55,18 @@
                     "hours": 0,
                     "minutes": 2,
                     "seconds": 27,
-                    "percent": 2.18
+                    "percent": 2.09
                 },
                 {
                     "name": "Bash",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
+                    "total_seconds": 5.496,
+                    "digital": "0:00:05",
                     "decimal": "0.00",
-                    "text": "1 sec",
+                    "text": "5 secs",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.02
+                    "seconds": 5,
+                    "percent": 0.08
                 },
                 {
                     "name": "TypeScript",
@@ -78,35 +78,48 @@
                     "minutes": 0,
                     "seconds": 0,
                     "percent": 0.01
+                },
+                {
+                    "name": "JSON",
+                    "total_seconds": 0.0,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
                 }
             ],
             "grand_total": {
                 "hours": 1,
-                "minutes": 53,
-                "total_seconds": 6780.499,
-                "digital": "1:53",
-                "decimal": "1.88",
-                "text": "1 hr 53 mins",
+                "minutes": 57,
+                "total_seconds": 7068.297,
+                "digital": "1:57",
+                "decimal": "1.95",
+                "text": "1 hr 57 mins",
                 "ai_additions": 0,
                 "ai_deletions": 0,
-                "human_additions": 168,
-                "human_deletions": 161,
+                "human_additions": 169,
+                "human_deletions": 162,
                 "ai_agent_line_changes": {},
                 "ai_input_tokens": 0,
                 "ai_output_tokens": 0,
                 "ai_prompt_length_avg": 0,
                 "ai_prompt_length_sum": 0,
                 "ai_prompt_events": 0,
-                "ai_agent_costs": {}
+                "ai_agent_costs": {},
+                "ai_agent_breakdown": [],
+                "ai_agent_total_cost": 0
             },
             "editors": [
                 {
                     "name": "VS Code",
-                    "total_seconds": 6780.499,
+                    "total_seconds": 7068.297,
                     "ai_additions": 0,
                     "ai_deletions": 0,
-                    "human_additions": 168,
-                    "human_deletions": 161,
+                    "human_additions": 169,
+                    "human_deletions": 162,
                     "ai_agent_line_changes": {},
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
@@ -116,39 +129,39 @@
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
                     "ai_prompt_length_avg": 0,
-                    "digital": "1:53:00",
-                    "decimal": "1.88",
-                    "text": "1 hr 53 mins",
+                    "digital": "1:57:48",
+                    "decimal": "1.95",
+                    "text": "1 hr 57 mins",
                     "hours": 1,
-                    "minutes": 53,
-                    "seconds": 0,
+                    "minutes": 57,
+                    "seconds": 48,
                     "percent": 100.0
                 }
             ],
             "operating_systems": [
                 {
                     "name": "Windows",
-                    "total_seconds": 6780.499,
-                    "digital": "1:53:00",
-                    "decimal": "1.88",
-                    "text": "1 hr 53 mins",
+                    "total_seconds": 7068.297,
+                    "digital": "1:57:48",
+                    "decimal": "1.95",
+                    "text": "1 hr 57 mins",
                     "hours": 1,
-                    "minutes": 53,
-                    "seconds": 0,
+                    "minutes": 57,
+                    "seconds": 48,
                     "percent": 100.0
                 }
             ],
             "categories": [
                 {
                     "name": "Coding",
-                    "total_seconds": 6516.383,
-                    "digital": "1:48:36",
-                    "decimal": "1.80",
-                    "text": "1 hr 48 mins",
+                    "total_seconds": 6804.181,
+                    "digital": "1:53:24",
+                    "decimal": "1.88",
+                    "text": "1 hr 53 mins",
                     "hours": 1,
-                    "minutes": 48,
-                    "seconds": 36,
-                    "percent": 96.1
+                    "minutes": 53,
+                    "seconds": 24,
+                    "percent": 96.26
                 },
                 {
                     "name": "Writing Docs",
@@ -159,7 +172,7 @@
                     "hours": 0,
                     "minutes": 4,
                     "seconds": 24,
-                    "percent": 3.9
+                    "percent": 3.74
                 }
             ],
             "dependencies": [
@@ -211,21 +224,21 @@
             "machines": [
                 {
                     "name": "DESKTOP-SU9UIER",
-                    "total_seconds": 6780.499,
+                    "total_seconds": 7068.297,
                     "machine_name_id": "c62ace2a-cde0-4669-83ef-6779976e1db1",
-                    "digital": "1:53:00",
-                    "decimal": "1.88",
-                    "text": "1 hr 53 mins",
+                    "digital": "1:57:48",
+                    "decimal": "1.95",
+                    "text": "1 hr 57 mins",
                     "hours": 1,
-                    "minutes": 53,
-                    "seconds": 0,
+                    "minutes": 57,
+                    "seconds": 48,
                     "percent": 100.0
                 }
             ],
             "projects": [
                 {
                     "name": "standard-template",
-                    "total_seconds": 3159.927,
+                    "total_seconds": 3342.641,
                     "ai_additions": 0,
                     "ai_deletions": 0,
                     "human_additions": 9,
@@ -235,17 +248,18 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
                     "ai_prompt_length_avg": 0,
-                    "digital": "0:52:39",
-                    "decimal": "0.87",
-                    "text": "52 mins",
+                    "digital": "0:55:42",
+                    "decimal": "0.92",
+                    "text": "55 mins",
                     "hours": 0,
-                    "minutes": 52,
-                    "seconds": 39,
-                    "percent": 46.6
+                    "minutes": 55,
+                    "seconds": 42,
+                    "percent": 47.29
                 },
                 {
                     "name": "accounting-system",
@@ -259,6 +273,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
@@ -269,31 +284,32 @@
                     "hours": 0,
                     "minutes": 31,
                     "seconds": 6,
-                    "percent": 27.52
+                    "percent": 26.4
                 },
                 {
                     "name": "erp-apps",
-                    "total_seconds": 1754.335,
+                    "total_seconds": 1859.419,
                     "ai_additions": 0,
                     "ai_deletions": 0,
-                    "human_additions": 158,
-                    "human_deletions": 94,
+                    "human_additions": 159,
+                    "human_deletions": 95,
                     "ai_agent_line_changes": {},
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
                     "ai_prompt_length_avg": 0,
-                    "digital": "0:29:14",
-                    "decimal": "0.48",
-                    "text": "29 mins",
+                    "digital": "0:30:59",
+                    "decimal": "0.50",
+                    "text": "30 mins",
                     "hours": 0,
-                    "minutes": 29,
-                    "seconds": 14,
-                    "percent": 25.87
+                    "minutes": 30,
+                    "seconds": 59,
+                    "percent": 26.31
                 }
             ],
             "range": {
@@ -308,18 +324,18 @@
     "start": "2026-05-25T17:00:00Z",
     "end": "2026-05-26T16:59:59Z",
     "cumulative_total": {
-        "seconds": 6780.499,
-        "text": "1 hr 53 mins",
-        "digital": "1:53",
-        "decimal": "1.88"
+        "seconds": 7068.297,
+        "text": "1 hr 57 mins",
+        "digital": "1:57",
+        "decimal": "1.95"
     },
     "daily_average": {
         "holidays": 0,
         "days_minus_holidays": 1,
         "days_including_holidays": 1,
-        "seconds": 6780,
-        "seconds_including_other_language": 6780,
-        "text": "1 hr 53 mins",
-        "text_including_other_language": "1 hr 53 mins"
+        "seconds": 7068,
+        "seconds_including_other_language": 7068,
+        "text": "1 hr 57 mins",
+        "text_including_other_language": "1 hr 57 mins"
     }
 }
