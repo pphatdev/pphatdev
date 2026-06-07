@@ -40,8 +40,9 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-██████████████████░░░░░░░ ⁝ 70.62% • CSS
-███████░░░░░░░░░░░░░░░░░░ ⁝ 29.38% • Vue
+████████████████░░░░░░░░░ ⁝ 63.0% • Vue
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 23.68% • Markdown
+███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 13.32% • PHP
 ```
 <!--END_SECTION:daily-->
 
