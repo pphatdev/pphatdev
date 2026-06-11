@@ -29,7 +29,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <br>
 <div>
 
-![Tech Stack](https://stats.pphat.top/icons?name=typescript,javascript,nodejs,nextjs,nuxt,shadcnui,postgresql,drizzle,tailwindcss,laravel,csharp&columns=12&size=small&effect=wave)
+<img src="assets/icons.svg" title="PPhat - Tech Stack" alt="PPhat - Tech Stack"/>
 
 </div>
 

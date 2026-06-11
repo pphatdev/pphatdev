@@ -9,7 +9,8 @@ def update_cover_images():
     images = {
         "stats.svg": "https://stats.pphat.top/stats?username=pphatdev&size=large&avatar_mode=radar&data_border_style=frame",
         "graph.svg": "https://stats.pphat.top/graph?username=pphatdev&show_background=true&animate=pulse&size=small&show_title=false&show_total_contribution=false",
-        "languages.svg": "https://stats.pphat.top/languages?username=pphatdev&type=pie&show_info=true&theme=default"
+        "languages.svg": "https://stats.pphat.top/languages?username=pphatdev&type=pie&show_info=true&theme=default",
+        "icons.svg": "https://stats.pphat.top/icons?name=typescript,javascript,nodejs,nextjs,nuxt,shadcnui,postgresql,drizzle,tailwindcss,laravel,csharp&columns=12&size=small&effect=wave"
     }
 
     for filename, url in images.items():
