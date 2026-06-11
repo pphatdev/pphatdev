@@ -1,6 +1,5 @@
-<img align='middle' src="https://stats.pphat.top/stats?username=pphatdev&size=small&avatar_mode=radar&data_border_style=frame" style="width:100%"/>
+<img align='middle' src="assets/stats.svg" title="PPhat - GitHub Stats" alt="PPhat - GitHub Stats" style="width:100%"/>
 
-</div>
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25" alt="rocket"/> Hi, Welcome back <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
@@ -48,13 +47,13 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 ## 🌟 Daily commitment
 
-<img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&show_background=true&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="100%" alt="GitHub Stats"/>
+<img align='middle' src="assets/graph.svg" width="100%" title="PPhat - Daily Commitment" alt="PPhat - Daily Commitment"/>
 
 <br>
 
 ## 🧪 Most coding language 
 
-<img align='middle' src="https://stats.pphat.top/languages?username=pphatdev&type=pie&show_info=true&theme=default" width="100%" alt="GitHub Stats"/>
+<img align='middle' src="assets/languages.svg" width="100%" title="PPhat - Coding Language" alt="PPhat - Coding Language"/>
 
 
 
