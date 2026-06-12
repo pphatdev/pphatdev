@@ -3,28 +3,61 @@
         {
             "languages": [
                 {
-                    "name": "PHP",
-                    "total_seconds": 486.571,
-                    "digital": "0:08:06",
-                    "decimal": "0.13",
-                    "text": "8 mins",
+                    "name": "YAML",
+                    "total_seconds": 890.319,
+                    "digital": "0:14:50",
+                    "decimal": "0.23",
+                    "text": "14 mins",
                     "hours": 0,
-                    "minutes": 8,
-                    "seconds": 6,
-                    "percent": 100.0
+                    "minutes": 14,
+                    "seconds": 50,
+                    "percent": 53.09
+                },
+                {
+                    "name": "Markdown",
+                    "total_seconds": 712.929,
+                    "digital": "0:11:52",
+                    "decimal": "0.18",
+                    "text": "11 mins",
+                    "hours": 0,
+                    "minutes": 11,
+                    "seconds": 52,
+                    "percent": 42.51
+                },
+                {
+                    "name": "Python",
+                    "total_seconds": 51.719,
+                    "digital": "0:00:51",
+                    "decimal": "0.00",
+                    "text": "51 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 51,
+                    "percent": 3.08
+                },
+                {
+                    "name": "Bash",
+                    "total_seconds": 22.107,
+                    "digital": "0:00:22",
+                    "decimal": "0.00",
+                    "text": "22 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "percent": 1.32
                 }
             ],
             "grand_total": {
                 "hours": 0,
-                "minutes": 8,
-                "total_seconds": 486.571,
-                "digital": "0:08",
-                "decimal": "0.13",
-                "text": "8 mins",
+                "minutes": 27,
+                "total_seconds": 1677.074,
+                "digital": "0:27",
+                "decimal": "0.45",
+                "text": "27 mins",
                 "ai_additions": 0,
                 "ai_deletions": 0,
-                "human_additions": 1,
-                "human_deletions": 0,
+                "human_additions": 19,
+                "human_deletions": 29,
                 "ai_agent_line_changes": {},
                 "ai_input_tokens": 0,
                 "ai_output_tokens": 0,
@@ -43,11 +76,11 @@
             "editors": [
                 {
                     "name": "VS Code",
-                    "total_seconds": 486.571,
+                    "total_seconds": 1677.074,
                     "ai_additions": 0,
                     "ai_deletions": 0,
-                    "human_additions": 1,
-                    "human_deletions": 0,
+                    "human_additions": 19,
+                    "human_deletions": 29,
                     "ai_agent_line_changes": {},
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
@@ -62,76 +95,109 @@
                     "ai_prompt_events_avg_per_session": 0,
                     "ai_prompt_events_median_per_session": 0,
                     "ai_sessions": 0,
-                    "digital": "0:08:06",
-                    "decimal": "0.13",
-                    "text": "8 mins",
+                    "digital": "0:27:57",
+                    "decimal": "0.45",
+                    "text": "27 mins",
                     "hours": 0,
-                    "minutes": 8,
-                    "seconds": 6,
+                    "minutes": 27,
+                    "seconds": 57,
                     "percent": 100.0
                 }
             ],
             "operating_systems": [
                 {
                     "name": "Windows",
-                    "total_seconds": 486.571,
-                    "digital": "0:08:06",
-                    "decimal": "0.13",
-                    "text": "8 mins",
+                    "total_seconds": 1677.074,
+                    "digital": "0:27:57",
+                    "decimal": "0.45",
+                    "text": "27 mins",
                     "hours": 0,
-                    "minutes": 8,
-                    "seconds": 6,
+                    "minutes": 27,
+                    "seconds": 57,
                     "percent": 100.0
                 }
             ],
             "categories": [
                 {
                     "name": "Coding",
-                    "total_seconds": 486.571,
-                    "digital": "0:08:06",
-                    "decimal": "0.13",
-                    "text": "8 mins",
+                    "total_seconds": 964.145,
+                    "digital": "0:16:04",
+                    "decimal": "0.27",
+                    "text": "16 mins",
                     "hours": 0,
-                    "minutes": 8,
-                    "seconds": 6,
-                    "percent": 100.0
+                    "minutes": 16,
+                    "seconds": 4,
+                    "percent": 57.49
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 712.929,
+                    "digital": "0:11:52",
+                    "decimal": "0.18",
+                    "text": "11 mins",
+                    "hours": 0,
+                    "minutes": 11,
+                    "seconds": 52,
+                    "percent": 42.51
                 }
             ],
             "dependencies": [
                 {
-                    "name": "'wp-settings.php'",
-                    "total_seconds": 486.571,
-                    "digital": "0:08:06",
-                    "decimal": "0.13",
-                    "text": "8 mins",
+                    "name": "requests",
+                    "total_seconds": 31.053,
+                    "digital": "0:00:31",
+                    "decimal": "0.00",
+                    "text": "31 secs",
                     "hours": 0,
-                    "minutes": 8,
-                    "seconds": 6,
-                    "percent": 100.0
+                    "minutes": 0,
+                    "seconds": 31,
+                    "percent": 37.52
+                },
+                {
+                    "name": "config",
+                    "total_seconds": 31.053,
+                    "digital": "0:00:31",
+                    "decimal": "0.00",
+                    "text": "31 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "percent": 37.52
+                },
+                {
+                    "name": "services",
+                    "total_seconds": 20.666,
+                    "digital": "0:00:20",
+                    "decimal": "0.00",
+                    "text": "20 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "percent": 24.97
                 }
             ],
             "machines": [
                 {
                     "name": "TT-FRONT-END-01",
-                    "total_seconds": 486.571,
+                    "total_seconds": 1677.074,
                     "machine_name_id": "107f0bc7-4c51-4bd8-83cc-5806773b4ca9",
-                    "digital": "0:08:06",
-                    "decimal": "0.13",
-                    "text": "8 mins",
+                    "digital": "0:27:57",
+                    "decimal": "0.45",
+                    "text": "27 mins",
                     "hours": 0,
-                    "minutes": 8,
-                    "seconds": 6,
+                    "minutes": 27,
+                    "seconds": 57,
                     "percent": 100.0
                 }
             ],
             "projects": [
                 {
-                    "name": "files",
-                    "total_seconds": 486.571,
+                    "name": "github-profile",
+                    "total_seconds": 1677.074,
                     "ai_additions": 0,
                     "ai_deletions": 0,
-                    "human_additions": 1,
-                    "human_deletions": 0,
+                    "human_additions": 19,
+                    "human_deletions": 29,
                     "ai_agent_line_changes": {},
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
@@ -146,39 +212,39 @@
                     "ai_prompt_events_avg_per_session": 0,
                     "ai_prompt_events_median_per_session": 0,
                     "ai_sessions": 0,
-                    "digital": "0:08:06",
-                    "decimal": "0.13",
-                    "text": "8 mins",
+                    "digital": "0:27:57",
+                    "decimal": "0.45",
+                    "text": "27 mins",
                     "hours": 0,
-                    "minutes": 8,
-                    "seconds": 6,
+                    "minutes": 27,
+                    "seconds": 57,
                     "percent": 100.0
                 }
             ],
             "range": {
-                "start": "2026-06-09T17:00:00Z",
-                "end": "2026-06-10T16:59:59Z",
-                "date": "2026-06-10",
-                "text": "Wed Jun 10th 2026",
+                "start": "2026-06-10T17:00:00Z",
+                "end": "2026-06-11T16:59:59Z",
+                "date": "2026-06-11",
+                "text": "Thu Jun 11th 2026",
                 "timezone": "Asia/Bangkok"
             }
         }
     ],
-    "start": "2026-06-09T17:00:00Z",
-    "end": "2026-06-10T16:59:59Z",
+    "start": "2026-06-10T17:00:00Z",
+    "end": "2026-06-11T16:59:59Z",
     "cumulative_total": {
-        "seconds": 486.571,
-        "text": "8 mins",
-        "digital": "0:08",
-        "decimal": "0.13"
+        "seconds": 1677.074,
+        "text": "27 mins",
+        "digital": "0:27",
+        "decimal": "0.45"
     },
     "daily_average": {
         "holidays": 0,
         "days_minus_holidays": 1,
         "days_including_holidays": 1,
-        "seconds": 487,
-        "seconds_including_other_language": 487,
-        "text": "8 mins",
-        "text_including_other_language": "8 mins"
+        "seconds": 1677,
+        "seconds_including_other_language": 1677,
+        "text": "27 mins",
+        "text_including_other_language": "27 mins"
     }
 }
