@@ -1,52 +1,18 @@
 {
     "data": [
         {
-            "languages": [
-                {
-                    "name": "PHP",
-                    "total_seconds": 3856.071,
-                    "digital": "1:04:16",
-                    "decimal": "1.07",
-                    "text": "1 hr 4 mins",
-                    "hours": 1,
-                    "minutes": 4,
-                    "seconds": 16,
-                    "percent": 95.79
-                },
-                {
-                    "name": "Blade Template",
-                    "total_seconds": 169.43,
-                    "digital": "0:02:49",
-                    "decimal": "0.03",
-                    "text": "2 mins",
-                    "hours": 0,
-                    "minutes": 2,
-                    "seconds": 49,
-                    "percent": 4.21
-                },
-                {
-                    "name": "YAML",
-                    "total_seconds": 0.0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                }
-            ],
+            "languages": [],
             "grand_total": {
-                "hours": 1,
-                "minutes": 7,
-                "total_seconds": 4025.501,
-                "digital": "1:07",
-                "decimal": "1.12",
-                "text": "1 hr 7 mins",
+                "hours": 0,
+                "minutes": 0,
+                "total_seconds": 0.0,
+                "digital": "0:00",
+                "decimal": "0.00",
+                "text": "0 secs",
                 "ai_additions": 0,
                 "ai_deletions": 0,
-                "human_additions": 10,
-                "human_deletions": 33,
+                "human_additions": 0,
+                "human_deletions": 0,
                 "ai_agent_line_changes": {},
                 "ai_input_tokens": 0,
                 "ai_output_tokens": 0,
@@ -62,185 +28,36 @@
                 "ai_prompt_length_avg_per_session": 0,
                 "ai_prompt_length_median_per_session": 0
             },
-            "editors": [
-                {
-                    "name": "VS Code",
-                    "total_seconds": 4025.501,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 10,
-                    "human_deletions": 33,
-                    "ai_agent_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events_total": 0,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "ai_prompt_length_avg_per_session": 0,
-                    "ai_prompt_length_median_per_session": 0,
-                    "ai_prompt_events_avg_per_session": 0,
-                    "ai_prompt_events_median_per_session": 0,
-                    "ai_sessions": 0,
-                    "digital": "1:07:05",
-                    "decimal": "1.12",
-                    "text": "1 hr 7 mins",
-                    "hours": 1,
-                    "minutes": 7,
-                    "seconds": 5,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 4025.501,
-                    "digital": "1:07:05",
-                    "decimal": "1.12",
-                    "text": "1 hr 7 mins",
-                    "hours": 1,
-                    "minutes": 7,
-                    "seconds": 5,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 4025.501,
-                    "digital": "1:07:05",
-                    "decimal": "1.12",
-                    "text": "1 hr 7 mins",
-                    "hours": 1,
-                    "minutes": 7,
-                    "seconds": 5,
-                    "percent": 100.0
-                }
-            ],
-            "dependencies": [
-                {
-                    "name": "Illuminate",
-                    "total_seconds": 3852.501,
-                    "digital": "1:04:12",
-                    "decimal": "1.07",
-                    "text": "1 hr 4 mins",
-                    "hours": 1,
-                    "minutes": 4,
-                    "seconds": 12,
-                    "percent": 98.84
-                },
-                {
-                    "name": "Modules",
-                    "total_seconds": 45.321,
-                    "digital": "0:00:45",
-                    "decimal": "0.00",
-                    "text": "45 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 45,
-                    "percent": 1.16
-                }
-            ],
-            "machines": [
-                {
-                    "name": "TT-FRONT-END-01",
-                    "total_seconds": 4025.501,
-                    "machine_name_id": "107f0bc7-4c51-4bd8-83cc-5806773b4ca9",
-                    "digital": "1:07:05",
-                    "decimal": "1.12",
-                    "text": "1 hr 7 mins",
-                    "hours": 1,
-                    "minutes": 7,
-                    "seconds": 5,
-                    "percent": 100.0
-                }
-            ],
-            "projects": [
-                {
-                    "name": "standard-template",
-                    "total_seconds": 4025.501,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 10,
-                    "human_deletions": 33,
-                    "ai_agent_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events_total": 0,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "ai_prompt_length_avg_per_session": 0,
-                    "ai_prompt_length_median_per_session": 0,
-                    "ai_prompt_events_avg_per_session": 0,
-                    "ai_prompt_events_median_per_session": 0,
-                    "ai_sessions": 0,
-                    "digital": "1:07:05",
-                    "decimal": "1.12",
-                    "text": "1 hr 7 mins",
-                    "hours": 1,
-                    "minutes": 7,
-                    "seconds": 5,
-                    "percent": 100.0
-                },
-                {
-                    "name": "github-profile",
-                    "total_seconds": 0.0,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "ai_agent_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events_total": 0,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "ai_prompt_length_avg_per_session": 0,
-                    "ai_prompt_length_median_per_session": 0,
-                    "ai_prompt_events_avg_per_session": 0,
-                    "ai_prompt_events_median_per_session": 0,
-                    "ai_sessions": 0,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                }
-            ],
+            "editors": [],
+            "operating_systems": [],
+            "categories": [],
+            "dependencies": [],
+            "machines": [],
+            "projects": [],
             "range": {
-                "start": "2026-06-11T17:00:00Z",
-                "end": "2026-06-12T16:59:59Z",
-                "date": "2026-06-12",
-                "text": "Fri Jun 12th 2026",
+                "start": "2026-06-12T17:00:00Z",
+                "end": "2026-06-13T16:59:59Z",
+                "date": "2026-06-13",
+                "text": "Sat Jun 13th 2026",
                 "timezone": "Asia/Bangkok"
             }
         }
     ],
-    "start": "2026-06-11T17:00:00Z",
-    "end": "2026-06-12T16:59:59Z",
+    "start": "2026-06-12T17:00:00Z",
+    "end": "2026-06-13T16:59:59Z",
     "cumulative_total": {
-        "seconds": 4025.501,
-        "text": "1 hr 7 mins",
-        "digital": "1:07",
-        "decimal": "1.12"
+        "seconds": 0.0,
+        "text": "0 secs",
+        "digital": "0:00",
+        "decimal": "0.00"
     },
     "daily_average": {
-        "holidays": 0,
-        "days_minus_holidays": 1,
+        "holidays": 1,
+        "days_minus_holidays": 0,
         "days_including_holidays": 1,
-        "seconds": 4026,
-        "seconds_including_other_language": 4026,
-        "text": "1 hr 7 mins",
-        "text_including_other_language": "1 hr 7 mins"
+        "seconds": 0,
+        "seconds_including_other_language": 0,
+        "text": "0 secs",
+        "text_including_other_language": "0 secs"
     }
 }
