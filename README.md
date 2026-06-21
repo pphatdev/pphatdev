@@ -69,10 +69,10 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 - [cachewraith](https://github.com/cachewraith)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [standardgalactic](https://github.com/standardgalactic)
-- [3oFiz4](https://github.com/3oFiz4)
 - [Angkor-Rhapsody](https://github.com/Angkor-Rhapsody)
 - [RaksaOC](https://github.com/RaksaOC)
 - [phanithphan](https://github.com/phanithphan)
+- [SEV7NSEAS](https://github.com/SEV7NSEAS)
 <!--END_SECTION:followers-->
 </div>
 
