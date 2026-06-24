@@ -15,14 +15,14 @@
                 },
                 {
                     "name": "PHP",
-                    "total_seconds": 4625.997,
-                    "digital": "1:17:05",
-                    "decimal": "1.28",
-                    "text": "1 hr 17 mins",
+                    "total_seconds": 4538.577,
+                    "digital": "1:15:38",
+                    "decimal": "1.25",
+                    "text": "1 hr 15 mins",
                     "hours": 1,
-                    "minutes": 17,
-                    "seconds": 5,
-                    "percent": 40.15
+                    "minutes": 15,
+                    "seconds": 38,
+                    "percent": 39.39
                 },
                 {
                     "name": "Other",
@@ -34,6 +34,17 @@
                     "minutes": 18,
                     "seconds": 18,
                     "percent": 9.53
+                },
+                {
+                    "name": "Vue",
+                    "total_seconds": 87.42,
+                    "digital": "0:01:27",
+                    "decimal": "0.02",
+                    "text": "1 min",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 27,
+                    "percent": 0.76
                 },
                 {
                     "name": "JavaScript",
@@ -226,14 +237,14 @@
             "dependencies": [
                 {
                     "name": "Illuminate",
-                    "total_seconds": 4625.997,
-                    "digital": "1:17:05",
-                    "decimal": "1.28",
-                    "text": "1 hr 17 mins",
+                    "total_seconds": 4538.577,
+                    "digital": "1:15:38",
+                    "decimal": "1.25",
+                    "text": "1 hr 15 mins",
                     "hours": 1,
-                    "minutes": 17,
-                    "seconds": 5,
-                    "percent": 13.54
+                    "minutes": 15,
+                    "seconds": 38,
+                    "percent": 13.36
                 },
                 {
                     "name": "Carbon",
@@ -244,7 +255,7 @@
                     "hours": 1,
                     "minutes": 6,
                     "seconds": 36,
-                    "percent": 11.7
+                    "percent": 11.76
                 },
                 {
                     "name": "Exception",
@@ -255,29 +266,7 @@
                     "hours": 0,
                     "minutes": 52,
                     "seconds": 26,
-                    "percent": 9.21
-                },
-                {
-                    "name": "them",
-                    "total_seconds": 1903.601,
-                    "digital": "0:31:43",
-                    "decimal": "0.52",
-                    "text": "31 mins",
-                    "hours": 0,
-                    "minutes": 31,
-                    "seconds": 43,
-                    "percent": 5.57
-                },
-                {
-                    "name": "to",
-                    "total_seconds": 1903.601,
-                    "digital": "0:31:43",
-                    "decimal": "0.52",
-                    "text": "31 mins",
-                    "hours": 0,
-                    "minutes": 31,
-                    "seconds": 43,
-                    "percent": 5.57
+                    "percent": 9.26
                 },
                 {
                     "name": "account",
@@ -288,10 +277,10 @@
                     "hours": 0,
                     "minutes": 31,
                     "seconds": 43,
-                    "percent": 5.57
+                    "percent": 5.6
                 },
                 {
-                    "name": "your",
+                    "name": "to",
                     "total_seconds": 1903.601,
                     "digital": "0:31:43",
                     "decimal": "0.52",
@@ -299,7 +288,7 @@
                     "hours": 0,
                     "minutes": 31,
                     "seconds": 43,
-                    "percent": 5.57
+                    "percent": 5.6
                 },
                 {
                     "name": "access",
@@ -310,29 +299,29 @@
                     "hours": 0,
                     "minutes": 31,
                     "seconds": 43,
-                    "percent": 5.57
+                    "percent": 5.6
                 },
                 {
-                    "name": "'v2.pages.merchant.newsMerchant.userDevice.permission.index'",
-                    "total_seconds": 1073.961,
-                    "digital": "0:17:53",
-                    "decimal": "0.28",
-                    "text": "17 mins",
+                    "name": "them",
+                    "total_seconds": 1903.601,
+                    "digital": "0:31:43",
+                    "decimal": "0.52",
+                    "text": "31 mins",
                     "hours": 0,
-                    "minutes": 17,
-                    "seconds": 53,
-                    "percent": 3.14
+                    "minutes": 31,
+                    "seconds": 43,
+                    "percent": 5.6
                 },
                 {
-                    "name": "'v2.pages.merchant.newsMerchant.userDevice.user.index'",
-                    "total_seconds": 1073.961,
-                    "digital": "0:17:53",
-                    "decimal": "0.28",
-                    "text": "17 mins",
+                    "name": "your",
+                    "total_seconds": 1903.601,
+                    "digital": "0:31:43",
+                    "decimal": "0.52",
+                    "text": "31 mins",
                     "hours": 0,
-                    "minutes": 17,
-                    "seconds": 53,
-                    "percent": 3.14
+                    "minutes": 31,
+                    "seconds": 43,
+                    "percent": 5.6
                 },
                 {
                     "name": "'v2.pages.merchant.newsMerchant.userDevice.user.add'",
@@ -343,18 +332,7 @@
                     "hours": 0,
                     "minutes": 17,
                     "seconds": 53,
-                    "percent": 3.14
-                },
-                {
-                    "name": "'v2.pages.merchant.newsMerchant.userDevice.user.update'",
-                    "total_seconds": 1073.961,
-                    "digital": "0:17:53",
-                    "decimal": "0.28",
-                    "text": "17 mins",
-                    "hours": 0,
-                    "minutes": 17,
-                    "seconds": 53,
-                    "percent": 3.14
+                    "percent": 3.16
                 },
                 {
                     "name": "'v2.pages.merchant.newsMerchant.userDevice.device.index'",
@@ -365,7 +343,18 @@
                     "hours": 0,
                     "minutes": 17,
                     "seconds": 53,
-                    "percent": 3.14
+                    "percent": 3.16
+                },
+                {
+                    "name": "'v2.pages.merchant.newsMerchant.userDevice.user.update'",
+                    "total_seconds": 1073.961,
+                    "digital": "0:17:53",
+                    "decimal": "0.28",
+                    "text": "17 mins",
+                    "hours": 0,
+                    "minutes": 17,
+                    "seconds": 53,
+                    "percent": 3.16
                 },
                 {
                     "name": "'v2.pages.merchant.newsMerchant.userDevice.permission.update'",
@@ -376,7 +365,7 @@
                     "hours": 0,
                     "minutes": 17,
                     "seconds": 53,
-                    "percent": 3.14
+                    "percent": 3.16
                 },
                 {
                     "name": "'v2.pages.merchant.newsMerchant.userDevice.permission.add'",
@@ -387,7 +376,29 @@
                     "hours": 0,
                     "minutes": 17,
                     "seconds": 53,
-                    "percent": 3.14
+                    "percent": 3.16
+                },
+                {
+                    "name": "'v2.pages.merchant.newsMerchant.userDevice.user.index'",
+                    "total_seconds": 1073.961,
+                    "digital": "0:17:53",
+                    "decimal": "0.28",
+                    "text": "17 mins",
+                    "hours": 0,
+                    "minutes": 17,
+                    "seconds": 53,
+                    "percent": 3.16
+                },
+                {
+                    "name": "'v2.pages.merchant.newsMerchant.userDevice.permission.index'",
+                    "total_seconds": 1073.961,
+                    "digital": "0:17:53",
+                    "decimal": "0.28",
+                    "text": "17 mins",
+                    "hours": 0,
+                    "minutes": 17,
+                    "seconds": 53,
+                    "percent": 3.16
                 },
                 {
                     "name": "'pages.merchant.merchantList.components.transaction'",
@@ -398,7 +409,7 @@
                     "hours": 0,
                     "minutes": 17,
                     "seconds": 16,
-                    "percent": 3.04
+                    "percent": 3.05
                 },
                 {
                     "name": "'v2.pages.merchant.newsMerchant.category.index'",
@@ -409,6 +420,17 @@
                     "hours": 0,
                     "minutes": 17,
                     "seconds": 13,
+                    "percent": 3.04
+                },
+                {
+                    "name": "'v2.pages.merchant.newsMerchant.menu.index'",
+                    "total_seconds": 1029.733,
+                    "digital": "0:17:09",
+                    "decimal": "0.28",
+                    "text": "17 mins",
+                    "hours": 0,
+                    "minutes": 17,
+                    "seconds": 9,
                     "percent": 3.03
                 },
                 {
@@ -420,29 +442,18 @@
                     "hours": 0,
                     "minutes": 17,
                     "seconds": 9,
-                    "percent": 3.02
-                },
-                {
-                    "name": "'v2.pages.merchant.newsMerchant.menu.index'",
-                    "total_seconds": 1029.733,
-                    "digital": "0:17:09",
-                    "decimal": "0.28",
-                    "text": "17 mins",
-                    "hours": 0,
-                    "minutes": 17,
-                    "seconds": 9,
-                    "percent": 3.02
+                    "percent": 3.03
                 },
                 {
                     "name": "Authentication",
-                    "total_seconds": 586.922,
-                    "digital": "0:09:46",
-                    "decimal": "0.15",
-                    "text": "9 mins",
+                    "total_seconds": 499.502,
+                    "digital": "0:08:19",
+                    "decimal": "0.13",
+                    "text": "8 mins",
                     "hours": 0,
-                    "minutes": 9,
-                    "seconds": 46,
-                    "percent": 1.72
+                    "minutes": 8,
+                    "seconds": 19,
+                    "percent": 1.47
                 },
                 {
                     "name": "Closure",
@@ -467,7 +478,7 @@
                     "percent": 0.28
                 },
                 {
-                    "name": "axios",
+                    "name": "sweetalert",
                     "total_seconds": 52.505,
                     "digital": "0:00:52",
                     "decimal": "0.00",
@@ -489,7 +500,7 @@
                     "percent": 0.15
                 },
                 {
-                    "name": "sweetalert",
+                    "name": "axios",
                     "total_seconds": 52.505,
                     "digital": "0:00:52",
                     "decimal": "0.00",
@@ -511,18 +522,7 @@
                     "percent": 0.13
                 },
                 {
-                    "name": "validation",
-                    "total_seconds": 7.329,
-                    "digital": "0:00:07",
-                    "decimal": "0.00",
-                    "text": "7 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 7,
-                    "percent": 0.02
-                },
-                {
-                    "name": "select",
+                    "name": "datepicker",
                     "total_seconds": 7.329,
                     "digital": "0:00:07",
                     "decimal": "0.00",
@@ -544,7 +544,29 @@
                     "percent": 0.02
                 },
                 {
-                    "name": "fetch-address",
+                    "name": "address-fetch",
+                    "total_seconds": 7.329,
+                    "digital": "0:00:07",
+                    "decimal": "0.00",
+                    "text": "7 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "percent": 0.02
+                },
+                {
+                    "name": "phone-format",
+                    "total_seconds": 7.329,
+                    "digital": "0:00:07",
+                    "decimal": "0.00",
+                    "text": "7 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "percent": 0.02
+                },
+                {
+                    "name": "select",
                     "total_seconds": 7.329,
                     "digital": "0:00:07",
                     "decimal": "0.00",
@@ -566,7 +588,7 @@
                     "percent": 0.02
                 },
                 {
-                    "name": "address-fetch",
+                    "name": "validation",
                     "total_seconds": 7.329,
                     "digital": "0:00:07",
                     "decimal": "0.00",
@@ -577,18 +599,7 @@
                     "percent": 0.02
                 },
                 {
-                    "name": "datepicker",
-                    "total_seconds": 7.329,
-                    "digital": "0:00:07",
-                    "decimal": "0.00",
-                    "text": "7 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 7,
-                    "percent": 0.02
-                },
-                {
-                    "name": "phone-format",
+                    "name": "fetch-address",
                     "total_seconds": 7.329,
                     "digital": "0:00:07",
                     "decimal": "0.00",
@@ -616,7 +627,7 @@
             "projects": [
                 {
                     "name": "red-ant-mobile-admin",
-                    "total_seconds": 10393.366,
+                    "total_seconds": 10305.946,
                     "ai_additions": 283,
                     "ai_deletions": 226,
                     "human_additions": 716,
@@ -628,6 +639,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 2376,
                     "ai_prompt_events_total": 27,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [
                         {
@@ -643,13 +655,13 @@
                     "ai_prompt_events_avg_per_session": 7,
                     "ai_prompt_events_median_per_session": 6,
                     "ai_sessions": 4,
-                    "digital": "2:53:13",
-                    "decimal": "2.88",
-                    "text": "2 hrs 53 mins",
+                    "digital": "2:51:45",
+                    "decimal": "2.85",
+                    "text": "2 hrs 51 mins",
                     "hours": 2,
-                    "minutes": 53,
-                    "seconds": 13,
-                    "percent": 90.2
+                    "minutes": 51,
+                    "seconds": 45,
+                    "percent": 89.44
                 },
                 {
                     "name": "front-end.01",
@@ -663,6 +675,7 @@
                     "ai_output_tokens": 637,
                     "ai_prompt_length_sum": 68,
                     "ai_prompt_events_total": 6,
+                    "color": null,
                     "ai_agent_costs": {
                         "Opus": 0.412738
                     },
@@ -689,6 +702,36 @@
                     "percent": 9.53
                 },
                 {
+                    "name": "detected-bot",
+                    "total_seconds": 87.42,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "color": null,
+                    "ai_agent_costs": {},
+                    "ai_agent_breakdown": [],
+                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 1,
+                    "digital": "0:01:27",
+                    "decimal": "0.02",
+                    "text": "1 min",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 27,
+                    "percent": 0.76
+                },
+                {
                     "name": "erp-apps",
                     "total_seconds": 30.963,
                     "ai_additions": 0,
@@ -700,6 +743,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events_total": 0,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
