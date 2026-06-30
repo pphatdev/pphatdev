@@ -203,17 +203,6 @@
                     "percent": 7.46
                 },
                 {
-                    "name": "them",
-                    "total_seconds": 2654.54,
-                    "digital": "0:44:14",
-                    "decimal": "0.73",
-                    "text": "44 mins",
-                    "hours": 0,
-                    "minutes": 44,
-                    "seconds": 14,
-                    "percent": 6.95
-                },
-                {
                     "name": "account",
                     "total_seconds": 2654.54,
                     "digital": "0:44:14",
@@ -226,6 +215,17 @@
                 },
                 {
                     "name": "access",
+                    "total_seconds": 2654.54,
+                    "digital": "0:44:14",
+                    "decimal": "0.73",
+                    "text": "44 mins",
+                    "hours": 0,
+                    "minutes": 44,
+                    "seconds": 14,
+                    "percent": 6.95
+                },
+                {
+                    "name": "them",
                     "total_seconds": 2654.54,
                     "digital": "0:44:14",
                     "decimal": "0.73",
@@ -335,7 +335,7 @@
                     "percent": 2.2
                 },
                 {
-                    "name": "moment-mini",
+                    "name": "Select2",
                     "total_seconds": 840.857,
                     "digital": "0:14:00",
                     "decimal": "0.23",
@@ -346,7 +346,7 @@
                     "percent": 2.2
                 },
                 {
-                    "name": "Select2",
+                    "name": "moment-mini",
                     "total_seconds": 840.857,
                     "digital": "0:14:00",
                     "decimal": "0.23",
@@ -500,6 +500,28 @@
                     "percent": 0.54
                 },
                 {
+                    "name": "user-config",
+                    "total_seconds": 204.708,
+                    "digital": "0:03:24",
+                    "decimal": "0.05",
+                    "text": "3 mins",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 24,
+                    "percent": 0.54
+                },
+                {
+                    "name": "image-cdn",
+                    "total_seconds": 204.708,
+                    "digital": "0:03:24",
+                    "decimal": "0.05",
+                    "text": "3 mins",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 24,
+                    "percent": 0.54
+                },
+                {
                     "name": "colors",
                     "total_seconds": 204.708,
                     "digital": "0:03:24",
@@ -533,29 +555,7 @@
                     "percent": 0.54
                 },
                 {
-                    "name": "image-cdn",
-                    "total_seconds": 204.708,
-                    "digital": "0:03:24",
-                    "decimal": "0.05",
-                    "text": "3 mins",
-                    "hours": 0,
-                    "minutes": 3,
-                    "seconds": 24,
-                    "percent": 0.54
-                },
-                {
                     "name": "projects-create",
-                    "total_seconds": 204.708,
-                    "digital": "0:03:24",
-                    "decimal": "0.05",
-                    "text": "3 mins",
-                    "hours": 0,
-                    "minutes": 3,
-                    "seconds": 24,
-                    "percent": 0.54
-                },
-                {
-                    "name": "user-config",
                     "total_seconds": 204.708,
                     "digital": "0:03:24",
                     "decimal": "0.05",
@@ -753,7 +753,7 @@
                     "percent": 0.09
                 },
                 {
-                    "name": "pagination-ui",
+                    "name": "get-params-from-route",
                     "total_seconds": 34.338,
                     "digital": "0:00:34",
                     "decimal": "0.00",
@@ -764,7 +764,7 @@
                     "percent": 0.09
                 },
                 {
-                    "name": "get-params-from-route",
+                    "name": "pagination-ui",
                     "total_seconds": 34.338,
                     "digital": "0:00:34",
                     "decimal": "0.00",
@@ -841,6 +841,17 @@
                     "percent": 0.06
                 },
                 {
+                    "name": "DateTimeZone",
+                    "total_seconds": 15.457,
+                    "digital": "0:00:15",
+                    "decimal": "0.00",
+                    "text": "15 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "percent": 0.04
+                },
+                {
                     "name": "DateTime",
                     "total_seconds": 15.457,
                     "digital": "0:00:15",
@@ -853,17 +864,6 @@
                 },
                 {
                     "name": "InvalidArgumentException",
-                    "total_seconds": 15.457,
-                    "digital": "0:00:15",
-                    "decimal": "0.00",
-                    "text": "15 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 15,
-                    "percent": 0.04
-                },
-                {
-                    "name": "DateTimeZone",
                     "total_seconds": 15.457,
                     "digital": "0:00:15",
                     "decimal": "0.00",
@@ -929,7 +929,18 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "remove-tab",
+                    "name": "list-message",
+                    "total_seconds": 4.502,
+                    "digital": "0:00:04",
+                    "decimal": "0.00",
+                    "text": "4 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "percent": 0.01
+                },
+                {
+                    "name": "message-seen",
                     "total_seconds": 4.502,
                     "digital": "0:00:04",
                     "decimal": "0.00",
@@ -962,18 +973,7 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "list-message",
-                    "total_seconds": 4.502,
-                    "digital": "0:00:04",
-                    "decimal": "0.00",
-                    "text": "4 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 4,
-                    "percent": 0.01
-                },
-                {
-                    "name": "message-seen",
+                    "name": "remove-tab",
                     "total_seconds": 4.502,
                     "digital": "0:00:04",
                     "decimal": "0.00",
@@ -1017,17 +1017,6 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "table",
-                    "total_seconds": 2.653,
-                    "digital": "0:00:02",
-                    "decimal": "0.00",
-                    "text": "2 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 2,
-                    "percent": 0.01
-                },
-                {
                     "name": "export",
                     "total_seconds": 2.653,
                     "digital": "0:00:02",
@@ -1039,7 +1028,18 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "flatpickr.min",
+                    "name": "table",
+                    "total_seconds": 2.653,
+                    "digital": "0:00:02",
+                    "decimal": "0.00",
+                    "text": "2 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "percent": 0.01
+                },
+                {
+                    "name": "flatpickr",
                     "total_seconds": 1.716,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1050,7 +1050,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "flatpickr",
+                    "name": "flatpickr.min",
                     "total_seconds": 1.716,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1072,17 +1072,6 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "autoprefixer",
-                    "total_seconds": 0.682,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
-                },
-                {
                     "name": "address-fetch",
                     "total_seconds": 0.682,
                     "digital": "0:00:00",
@@ -1094,8 +1083,8 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "minimize-modal-merchantl",
-                    "total_seconds": 0.649,
+                    "name": "autoprefixer",
+                    "total_seconds": 0.682,
                     "digital": "0:00:00",
                     "decimal": "0.00",
                     "text": "0 secs",
@@ -1106,6 +1095,17 @@
                 },
                 {
                     "name": "dotenv",
+                    "total_seconds": 0.649,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "minimize-modal-merchantl",
                     "total_seconds": 0.649,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -1156,6 +1156,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 944,
                     "ai_prompt_events_total": 9,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [
                         {
@@ -1191,6 +1192,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events_total": 0,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
