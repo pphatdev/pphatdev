@@ -11,7 +11,7 @@
                     "hours": 1,
                     "minutes": 40,
                     "seconds": 14,
-                    "percent": 44.79
+                    "percent": 44.35
                 },
                 {
                     "name": "Blade Template",
@@ -22,7 +22,7 @@
                     "hours": 1,
                     "minutes": 16,
                     "seconds": 55,
-                    "percent": 34.37
+                    "percent": 34.04
                 },
                 {
                     "name": "Python",
@@ -33,18 +33,18 @@
                     "hours": 0,
                     "minutes": 21,
                     "seconds": 56,
-                    "percent": 9.81
+                    "percent": 9.71
                 },
                 {
                     "name": "Vue",
-                    "total_seconds": 1073.857,
-                    "digital": "0:17:53",
-                    "decimal": "0.28",
-                    "text": "17 mins",
+                    "total_seconds": 1202.845,
+                    "digital": "0:20:02",
+                    "decimal": "0.33",
+                    "text": "20 mins",
                     "hours": 0,
-                    "minutes": 17,
-                    "seconds": 53,
-                    "percent": 8.0
+                    "minutes": 20,
+                    "seconds": 2,
+                    "percent": 8.87
                 },
                 {
                     "name": "Bash",
@@ -55,18 +55,18 @@
                     "hours": 0,
                     "minutes": 3,
                     "seconds": 7,
-                    "percent": 1.4
+                    "percent": 1.39
                 },
                 {
                     "name": "TypeScript",
-                    "total_seconds": 110.516,
-                    "digital": "0:01:50",
+                    "total_seconds": 113.2,
+                    "digital": "0:01:53",
                     "decimal": "0.02",
                     "text": "1 min",
                     "hours": 0,
                     "minutes": 1,
-                    "seconds": 50,
-                    "percent": 0.82
+                    "seconds": 53,
+                    "percent": 0.83
                 },
                 {
                     "name": "PHP",
@@ -115,11 +115,11 @@
             ],
             "grand_total": {
                 "hours": 3,
-                "minutes": 43,
-                "total_seconds": 13429.78,
-                "digital": "3:43",
-                "decimal": "3.72",
-                "text": "3 hrs 43 mins",
+                "minutes": 46,
+                "total_seconds": 13561.452,
+                "digital": "3:46",
+                "decimal": "3.77",
+                "text": "3 hrs 46 mins",
                 "ai_additions": 727,
                 "ai_deletions": 79,
                 "human_additions": 98,
@@ -156,7 +156,7 @@
             "editors": [
                 {
                     "name": "Antigravity IDE",
-                    "total_seconds": 13429.78,
+                    "total_seconds": 13561.452,
                     "ai_additions": 727,
                     "ai_deletions": 79,
                     "human_additions": 98,
@@ -189,39 +189,39 @@
                     "ai_prompt_events_avg_per_session": 16,
                     "ai_prompt_events_median_per_session": 16,
                     "ai_sessions": 4,
-                    "digital": "3:43:49",
-                    "decimal": "3.72",
-                    "text": "3 hrs 43 mins",
+                    "digital": "3:46:01",
+                    "decimal": "3.77",
+                    "text": "3 hrs 46 mins",
                     "hours": 3,
-                    "minutes": 43,
-                    "seconds": 49,
+                    "minutes": 46,
+                    "seconds": 1,
                     "percent": 100.0
                 }
             ],
             "operating_systems": [
                 {
                     "name": "Windows",
-                    "total_seconds": 13429.78,
-                    "digital": "3:43:49",
-                    "decimal": "3.72",
-                    "text": "3 hrs 43 mins",
+                    "total_seconds": 13561.452,
+                    "digital": "3:46:01",
+                    "decimal": "3.77",
+                    "text": "3 hrs 46 mins",
                     "hours": 3,
-                    "minutes": 43,
-                    "seconds": 49,
+                    "minutes": 46,
+                    "seconds": 1,
                     "percent": 100.0
                 }
             ],
             "categories": [
                 {
                     "name": "AI Coding",
-                    "total_seconds": 10825.312,
-                    "digital": "3:00:25",
-                    "decimal": "3.00",
-                    "text": "3 hrs",
+                    "total_seconds": 10956.984,
+                    "digital": "3:02:36",
+                    "decimal": "3.03",
+                    "text": "3 hrs 2 mins",
                     "hours": 3,
-                    "minutes": 0,
-                    "seconds": 25,
-                    "percent": 80.61
+                    "minutes": 2,
+                    "seconds": 36,
+                    "percent": 80.8
                 },
                 {
                     "name": "Coding",
@@ -232,7 +232,7 @@
                     "hours": 0,
                     "minutes": 43,
                     "seconds": 24,
-                    "percent": 19.39
+                    "percent": 19.2
                 }
             ],
             "dependencies": [
@@ -336,6 +336,17 @@
                     "percent": 1.88
                 },
                 {
+                    "name": "certifi",
+                    "total_seconds": 132.842,
+                    "digital": "0:02:12",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 12,
+                    "percent": 1.04
+                },
+                {
                     "name": "httpx",
                     "total_seconds": 132.842,
                     "digital": "0:02:12",
@@ -358,17 +369,6 @@
                     "percent": 1.04
                 },
                 {
-                    "name": "certifi",
-                    "total_seconds": 132.842,
-                    "digital": "0:02:12",
-                    "decimal": "0.03",
-                    "text": "2 mins",
-                    "hours": 0,
-                    "minutes": 2,
-                    "seconds": 12,
-                    "percent": 1.04
-                },
-                {
                     "name": "sweetalert",
                     "total_seconds": 68.32,
                     "digital": "0:01:08",
@@ -380,6 +380,17 @@
                     "percent": 0.54
                 },
                 {
+                    "name": "node:zlib",
+                    "total_seconds": 50.284,
+                    "digital": "0:00:50",
+                    "decimal": "0.00",
+                    "text": "50 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 50,
+                    "percent": 0.39
+                },
+                {
                     "name": "Illuminate",
                     "total_seconds": 49.581,
                     "digital": "0:00:49",
@@ -389,17 +400,6 @@
                     "minutes": 0,
                     "seconds": 49,
                     "percent": 0.39
-                },
-                {
-                    "name": "node:zlib",
-                    "total_seconds": 48.756,
-                    "digital": "0:00:48",
-                    "decimal": "0.00",
-                    "text": "48 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 48,
-                    "percent": 0.38
                 },
                 {
                     "name": "typing",
@@ -424,17 +424,6 @@
                     "percent": 0.36
                 },
                 {
-                    "name": "node:fs",
-                    "total_seconds": 34.045,
-                    "digital": "0:00:34",
-                    "decimal": "0.00",
-                    "text": "34 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 34,
-                    "percent": 0.27
-                },
-                {
                     "name": "node:path",
                     "total_seconds": 34.045,
                     "digital": "0:00:34",
@@ -446,359 +435,18 @@
                     "percent": 0.27
                 },
                 {
-                    "name": "moment",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
+                    "name": "node:fs",
+                    "total_seconds": 34.045,
+                    "digital": "0:00:34",
                     "decimal": "0.00",
-                    "text": "9 secs",
+                    "text": "34 secs",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "postcss",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "querystring-es3",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "path-browserify",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
+                    "seconds": 34,
+                    "percent": 0.27
                 },
                 {
                     "name": "npm",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "@sophat/check-validation",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "dotenv",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "laravel-mix",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "autoprefixer",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "crypto-browserify",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "constants-browserify",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "save",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "quill",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "apexcharts",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "webpack",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "lodash",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "stream-http",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "pusher-js",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "@sophat/sidebar",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "loader-runner",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "laravel-echo",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "terser-webpack-plugin",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "@floating-ui/dom",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "qrcode",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "tty-browserify",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "https-browserify",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "clsx",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "cross-env",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "@smarterp/data",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "os-browserify",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "jspdf",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "jspdf-autotable",
-                    "total_seconds": 9.926,
-                    "digital": "0:00:09",
-                    "decimal": "0.00",
-                    "text": "9 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 9,
-                    "percent": 0.08
-                },
-                {
-                    "name": "browserify-zlib",
                     "total_seconds": 9.926,
                     "digital": "0:00:09",
                     "decimal": "0.00",
@@ -820,6 +468,105 @@
                     "percent": 0.08
                 },
                 {
+                    "name": "cross-env",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "stream-http",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "@sophat/check-validation",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "querystring-es3",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "webpack",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "qrcode",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "lodash",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "laravel-mix",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "laravel-echo",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
                     "name": "vm-browserify",
                     "total_seconds": 9.926,
                     "digital": "0:00:09",
@@ -831,7 +578,62 @@
                     "percent": 0.08
                 },
                 {
-                    "name": "@popperjs/core",
+                    "name": "@smarterp/data",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "autoprefixer",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "https-browserify",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "os-browserify",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "tty-browserify",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "pusher-js",
                     "total_seconds": 9.926,
                     "digital": "0:00:09",
                     "decimal": "0.00",
@@ -853,7 +655,205 @@
                     "percent": 0.08
                 },
                 {
+                    "name": "crypto-browserify",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "postcss",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "moment",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
                     "name": "stream-browserify",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "clsx",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "jspdf",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "apexcharts",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "@sophat/sidebar",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "save",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "path-browserify",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "constants-browserify",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "loader-runner",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "browserify-zlib",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "dotenv",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "jspdf-autotable",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "@popperjs/core",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "@floating-ui/dom",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "quill",
+                    "total_seconds": 9.926,
+                    "digital": "0:00:09",
+                    "decimal": "0.00",
+                    "text": "9 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "percent": 0.08
+                },
+                {
+                    "name": "terser-webpack-plugin",
                     "total_seconds": 9.926,
                     "digital": "0:00:09",
                     "decimal": "0.00",
@@ -878,14 +878,14 @@
             "machines": [
                 {
                     "name": "TT-FRONT-END-01",
-                    "total_seconds": 13429.78,
+                    "total_seconds": 13561.452,
                     "machine_name_id": "107f0bc7-4c51-4bd8-83cc-5806773b4ca9",
-                    "digital": "3:43:49",
-                    "decimal": "3.72",
-                    "text": "3 hrs 43 mins",
+                    "digital": "3:46:01",
+                    "decimal": "3.77",
+                    "text": "3 hrs 46 mins",
                     "hours": 3,
-                    "minutes": 43,
-                    "seconds": 49,
+                    "minutes": 46,
+                    "seconds": 1,
                     "percent": 100.0
                 }
             ],
@@ -905,6 +905,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 18740,
                     "ai_prompt_events_total": 43,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [
                         {
@@ -931,11 +932,11 @@
                     "hours": 2,
                     "minutes": 58,
                     "seconds": 16,
-                    "percent": 79.65
+                    "percent": 78.87
                 },
                 {
                     "name": "detected-bot",
-                    "total_seconds": 2184.371,
+                    "total_seconds": 2316.043,
                     "ai_additions": 85,
                     "ai_deletions": 0,
                     "human_additions": 0,
@@ -947,6 +948,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 4930,
                     "ai_prompt_events_total": 19,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [
                         {
@@ -962,13 +964,13 @@
                     "ai_prompt_events_avg_per_session": 10,
                     "ai_prompt_events_median_per_session": 10,
                     "ai_sessions": 2,
-                    "digital": "0:36:24",
-                    "decimal": "0.60",
-                    "text": "36 mins",
+                    "digital": "0:38:36",
+                    "decimal": "0.63",
+                    "text": "38 mins",
                     "hours": 0,
-                    "minutes": 36,
-                    "seconds": 24,
-                    "percent": 16.27
+                    "minutes": 38,
+                    "seconds": 36,
+                    "percent": 17.08
                 },
                 {
                     "name": "tgbot",
@@ -982,6 +984,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 320,
                     "ai_prompt_events_total": 4,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
@@ -997,7 +1000,7 @@
                     "hours": 0,
                     "minutes": 9,
                     "seconds": 8,
-                    "percent": 4.09
+                    "percent": 4.05
                 }
             ],
             "range": {
@@ -1012,18 +1015,18 @@
     "start": "2026-06-30T17:00:00Z",
     "end": "2026-07-01T16:59:59Z",
     "cumulative_total": {
-        "seconds": 13429.78,
-        "text": "3 hrs 43 mins",
-        "digital": "3:43",
-        "decimal": "3.72"
+        "seconds": 13561.452,
+        "text": "3 hrs 46 mins",
+        "digital": "3:46",
+        "decimal": "3.77"
     },
     "daily_average": {
         "holidays": 0,
         "days_minus_holidays": 1,
         "days_including_holidays": 1,
-        "seconds": 13427,
-        "seconds_including_other_language": 13430,
-        "text": "3 hrs 43 mins",
-        "text_including_other_language": "3 hrs 43 mins"
+        "seconds": 13559,
+        "seconds_including_other_language": 13561,
+        "text": "3 hrs 45 mins",
+        "text_including_other_language": "3 hrs 46 mins"
     }
 }
