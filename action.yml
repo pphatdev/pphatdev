@@ -62,7 +62,7 @@ runs:
 
     - name: Run updater
       shell: bash
-      run: python ${{ inputs.entrypoint }}
+      run: python ${{ github.action_path }}/${{ inputs.entrypoint }}
 
     - name: Detect file changes
       id: detect
