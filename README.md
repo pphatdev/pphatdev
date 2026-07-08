@@ -39,10 +39,20 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████░░░░░░░░░░░░ ⁝ 53.09% • YAML
-███████████░░░░░░░░░░░░░░ ⁝ 42.51% • Markdown
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.08% • Python
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.32% • Bash
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 22.79% • Blade Template
+████░░░░░░░░░░░░░░░░░░░░░ ⁝ 17.82% • JavaScript
+████░░░░░░░░░░░░░░░░░░░░░ ⁝ 15.44% • Markdown
+███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 11.07% • TypeScript
+███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 10.27% • Vue
+██░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 9.16% • PHP
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 4.8% • Python
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.75% • Bash
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.49% • JSON
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.92% • CSS
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.43% • Text
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.04% • INI
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.02% • Nginx configuration file
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.0% • Other
 ```
 <!--END_SECTION:daily-->
 
@@ -65,11 +75,11 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <div>
 <!--START_SECTION:followers-->
 
+- [ahmadrizal-baihaqi](https://github.com/ahmadrizal-baihaqi)
 - [duncuo164](https://github.com/duncuo164)
 - [cachewraith](https://github.com/cachewraith)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [standardgalactic](https://github.com/standardgalactic)
-- [3oFiz4](https://github.com/3oFiz4)
 - [Angkor-Rhapsody](https://github.com/Angkor-Rhapsody)
 - [RaksaOC](https://github.com/RaksaOC)
 - [phanithphan](https://github.com/phanithphan)
