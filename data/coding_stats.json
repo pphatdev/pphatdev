@@ -192,7 +192,7 @@
                     "percent": 4.4
                 },
                 {
-                    "name": "data-table",
+                    "name": "datatable-action",
                     "total_seconds": 4663.181,
                     "digital": "1:17:43",
                     "decimal": "1.28",
@@ -214,7 +214,7 @@
                     "percent": 4.06
                 },
                 {
-                    "name": "excel",
+                    "name": "datepicker",
                     "total_seconds": 4663.181,
                     "digital": "1:17:43",
                     "decimal": "1.28",
@@ -236,7 +236,18 @@
                     "percent": 4.06
                 },
                 {
-                    "name": "datatable-action",
+                    "name": "excel",
+                    "total_seconds": 4663.181,
+                    "digital": "1:17:43",
+                    "decimal": "1.28",
+                    "text": "1 hr 17 mins",
+                    "hours": 1,
+                    "minutes": 17,
+                    "seconds": 43,
+                    "percent": 4.06
+                },
+                {
+                    "name": "data-table",
                     "total_seconds": 4663.181,
                     "digital": "1:17:43",
                     "decimal": "1.28",
@@ -258,17 +269,6 @@
                     "percent": 4.06
                 },
                 {
-                    "name": "datepicker",
-                    "total_seconds": 4663.181,
-                    "digital": "1:17:43",
-                    "decimal": "1.28",
-                    "text": "1 hr 17 mins",
-                    "hours": 1,
-                    "minutes": 17,
-                    "seconds": 43,
-                    "percent": 4.06
-                },
-                {
                     "name": "Time",
                     "total_seconds": 3804.453,
                     "digital": "1:03:24",
@@ -280,18 +280,7 @@
                     "percent": 3.31
                 },
                 {
-                    "name": "p",
-                    "total_seconds": 3712.967,
-                    "digital": "1:01:52",
-                    "decimal": "1.02",
-                    "text": "1 hr 1 min",
-                    "hours": 1,
-                    "minutes": 1,
-                    "seconds": 52,
-                    "percent": 3.23
-                },
-                {
-                    "name": "Participating",
+                    "name": "customer",
                     "total_seconds": 3712.967,
                     "digital": "1:01:52",
                     "decimal": "1.02",
@@ -313,7 +302,7 @@
                     "percent": 3.23
                 },
                 {
-                    "name": "only",
+                    "name": "Participating",
                     "total_seconds": 3712.967,
                     "digital": "1:01:52",
                     "decimal": "1.02",
@@ -324,7 +313,7 @@
                     "percent": 3.23
                 },
                 {
-                    "name": "Friday",
+                    "name": "p",
                     "total_seconds": 3712.967,
                     "digital": "1:01:52",
                     "decimal": "1.02",
@@ -357,28 +346,6 @@
                     "percent": 3.23
                 },
                 {
-                    "name": "strong",
-                    "total_seconds": 3712.967,
-                    "digital": "1:01:52",
-                    "decimal": "1.02",
-                    "text": "1 hr 1 min",
-                    "hours": 1,
-                    "minutes": 1,
-                    "seconds": 52,
-                    "percent": 3.23
-                },
-                {
-                    "name": "customer",
-                    "total_seconds": 3712.967,
-                    "digital": "1:01:52",
-                    "decimal": "1.02",
-                    "text": "1 hr 1 min",
-                    "hours": 1,
-                    "minutes": 1,
-                    "seconds": 52,
-                    "percent": 3.23
-                },
-                {
                     "name": "Available",
                     "total_seconds": 3712.967,
                     "digital": "1:01:52",
@@ -390,7 +357,40 @@
                     "percent": 3.23
                 },
                 {
+                    "name": "strong",
+                    "total_seconds": 3712.967,
+                    "digital": "1:01:52",
+                    "decimal": "1.02",
+                    "text": "1 hr 1 min",
+                    "hours": 1,
+                    "minutes": 1,
+                    "seconds": 52,
+                    "percent": 3.23
+                },
+                {
                     "name": "stores",
+                    "total_seconds": 3712.967,
+                    "digital": "1:01:52",
+                    "decimal": "1.02",
+                    "text": "1 hr 1 min",
+                    "hours": 1,
+                    "minutes": 1,
+                    "seconds": 52,
+                    "percent": 3.23
+                },
+                {
+                    "name": "only",
+                    "total_seconds": 3712.967,
+                    "digital": "1:01:52",
+                    "decimal": "1.02",
+                    "text": "1 hr 1 min",
+                    "hours": 1,
+                    "minutes": 1,
+                    "seconds": 52,
+                    "percent": 3.23
+                },
+                {
+                    "name": "Friday",
                     "total_seconds": 3712.967,
                     "digital": "1:01:52",
                     "decimal": "1.02",
@@ -467,6 +467,17 @@
                     "percent": 0.43
                 },
                 {
+                    "name": "get-params-from-route",
+                    "total_seconds": 391.546,
+                    "digital": "0:06:31",
+                    "decimal": "0.10",
+                    "text": "6 mins",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 31,
+                    "percent": 0.34
+                },
+                {
                     "name": "pagination-ui",
                     "total_seconds": 391.546,
                     "digital": "0:06:31",
@@ -489,18 +500,7 @@
                     "percent": 0.34
                 },
                 {
-                    "name": "get-params-from-route",
-                    "total_seconds": 391.546,
-                    "digital": "0:06:31",
-                    "decimal": "0.10",
-                    "text": "6 mins",
-                    "hours": 0,
-                    "minutes": 6,
-                    "seconds": 31,
-                    "percent": 0.34
-                },
-                {
-                    "name": "content-controls",
+                    "name": "table-tabs",
                     "total_seconds": 310.994,
                     "digital": "0:05:10",
                     "decimal": "0.08",
@@ -522,7 +522,7 @@
                     "percent": 0.27
                 },
                 {
-                    "name": "table-tabs",
+                    "name": "content-controls",
                     "total_seconds": 310.994,
                     "digital": "0:05:10",
                     "decimal": "0.08",
@@ -533,271 +533,7 @@
                     "percent": 0.27
                 },
                 {
-                    "name": "npm",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "https-browserify",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "dotenv",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "tailwindcss",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "terser-webpack-plugin",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "@popperjs/core",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "clsx",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "apexcharts",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "webpack",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "path-browserify",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "querystring-es3",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "os-browserify",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "qrcode",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "jspdf-autotable",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "loader-runner",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "@sophat/sidebar",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "@pphatdev/format-datetime",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "lodash",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "pusher-js",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "stream-browserify",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "postcss",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "constants-browserify",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "autoprefixer",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "laravel-mix",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "readable-stream",
+                    "name": "tty-browserify",
                     "total_seconds": 294.478,
                     "digital": "0:04:54",
                     "decimal": "0.07",
@@ -819,40 +555,183 @@
                     "percent": 0.26
                 },
                 {
+                    "name": "os-browserify",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "stream-browserify",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "https-browserify",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "@pphatdev/format-datetime",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "tailwindcss",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "pusher-js",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "dotenv",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "lodash",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "clsx",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "npm",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "webpack",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "jspdf-autotable",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "autoprefixer",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "constants-browserify",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "@sophat/sidebar",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "@popperjs/core",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
                     "name": "@smarterp/data",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "browserify-zlib",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "tty-browserify",
-                    "total_seconds": 294.478,
-                    "digital": "0:04:54",
-                    "decimal": "0.07",
-                    "text": "4 mins",
-                    "hours": 0,
-                    "minutes": 4,
-                    "seconds": 54,
-                    "percent": 0.26
-                },
-                {
-                    "name": "save",
                     "total_seconds": 294.478,
                     "digital": "0:04:54",
                     "decimal": "0.07",
@@ -874,7 +753,7 @@
                     "percent": 0.26
                 },
                 {
-                    "name": "vm-browserify",
+                    "name": "browserify-zlib",
                     "total_seconds": 294.478,
                     "digital": "0:04:54",
                     "decimal": "0.07",
@@ -885,7 +764,117 @@
                     "percent": 0.26
                 },
                 {
-                    "name": "@googlemaps/js-api-loader",
+                    "name": "readable-stream",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "qrcode",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "save",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "terser-webpack-plugin",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "apexcharts",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "loader-runner",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "querystring-es3",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "laravel-mix",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "postcss",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "path-browserify",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 54,
+                    "percent": 0.26
+                },
+                {
+                    "name": "vm-browserify",
                     "total_seconds": 294.478,
                     "digital": "0:04:54",
                     "decimal": "0.07",
@@ -918,15 +907,15 @@
                     "percent": 0.26
                 },
                 {
-                    "name": "quill",
-                    "total_seconds": 283.813,
-                    "digital": "0:04:43",
+                    "name": "@googlemaps/js-api-loader",
+                    "total_seconds": 294.478,
+                    "digital": "0:04:54",
                     "decimal": "0.07",
                     "text": "4 mins",
                     "hours": 0,
                     "minutes": 4,
-                    "seconds": 43,
-                    "percent": 0.25
+                    "seconds": 54,
+                    "percent": 0.26
                 },
                 {
                     "name": "dompurify",
@@ -941,6 +930,17 @@
                 },
                 {
                     "name": "cross-env",
+                    "total_seconds": 283.813,
+                    "digital": "0:04:43",
+                    "decimal": "0.07",
+                    "text": "4 mins",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 43,
+                    "percent": 0.25
+                },
+                {
+                    "name": "quill",
                     "total_seconds": 283.813,
                     "digital": "0:04:43",
                     "decimal": "0.07",
@@ -984,29 +984,7 @@
                     "percent": 0.17
                 },
                 {
-                    "name": "class",
-                    "total_seconds": 135.035,
-                    "digital": "0:02:15",
-                    "decimal": "0.03",
-                    "text": "2 mins",
-                    "hours": 0,
-                    "minutes": 2,
-                    "seconds": 15,
-                    "percent": 0.12
-                },
-                {
-                    "name": "check",
-                    "total_seconds": 135.035,
-                    "digital": "0:02:15",
-                    "decimal": "0.03",
-                    "text": "2 mins",
-                    "hours": 0,
-                    "minutes": 2,
-                    "seconds": 15,
-                    "percent": 0.12
-                },
-                {
-                    "name": "required",
+                    "name": "status",
                     "total_seconds": 135.035,
                     "digital": "0:02:15",
                     "decimal": "0.03",
@@ -1028,18 +1006,7 @@
                     "percent": 0.12
                 },
                 {
-                    "name": "status",
-                    "total_seconds": 135.035,
-                    "digital": "0:02:15",
-                    "decimal": "0.03",
-                    "text": "2 mins",
-                    "hours": 0,
-                    "minutes": 2,
-                    "seconds": 15,
-                    "percent": 0.12
-                },
-                {
-                    "name": "value",
+                    "name": "code",
                     "total_seconds": 135.035,
                     "digital": "0:02:15",
                     "decimal": "0.03",
@@ -1061,7 +1028,7 @@
                     "percent": 0.12
                 },
                 {
-                    "name": "code",
+                    "name": "required",
                     "total_seconds": 135.035,
                     "digital": "0:02:15",
                     "decimal": "0.03",
@@ -1083,7 +1050,29 @@
                     "percent": 0.12
                 },
                 {
+                    "name": "value",
+                    "total_seconds": 135.035,
+                    "digital": "0:02:15",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 15,
+                    "percent": 0.12
+                },
+                {
                     "name": "name",
+                    "total_seconds": 135.035,
+                    "digital": "0:02:15",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 15,
+                    "percent": 0.12
+                },
+                {
+                    "name": "check",
                     "total_seconds": 135.035,
                     "digital": "0:02:15",
                     "decimal": "0.03",
@@ -1105,7 +1094,7 @@
                     "percent": 0.12
                 },
                 {
-                    "name": "data",
+                    "name": "x",
                     "total_seconds": 135.035,
                     "digital": "0:02:15",
                     "decimal": "0.03",
@@ -1116,7 +1105,7 @@
                     "percent": 0.12
                 },
                 {
-                    "name": "x",
+                    "name": "data",
                     "total_seconds": 135.035,
                     "digital": "0:02:15",
                     "decimal": "0.03",
@@ -1138,7 +1127,18 @@
                     "percent": 0.12
                 },
                 {
-                    "name": "color",
+                    "name": "class",
+                    "total_seconds": 135.035,
+                    "digital": "0:02:15",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 15,
+                    "percent": 0.12
+                },
+                {
+                    "name": "One",
                     "total_seconds": 91.486,
                     "digital": "0:01:31",
                     "decimal": "0.02",
@@ -1160,7 +1160,7 @@
                     "percent": 0.08
                 },
                 {
-                    "name": "slot",
+                    "name": "color",
                     "total_seconds": 91.486,
                     "digital": "0:01:31",
                     "decimal": "0.02",
@@ -1171,7 +1171,7 @@
                     "percent": 0.08
                 },
                 {
-                    "name": "One",
+                    "name": "slot",
                     "total_seconds": 91.486,
                     "digital": "0:01:31",
                     "decimal": "0.02",
@@ -1259,40 +1259,7 @@
                     "percent": 0.06
                 },
                 {
-                    "name": "upload-files",
-                    "total_seconds": 40.31,
-                    "digital": "0:00:40",
-                    "decimal": "0.00",
-                    "text": "40 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 40,
-                    "percent": 0.04
-                },
-                {
-                    "name": "tab-milestones",
-                    "total_seconds": 40.31,
-                    "digital": "0:00:40",
-                    "decimal": "0.00",
-                    "text": "40 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 40,
-                    "percent": 0.04
-                },
-                {
-                    "name": "loading",
-                    "total_seconds": 40.31,
-                    "digital": "0:00:40",
-                    "decimal": "0.00",
-                    "text": "40 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 40,
-                    "percent": 0.04
-                },
-                {
-                    "name": "view-content",
+                    "name": "user-config",
                     "total_seconds": 40.31,
                     "digital": "0:00:40",
                     "decimal": "0.00",
@@ -1314,6 +1281,17 @@
                     "percent": 0.04
                 },
                 {
+                    "name": "loading",
+                    "total_seconds": 40.31,
+                    "digital": "0:00:40",
+                    "decimal": "0.00",
+                    "text": "40 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 40,
+                    "percent": 0.04
+                },
+                {
                     "name": "image-cdn",
                     "total_seconds": 40.31,
                     "digital": "0:00:40",
@@ -1325,7 +1303,18 @@
                     "percent": 0.04
                 },
                 {
-                    "name": "user-config",
+                    "name": "tab-milestones",
+                    "total_seconds": 40.31,
+                    "digital": "0:00:40",
+                    "decimal": "0.00",
+                    "text": "40 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 40,
+                    "percent": 0.04
+                },
+                {
+                    "name": "upload-files",
                     "total_seconds": 40.31,
                     "digital": "0:00:40",
                     "decimal": "0.00",
@@ -1347,18 +1336,18 @@
                     "percent": 0.04
                 },
                 {
-                    "name": "sessions",
-                    "total_seconds": 36.886,
-                    "digital": "0:00:36",
+                    "name": "view-content",
+                    "total_seconds": 40.31,
+                    "digital": "0:00:40",
                     "decimal": "0.00",
-                    "text": "36 secs",
+                    "text": "40 secs",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 36,
-                    "percent": 0.03
+                    "seconds": 40,
+                    "percent": 0.04
                 },
                 {
-                    "name": "sweetalert",
+                    "name": "sessions",
                     "total_seconds": 36.886,
                     "digital": "0:00:36",
                     "decimal": "0.00",
@@ -1380,25 +1369,14 @@
                     "percent": 0.03
                 },
                 {
-                    "name": "sidebar-v2",
-                    "total_seconds": 34.873,
-                    "digital": "0:00:34",
+                    "name": "sweetalert",
+                    "total_seconds": 36.886,
+                    "digital": "0:00:36",
                     "decimal": "0.00",
-                    "text": "34 secs",
+                    "text": "36 secs",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 34,
-                    "percent": 0.03
-                },
-                {
-                    "name": "sidebar",
-                    "total_seconds": 34.873,
-                    "digital": "0:00:34",
-                    "decimal": "0.00",
-                    "text": "34 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 34,
+                    "seconds": 36,
                     "percent": 0.03
                 },
                 {
@@ -1413,7 +1391,7 @@
                     "percent": 0.03
                 },
                 {
-                    "name": "realtime-date",
+                    "name": "sidebar-v2",
                     "total_seconds": 34.873,
                     "digital": "0:00:34",
                     "decimal": "0.00",
@@ -1435,7 +1413,29 @@
                     "percent": 0.03
                 },
                 {
-                    "name": "boards",
+                    "name": "realtime-date",
+                    "total_seconds": 34.873,
+                    "digital": "0:00:34",
+                    "decimal": "0.00",
+                    "text": "34 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "percent": 0.03
+                },
+                {
+                    "name": "sidebar",
+                    "total_seconds": 34.873,
+                    "digital": "0:00:34",
+                    "decimal": "0.00",
+                    "text": "34 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "percent": 0.03
+                },
+                {
+                    "name": "boards-detail",
                     "total_seconds": 28.514,
                     "digital": "0:00:28",
                     "decimal": "0.00",
@@ -1446,7 +1446,7 @@
                     "percent": 0.02
                 },
                 {
-                    "name": "boards-detail",
+                    "name": "boards",
                     "total_seconds": 28.514,
                     "digital": "0:00:28",
                     "decimal": "0.00",
@@ -1468,7 +1468,7 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "crypto-browserify",
+                    "name": "flatpickr",
                     "total_seconds": 10.665,
                     "digital": "0:00:10",
                     "decimal": "0.00",
@@ -1479,7 +1479,7 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "flatpickr",
+                    "name": "crypto-browserify",
                     "total_seconds": 10.665,
                     "digital": "0:00:10",
                     "decimal": "0.00",
@@ -1552,6 +1552,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 7681,
                     "ai_prompt_events_total": 31,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [
                         {
@@ -1587,6 +1588,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events_total": 0,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
