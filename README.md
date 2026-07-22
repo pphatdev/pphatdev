@@ -71,6 +71,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <div>
 <!--START_SECTION:followers-->
 
+- [Chhoranndorn](https://github.com/Chhoranndorn)
 - [RongMarin99](https://github.com/RongMarin99)
 - [chrisipanaque](https://github.com/chrisipanaque)
 - [ahmadrizal-baihaqi](https://github.com/ahmadrizal-baihaqi)
@@ -78,7 +79,6 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 - [cachewraith](https://github.com/cachewraith)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [standardgalactic](https://github.com/standardgalactic)
-- [Angkor-Rhapsody](https://github.com/Angkor-Rhapsody)
 <!--END_SECTION:followers-->
 </div>
 
