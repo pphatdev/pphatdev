@@ -43,12 +43,35 @@ jobs:
           bar-style: ${{ github.event.inputs.bar_style || 'block' }}
 
       - name: Commit and push changes
+        id: commit
         if: steps.update_stats.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(readme): update daily stats, followers and blog posts"
           file_pattern: "README.md data/coding_stats.json"
           branch: main
+
+      - name: Notify Telegram on success
+        if: success() && steps.update_stats.outputs.changed == 'true'
+        uses: pphatdev/telegrambot-alert-action@v1.1-beta
+        with:
+          telegram-bot-token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          telegram-chat-id: ${{ secrets.TELEGRAM_CHAT_ID }}
+          status: success
+          stage: Daily README Update
+          environment: production
+          extra: "<b>Repo:</b> ${{ github.repository }}\n<b>Trigger:</b> ${{ github.event_name }}"
+
+      - name: Notify Telegram on failure
+        if: failure()
+        uses: pphatdev/telegrambot-alert-action@v1.1-beta
+        with:
+          telegram-bot-token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          telegram-chat-id: ${{ secrets.TELEGRAM_CHAT_ID }}
+          status: failure
+          stage: Daily README Update
+          environment: production
+          extra: "<b>Repo:</b> ${{ github.repository }}\n<b>Run:</b> ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
 
 

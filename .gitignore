@@ -40,3 +40,7 @@ htmlcov/
 .cache
 coverage.xml
 *.cover
+
+
+# Claude
+.claude
