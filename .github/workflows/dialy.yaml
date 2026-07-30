@@ -52,7 +52,7 @@ jobs:
           branch: main
 
       - name: Notify Telegram on success
-        if: success() && steps.update_stats.outputs.changed == 'true'
+        if: success()
         uses: pphatdev/telegrambot-alert-action@v1.1-beta
         with:
           telegram-bot-token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -60,7 +60,7 @@ jobs:
           status: success
           stage: Daily README Update
           environment: production
-          extra: "<b>Repo:</b> ${{ github.repository }}\n<b>Trigger:</b> ${{ github.event_name }}"
+          extra: "<b>Repo:</b> ${{ github.repository }}\n<b>Trigger:</b> ${{ github.event_name }}\n<b>Changed:</b> ${{ steps.update_stats.outputs.changed || 'false' }}"
 
       - name: Notify Telegram on failure
         if: failure()
