@@ -6,9 +6,11 @@ on:
   push:
     branches:
       - main
+      - develop
   pull_request:
     branches:
       - main
+      - develop
   workflow_dispatch:
     inputs:
       bar_style:
@@ -34,8 +36,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          ref: main
 
       - name: Update README stats
         id: update_stats
@@ -51,8 +51,9 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(readme): update daily stats, followers and blog posts"
-          file_pattern: "README.md data/coding_stats.json"
-          branch: main
+          file_pattern: "README.md data/ assets/"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
 
       - name: Notify Telegram on success
         if: success()
@@ -75,9 +76,3 @@ jobs:
           stage: Daily README Update
           environment: production
           extra: "<b>Repo:</b> ${{ github.repository }}\n<b>Run:</b> ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-
-
-
-
-
-
