@@ -68,8 +68,8 @@ runs:
       id: detect
       shell: bash
       run: |
-        if git diff --quiet -- README.md data/coding_stats.json; then
-          echo "changed=false" >> "$GITHUB_OUTPUT"
-        else
+        if [ -n "$(git status --porcelain README.md data/ assets/)" ]; then
           echo "changed=true" >> "$GITHUB_OUTPUT"
+        else
+          echo "changed=false" >> "$GITHUB_OUTPUT"
         fi
