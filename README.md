@@ -1,4 +1,4 @@
-<img align='middle' src="assets/stats.svg" title="PPhat - GitHub Stats" alt="PPhat - GitHub Stats" style="width:100%"/>
+<img align='middle' src="assets/stats.svg" title="GitHub Stats" alt="PPhat - GitHub Stats" style="width:100%"/>
 
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25" alt="rocket"/> Hi, Welcome back <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
