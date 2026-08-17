@@ -73,10 +73,10 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 - [the-d3fender](https://github.com/the-d3fender)
 - [Chhoranndorn](https://github.com/Chhoranndorn)
 - [RongMarin99](https://github.com/RongMarin99)
-- [chrisipanaque](https://github.com/chrisipanaque)
 - [ahmadrizal-baihaqi](https://github.com/ahmadrizal-baihaqi)
 - [duncuo164](https://github.com/duncuo164)
 - [cachewraith](https://github.com/cachewraith)
+- [Dvurechensky](https://github.com/Dvurechensky)
 <!--END_SECTION:followers-->
 </div>
 
