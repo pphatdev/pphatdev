@@ -14,7 +14,7 @@
 
 ![](https://stats.pphat.top/badges?username=pphatdev&name=visitors,repositories,languages,followers,total-stars,total-contributors&theme=ocean,neon,inferno,matrix,solar,galaxy&padding=10&size=medium)
 
-_កម្មករសរសេរកូដ_ 😂 _(Vibe Coder • Vibe Designer)_
+<!-- _កម្មករសរសេរកូដ_ 😂 _(Vibe Coder • Vibe Designer)_ -->
 
 I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _Vibe (Coder/Designer)_ with a huge love for Node.js, Next.js, Nuxt.js, PostgreSQL, REST API and Data Visualization.
 
