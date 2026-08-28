@@ -1,6 +1,103 @@
 {
     "data": [
         {
+            "grand_total": {
+                "hours": 6,
+                "minutes": 28,
+                "total_seconds": 23304.883,
+                "digital": "6:28",
+                "decimal": "6.47",
+                "text": "6 hrs 28 mins",
+                "ai_additions": 951,
+                "ai_deletions": 279,
+                "human_additions": 61,
+                "human_deletions": 616,
+                "ai_model_line_changes": {
+                    "Gemini": 1230
+                },
+                "ai_input_tokens": 15572,
+                "ai_cached_input_tokens": 369618,
+                "ai_output_tokens": 2353,
+                "ai_prompt_length_sum": 6853,
+                "ai_prompt_events_total": 58,
+                "ai_sessions": 7,
+                "ai_model_costs": {
+                    "Opus": 0.321495
+                },
+                "ai_model_breakdown": [
+                    {
+                        "name": "Gemini",
+                        "lines": 1230,
+                        "cost": 0.0
+                    },
+                    {
+                        "name": "Opus",
+                        "lines": 0,
+                        "cost": 0.321495
+                    }
+                ],
+                "ai_model_total_cost": 0.321495,
+                "ai_prompt_length_avg": 118,
+                "ai_prompt_events_avg_per_session": 8,
+                "ai_prompt_events_median_per_session": 4,
+                "ai_prompt_length_avg_per_session": 105,
+                "ai_prompt_length_median_per_session": 113
+            },
+            "range": {
+                "start": "2026-08-26T17:00:00Z",
+                "end": "2026-08-27T16:59:59Z",
+                "date": "2026-08-27",
+                "text": "Thu Aug 27th 2026",
+                "timezone": "Asia/Bangkok"
+            },
+            "projects": [
+                {
+                    "name": "red-ant-mobile-admin",
+                    "total_seconds": 23304.883,
+                    "ai_additions": 951,
+                    "ai_deletions": 279,
+                    "human_additions": 61,
+                    "human_deletions": 616,
+                    "ai_model_line_changes": {
+                        "Gemini": 1230
+                    },
+                    "ai_input_tokens": 15572,
+                    "ai_cached_input_tokens": 369618,
+                    "ai_output_tokens": 2353,
+                    "ai_prompt_length_sum": 6853,
+                    "ai_prompt_events_total": 58,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Opus": 0.321495
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Gemini",
+                            "lines": 1230,
+                            "cost": 0.0
+                        },
+                        {
+                            "name": "Opus",
+                            "lines": 0,
+                            "cost": 0.321495
+                        }
+                    ],
+                    "ai_model_total_cost": 0.321495,
+                    "ai_prompt_length_avg": 118,
+                    "ai_prompt_length_avg_per_session": 105,
+                    "ai_prompt_length_median_per_session": 113,
+                    "ai_prompt_events_avg_per_session": 8,
+                    "ai_prompt_events_median_per_session": 4,
+                    "ai_sessions": 7,
+                    "digital": "6:28:24",
+                    "decimal": "6.47",
+                    "text": "6 hrs 28 mins",
+                    "hours": 6,
+                    "minutes": 28,
+                    "seconds": 24,
+                    "percent": 100.0
+                }
+            ],
             "languages": [
                 {
                     "name": "JavaScript",
@@ -80,48 +177,330 @@
                     "percent": 0.01
                 }
             ],
-            "grand_total": {
-                "hours": 6,
-                "minutes": 28,
-                "total_seconds": 23304.883,
-                "digital": "6:28",
-                "decimal": "6.47",
-                "text": "6 hrs 28 mins",
-                "ai_additions": 951,
-                "ai_deletions": 279,
-                "human_additions": 61,
-                "human_deletions": 616,
-                "ai_model_line_changes": {
-                    "Gemini": 1230
+            "dependencies": [
+                {
+                    "name": "data-controller",
+                    "total_seconds": 9271.889,
+                    "digital": "2:34:31",
+                    "decimal": "2.57",
+                    "text": "2 hrs 34 mins",
+                    "hours": 2,
+                    "minutes": 34,
+                    "seconds": 31,
+                    "percent": 8.5
                 },
-                "ai_input_tokens": 15572,
-                "ai_cached_input_tokens": 369618,
-                "ai_output_tokens": 2353,
-                "ai_prompt_length_sum": 6853,
-                "ai_prompt_events_total": 58,
-                "ai_sessions": 7,
-                "ai_model_costs": {
-                    "Opus": 0.321495
+                {
+                    "name": "format-datetime",
+                    "total_seconds": 8752.94,
+                    "digital": "2:25:52",
+                    "decimal": "2.42",
+                    "text": "2 hrs 25 mins",
+                    "hours": 2,
+                    "minutes": 25,
+                    "seconds": 52,
+                    "percent": 8.02
                 },
-                "ai_model_breakdown": [
-                    {
-                        "name": "Gemini",
-                        "lines": 1230,
-                        "cost": 0.0
-                    },
-                    {
-                        "name": "Opus",
-                        "lines": 0,
-                        "cost": 0.321495
-                    }
-                ],
-                "ai_model_total_cost": 0.321495,
-                "ai_prompt_length_avg": 118,
-                "ai_prompt_events_avg_per_session": 8,
-                "ai_prompt_events_median_per_session": 4,
-                "ai_prompt_length_avg_per_session": 105,
-                "ai_prompt_length_median_per_session": 113
-            },
+                {
+                    "name": "datepicker",
+                    "total_seconds": 8752.94,
+                    "digital": "2:25:52",
+                    "decimal": "2.42",
+                    "text": "2 hrs 25 mins",
+                    "hours": 2,
+                    "minutes": 25,
+                    "seconds": 52,
+                    "percent": 8.02
+                },
+                {
+                    "name": "sweetalert",
+                    "total_seconds": 6957.19,
+                    "digital": "1:55:57",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 57,
+                    "percent": 6.38
+                },
+                {
+                    "name": "input",
+                    "total_seconds": 6933.346,
+                    "digital": "1:55:33",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 33,
+                    "percent": 6.35
+                },
+                {
+                    "name": "setLoading",
+                    "total_seconds": 6933.346,
+                    "digital": "1:55:33",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 33,
+                    "percent": 6.35
+                },
+                {
+                    "name": "json",
+                    "total_seconds": 6933.346,
+                    "digital": "1:55:33",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 33,
+                    "percent": 6.35
+                },
+                {
+                    "name": "create-form",
+                    "total_seconds": 6933.346,
+                    "digital": "1:55:33",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 33,
+                    "percent": 6.35
+                },
+                {
+                    "name": "upload2text",
+                    "total_seconds": 6933.346,
+                    "digital": "1:55:33",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 33,
+                    "percent": 6.35
+                },
+                {
+                    "name": "checkbox-group",
+                    "total_seconds": 6933.346,
+                    "digital": "1:55:33",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 33,
+                    "percent": 6.35
+                },
+                {
+                    "name": "combobox",
+                    "total_seconds": 6933.346,
+                    "digital": "1:55:33",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 33,
+                    "percent": 6.35
+                },
+                {
+                    "name": "switch",
+                    "total_seconds": 6933.346,
+                    "digital": "1:55:33",
+                    "decimal": "1.92",
+                    "text": "1 hr 55 mins",
+                    "hours": 1,
+                    "minutes": 55,
+                    "seconds": 33,
+                    "percent": 6.35
+                },
+                {
+                    "name": "Illuminate",
+                    "total_seconds": 4193.404,
+                    "digital": "1:09:53",
+                    "decimal": "1.15",
+                    "text": "1 hr 9 mins",
+                    "hours": 1,
+                    "minutes": 9,
+                    "seconds": 53,
+                    "percent": 3.84
+                },
+                {
+                    "name": "axios",
+                    "total_seconds": 1851.405,
+                    "digital": "0:30:51",
+                    "decimal": "0.50",
+                    "text": "30 mins",
+                    "hours": 0,
+                    "minutes": 30,
+                    "seconds": 51,
+                    "percent": 1.7
+                },
+                {
+                    "name": "excel",
+                    "total_seconds": 1819.594,
+                    "digital": "0:30:19",
+                    "decimal": "0.50",
+                    "text": "30 mins",
+                    "hours": 0,
+                    "minutes": 30,
+                    "seconds": 19,
+                    "percent": 1.67
+                },
+                {
+                    "name": "data-table",
+                    "total_seconds": 1819.594,
+                    "digital": "0:30:19",
+                    "decimal": "0.50",
+                    "text": "30 mins",
+                    "hours": 0,
+                    "minutes": 30,
+                    "seconds": 19,
+                    "percent": 1.67
+                },
+                {
+                    "name": "select",
+                    "total_seconds": 1819.594,
+                    "digital": "0:30:19",
+                    "decimal": "0.50",
+                    "text": "30 mins",
+                    "hours": 0,
+                    "minutes": 30,
+                    "seconds": 19,
+                    "percent": 1.67
+                },
+                {
+                    "name": "currency",
+                    "total_seconds": 1819.594,
+                    "digital": "0:30:19",
+                    "decimal": "0.50",
+                    "text": "30 mins",
+                    "hours": 0,
+                    "minutes": 30,
+                    "seconds": 19,
+                    "percent": 1.67
+                },
+                {
+                    "name": "dropdown",
+                    "total_seconds": 1819.594,
+                    "digital": "0:30:19",
+                    "decimal": "0.50",
+                    "text": "30 mins",
+                    "hours": 0,
+                    "minutes": 30,
+                    "seconds": 19,
+                    "percent": 1.67
+                },
+                {
+                    "name": "datatable-action",
+                    "total_seconds": 1819.594,
+                    "digital": "0:30:19",
+                    "decimal": "0.50",
+                    "text": "30 mins",
+                    "hours": 0,
+                    "minutes": 30,
+                    "seconds": 19,
+                    "percent": 1.67
+                },
+                {
+                    "name": "export-csv",
+                    "total_seconds": 1372.638,
+                    "digital": "0:22:52",
+                    "decimal": "0.37",
+                    "text": "22 mins",
+                    "hours": 0,
+                    "minutes": 22,
+                    "seconds": 52,
+                    "percent": 1.26
+                },
+                {
+                    "name": "csv",
+                    "total_seconds": 446.956,
+                    "digital": "0:07:26",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 26,
+                    "percent": 0.41
+                },
+                {
+                    "name": "get-params-from-route",
+                    "total_seconds": 418.015,
+                    "digital": "0:06:58",
+                    "decimal": "0.10",
+                    "text": "6 mins",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 58,
+                    "percent": 0.38
+                },
+                {
+                    "name": "Mpdf",
+                    "total_seconds": 348.717,
+                    "digital": "0:05:48",
+                    "decimal": "0.08",
+                    "text": "5 mins",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 48,
+                    "percent": 0.32
+                },
+                {
+                    "name": "tailwind-merge",
+                    "total_seconds": 310.063,
+                    "digital": "0:05:10",
+                    "decimal": "0.08",
+                    "text": "5 mins",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 10,
+                    "percent": 0.28
+                },
+                {
+                    "name": "deep-merge",
+                    "total_seconds": 23.844,
+                    "digital": "0:00:23",
+                    "decimal": "0.00",
+                    "text": "23 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "percent": 0.02
+                },
+                {
+                    "name": "sessions",
+                    "total_seconds": 23.844,
+                    "digital": "0:00:23",
+                    "decimal": "0.00",
+                    "text": "23 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "percent": 0.02
+                },
+                {
+                    "name": "Exception",
+                    "total_seconds": 7.703,
+                    "digital": "0:00:07",
+                    "decimal": "0.00",
+                    "text": "7 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "percent": 0.01
+                }
+            ],
+            "machines": [
+                {
+                    "name": "TT-FRONT-END-01",
+                    "total_seconds": 23304.883,
+                    "machine_name_id": "107f0bc7-4c51-4bd8-83cc-5806773b4ca9",
+                    "digital": "6:28:24",
+                    "decimal": "6.47",
+                    "text": "6 hrs 28 mins",
+                    "hours": 6,
+                    "minutes": 28,
+                    "seconds": 24,
+                    "percent": 100.0
+                }
+            ],
             "editors": [
                 {
                     "name": "Antigravity IDE",
@@ -236,385 +615,7 @@
                     "seconds": 59,
                     "percent": 10.55
                 }
-            ],
-            "dependencies": [
-                {
-                    "name": "data-controller",
-                    "total_seconds": 9271.889,
-                    "digital": "2:34:31",
-                    "decimal": "2.57",
-                    "text": "2 hrs 34 mins",
-                    "hours": 2,
-                    "minutes": 34,
-                    "seconds": 31,
-                    "percent": 8.5
-                },
-                {
-                    "name": "format-datetime",
-                    "total_seconds": 8752.94,
-                    "digital": "2:25:52",
-                    "decimal": "2.42",
-                    "text": "2 hrs 25 mins",
-                    "hours": 2,
-                    "minutes": 25,
-                    "seconds": 52,
-                    "percent": 8.02
-                },
-                {
-                    "name": "datepicker",
-                    "total_seconds": 8752.94,
-                    "digital": "2:25:52",
-                    "decimal": "2.42",
-                    "text": "2 hrs 25 mins",
-                    "hours": 2,
-                    "minutes": 25,
-                    "seconds": 52,
-                    "percent": 8.02
-                },
-                {
-                    "name": "sweetalert",
-                    "total_seconds": 6957.19,
-                    "digital": "1:55:57",
-                    "decimal": "1.92",
-                    "text": "1 hr 55 mins",
-                    "hours": 1,
-                    "minutes": 55,
-                    "seconds": 57,
-                    "percent": 6.38
-                },
-                {
-                    "name": "combobox",
-                    "total_seconds": 6933.346,
-                    "digital": "1:55:33",
-                    "decimal": "1.92",
-                    "text": "1 hr 55 mins",
-                    "hours": 1,
-                    "minutes": 55,
-                    "seconds": 33,
-                    "percent": 6.35
-                },
-                {
-                    "name": "switch",
-                    "total_seconds": 6933.346,
-                    "digital": "1:55:33",
-                    "decimal": "1.92",
-                    "text": "1 hr 55 mins",
-                    "hours": 1,
-                    "minutes": 55,
-                    "seconds": 33,
-                    "percent": 6.35
-                },
-                {
-                    "name": "upload2text",
-                    "total_seconds": 6933.346,
-                    "digital": "1:55:33",
-                    "decimal": "1.92",
-                    "text": "1 hr 55 mins",
-                    "hours": 1,
-                    "minutes": 55,
-                    "seconds": 33,
-                    "percent": 6.35
-                },
-                {
-                    "name": "create-form",
-                    "total_seconds": 6933.346,
-                    "digital": "1:55:33",
-                    "decimal": "1.92",
-                    "text": "1 hr 55 mins",
-                    "hours": 1,
-                    "minutes": 55,
-                    "seconds": 33,
-                    "percent": 6.35
-                },
-                {
-                    "name": "setLoading",
-                    "total_seconds": 6933.346,
-                    "digital": "1:55:33",
-                    "decimal": "1.92",
-                    "text": "1 hr 55 mins",
-                    "hours": 1,
-                    "minutes": 55,
-                    "seconds": 33,
-                    "percent": 6.35
-                },
-                {
-                    "name": "json",
-                    "total_seconds": 6933.346,
-                    "digital": "1:55:33",
-                    "decimal": "1.92",
-                    "text": "1 hr 55 mins",
-                    "hours": 1,
-                    "minutes": 55,
-                    "seconds": 33,
-                    "percent": 6.35
-                },
-                {
-                    "name": "input",
-                    "total_seconds": 6933.346,
-                    "digital": "1:55:33",
-                    "decimal": "1.92",
-                    "text": "1 hr 55 mins",
-                    "hours": 1,
-                    "minutes": 55,
-                    "seconds": 33,
-                    "percent": 6.35
-                },
-                {
-                    "name": "checkbox-group",
-                    "total_seconds": 6933.346,
-                    "digital": "1:55:33",
-                    "decimal": "1.92",
-                    "text": "1 hr 55 mins",
-                    "hours": 1,
-                    "minutes": 55,
-                    "seconds": 33,
-                    "percent": 6.35
-                },
-                {
-                    "name": "Illuminate",
-                    "total_seconds": 4193.404,
-                    "digital": "1:09:53",
-                    "decimal": "1.15",
-                    "text": "1 hr 9 mins",
-                    "hours": 1,
-                    "minutes": 9,
-                    "seconds": 53,
-                    "percent": 3.84
-                },
-                {
-                    "name": "axios",
-                    "total_seconds": 1851.405,
-                    "digital": "0:30:51",
-                    "decimal": "0.50",
-                    "text": "30 mins",
-                    "hours": 0,
-                    "minutes": 30,
-                    "seconds": 51,
-                    "percent": 1.7
-                },
-                {
-                    "name": "data-table",
-                    "total_seconds": 1819.594,
-                    "digital": "0:30:19",
-                    "decimal": "0.50",
-                    "text": "30 mins",
-                    "hours": 0,
-                    "minutes": 30,
-                    "seconds": 19,
-                    "percent": 1.67
-                },
-                {
-                    "name": "dropdown",
-                    "total_seconds": 1819.594,
-                    "digital": "0:30:19",
-                    "decimal": "0.50",
-                    "text": "30 mins",
-                    "hours": 0,
-                    "minutes": 30,
-                    "seconds": 19,
-                    "percent": 1.67
-                },
-                {
-                    "name": "currency",
-                    "total_seconds": 1819.594,
-                    "digital": "0:30:19",
-                    "decimal": "0.50",
-                    "text": "30 mins",
-                    "hours": 0,
-                    "minutes": 30,
-                    "seconds": 19,
-                    "percent": 1.67
-                },
-                {
-                    "name": "excel",
-                    "total_seconds": 1819.594,
-                    "digital": "0:30:19",
-                    "decimal": "0.50",
-                    "text": "30 mins",
-                    "hours": 0,
-                    "minutes": 30,
-                    "seconds": 19,
-                    "percent": 1.67
-                },
-                {
-                    "name": "datatable-action",
-                    "total_seconds": 1819.594,
-                    "digital": "0:30:19",
-                    "decimal": "0.50",
-                    "text": "30 mins",
-                    "hours": 0,
-                    "minutes": 30,
-                    "seconds": 19,
-                    "percent": 1.67
-                },
-                {
-                    "name": "select",
-                    "total_seconds": 1819.594,
-                    "digital": "0:30:19",
-                    "decimal": "0.50",
-                    "text": "30 mins",
-                    "hours": 0,
-                    "minutes": 30,
-                    "seconds": 19,
-                    "percent": 1.67
-                },
-                {
-                    "name": "export-csv",
-                    "total_seconds": 1372.638,
-                    "digital": "0:22:52",
-                    "decimal": "0.37",
-                    "text": "22 mins",
-                    "hours": 0,
-                    "minutes": 22,
-                    "seconds": 52,
-                    "percent": 1.26
-                },
-                {
-                    "name": "csv",
-                    "total_seconds": 446.956,
-                    "digital": "0:07:26",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 26,
-                    "percent": 0.41
-                },
-                {
-                    "name": "get-params-from-route",
-                    "total_seconds": 418.015,
-                    "digital": "0:06:58",
-                    "decimal": "0.10",
-                    "text": "6 mins",
-                    "hours": 0,
-                    "minutes": 6,
-                    "seconds": 58,
-                    "percent": 0.38
-                },
-                {
-                    "name": "Mpdf",
-                    "total_seconds": 348.717,
-                    "digital": "0:05:48",
-                    "decimal": "0.08",
-                    "text": "5 mins",
-                    "hours": 0,
-                    "minutes": 5,
-                    "seconds": 48,
-                    "percent": 0.32
-                },
-                {
-                    "name": "tailwind-merge",
-                    "total_seconds": 310.063,
-                    "digital": "0:05:10",
-                    "decimal": "0.08",
-                    "text": "5 mins",
-                    "hours": 0,
-                    "minutes": 5,
-                    "seconds": 10,
-                    "percent": 0.28
-                },
-                {
-                    "name": "deep-merge",
-                    "total_seconds": 23.844,
-                    "digital": "0:00:23",
-                    "decimal": "0.00",
-                    "text": "23 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 23,
-                    "percent": 0.02
-                },
-                {
-                    "name": "sessions",
-                    "total_seconds": 23.844,
-                    "digital": "0:00:23",
-                    "decimal": "0.00",
-                    "text": "23 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 23,
-                    "percent": 0.02
-                },
-                {
-                    "name": "Exception",
-                    "total_seconds": 7.703,
-                    "digital": "0:00:07",
-                    "decimal": "0.00",
-                    "text": "7 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 7,
-                    "percent": 0.01
-                }
-            ],
-            "machines": [
-                {
-                    "name": "TT-FRONT-END-01",
-                    "total_seconds": 23304.883,
-                    "machine_name_id": "107f0bc7-4c51-4bd8-83cc-5806773b4ca9",
-                    "digital": "6:28:24",
-                    "decimal": "6.47",
-                    "text": "6 hrs 28 mins",
-                    "hours": 6,
-                    "minutes": 28,
-                    "seconds": 24,
-                    "percent": 100.0
-                }
-            ],
-            "projects": [
-                {
-                    "name": "red-ant-mobile-admin",
-                    "total_seconds": 23304.883,
-                    "ai_additions": 951,
-                    "ai_deletions": 279,
-                    "human_additions": 61,
-                    "human_deletions": 616,
-                    "ai_model_line_changes": {
-                        "Gemini": 1230
-                    },
-                    "ai_input_tokens": 15572,
-                    "ai_cached_input_tokens": 369618,
-                    "ai_output_tokens": 2353,
-                    "ai_prompt_length_sum": 6853,
-                    "ai_prompt_events_total": 58,
-                    "ai_model_costs": {
-                        "Opus": 0.321495
-                    },
-                    "ai_model_breakdown": [
-                        {
-                            "name": "Gemini",
-                            "lines": 1230,
-                            "cost": 0.0
-                        },
-                        {
-                            "name": "Opus",
-                            "lines": 0,
-                            "cost": 0.321495
-                        }
-                    ],
-                    "ai_model_total_cost": 0.321495,
-                    "ai_prompt_length_avg": 118,
-                    "ai_prompt_length_avg_per_session": 105,
-                    "ai_prompt_length_median_per_session": 113,
-                    "ai_prompt_events_avg_per_session": 8,
-                    "ai_prompt_events_median_per_session": 4,
-                    "ai_sessions": 7,
-                    "digital": "6:28:24",
-                    "decimal": "6.47",
-                    "text": "6 hrs 28 mins",
-                    "hours": 6,
-                    "minutes": 28,
-                    "seconds": 24,
-                    "percent": 100.0
-                }
-            ],
-            "range": {
-                "start": "2026-08-26T17:00:00Z",
-                "end": "2026-08-27T16:59:59Z",
-                "date": "2026-08-27",
-                "text": "Thu Aug 27th 2026",
-                "timezone": "Asia/Bangkok"
-            }
+            ]
         }
     ],
     "start": "2026-08-26T17:00:00Z",
