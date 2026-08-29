@@ -1,269 +1,6 @@
 {
     "data": [
         {
-            "grand_total": {
-                "hours": 6,
-                "minutes": 13,
-                "total_seconds": 22430.357,
-                "digital": "6:13",
-                "decimal": "6.22",
-                "text": "6 hrs 13 mins",
-                "ai_additions": 12788,
-                "ai_deletions": 1390,
-                "human_additions": 18,
-                "human_deletions": 22,
-                "ai_model_line_changes": {
-                    "Gemini": 1086,
-                    "Opus": 13092
-                },
-                "ai_input_tokens": 463299,
-                "ai_cached_input_tokens": 64372240,
-                "ai_output_tokens": 351842,
-                "ai_prompt_length_sum": 39702,
-                "ai_prompt_events_total": 100,
-                "ai_sessions": 12,
-                "ai_model_costs": {
-                    "Opus": 43.298667
-                },
-                "ai_model_breakdown": [
-                    {
-                        "name": "Opus",
-                        "lines": 13092,
-                        "cost": 43.298667
-                    },
-                    {
-                        "name": "Gemini",
-                        "lines": 1086,
-                        "cost": 0.0
-                    }
-                ],
-                "ai_model_total_cost": 43.298667,
-                "ai_prompt_length_avg": 397,
-                "ai_prompt_events_avg_per_session": 8,
-                "ai_prompt_events_median_per_session": 5,
-                "ai_prompt_length_avg_per_session": 567,
-                "ai_prompt_length_median_per_session": 190
-            },
-            "range": {
-                "start": "2026-08-27T17:00:00Z",
-                "end": "2026-08-28T16:59:59Z",
-                "date": "2026-08-28",
-                "text": "Fri Aug 28th 2026",
-                "timezone": "Asia/Bangkok"
-            },
-            "projects": [
-                {
-                    "name": "telegram-bot",
-                    "total_seconds": 10161.422,
-                    "ai_additions": 2535,
-                    "ai_deletions": 971,
-                    "human_additions": 10,
-                    "human_deletions": 0,
-                    "ai_model_line_changes": {
-                        "Gemini": 466,
-                        "Opus": 3040
-                    },
-                    "ai_input_tokens": 165428,
-                    "ai_cached_input_tokens": 15926822,
-                    "ai_output_tokens": 87231,
-                    "ai_prompt_length_sum": 23274,
-                    "ai_prompt_events_total": 42,
-                    "color": null,
-                    "ai_model_costs": {
-                        "Opus": 10.971323
-                    },
-                    "ai_model_breakdown": [
-                        {
-                            "name": "Opus",
-                            "lines": 3040,
-                            "cost": 10.971323
-                        },
-                        {
-                            "name": "Gemini",
-                            "lines": 466,
-                            "cost": 0.0
-                        }
-                    ],
-                    "ai_model_total_cost": 10.971323,
-                    "ai_prompt_length_avg": 554,
-                    "ai_prompt_length_avg_per_session": 616,
-                    "ai_prompt_length_median_per_session": 190,
-                    "ai_prompt_events_avg_per_session": 4,
-                    "ai_prompt_events_median_per_session": 2,
-                    "ai_sessions": 10,
-                    "digital": "2:49:21",
-                    "decimal": "2.82",
-                    "text": "2 hrs 49 mins",
-                    "hours": 2,
-                    "minutes": 49,
-                    "seconds": 21,
-                    "percent": 45.3
-                },
-                {
-                    "name": "admin.pphat.me",
-                    "total_seconds": 8472.251,
-                    "ai_additions": 9777,
-                    "ai_deletions": 404,
-                    "human_additions": 8,
-                    "human_deletions": 16,
-                    "ai_model_line_changes": {
-                        "Gemini": 129,
-                        "Opus": 10052
-                    },
-                    "ai_input_tokens": 261535,
-                    "ai_cached_input_tokens": 40014694,
-                    "ai_output_tokens": 253298,
-                    "ai_prompt_length_sum": 14868,
-                    "ai_prompt_events_total": 49,
-                    "color": null,
-                    "ai_model_costs": {
-                        "Opus": 27.647477
-                    },
-                    "ai_model_breakdown": [
-                        {
-                            "name": "Opus",
-                            "lines": 10052,
-                            "cost": 27.647477
-                        },
-                        {
-                            "name": "Gemini",
-                            "lines": 129,
-                            "cost": 0.0
-                        }
-                    ],
-                    "ai_model_total_cost": 27.647477,
-                    "ai_prompt_length_avg": 303,
-                    "ai_prompt_length_avg_per_session": 214,
-                    "ai_prompt_length_median_per_session": 105,
-                    "ai_prompt_events_avg_per_session": 16,
-                    "ai_prompt_events_median_per_session": 24,
-                    "ai_sessions": 3,
-                    "digital": "2:21:12",
-                    "decimal": "2.35",
-                    "text": "2 hrs 21 mins",
-                    "hours": 2,
-                    "minutes": 21,
-                    "seconds": 12,
-                    "percent": 37.77
-                },
-                {
-                    "name": "red-ant-mobile-admin",
-                    "total_seconds": 3368.055,
-                    "ai_additions": 475,
-                    "ai_deletions": 15,
-                    "human_additions": 0,
-                    "human_deletions": 6,
-                    "ai_model_line_changes": {
-                        "Gemini": 490
-                    },
-                    "ai_input_tokens": 0,
-                    "ai_cached_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 964,
-                    "ai_prompt_events_total": 8,
-                    "color": null,
-                    "ai_model_costs": {},
-                    "ai_model_breakdown": [
-                        {
-                            "name": "Gemini",
-                            "lines": 490,
-                            "cost": 0.0
-                        }
-                    ],
-                    "ai_model_total_cost": 0.0,
-                    "ai_prompt_length_avg": 120,
-                    "ai_prompt_length_avg_per_session": 120,
-                    "ai_prompt_length_median_per_session": 120,
-                    "ai_prompt_events_avg_per_session": 8,
-                    "ai_prompt_events_median_per_session": 8,
-                    "ai_sessions": 1,
-                    "digital": "0:56:08",
-                    "decimal": "0.93",
-                    "text": "56 mins",
-                    "hours": 0,
-                    "minutes": 56,
-                    "seconds": 8,
-                    "percent": 15.02
-                },
-                {
-                    "name": "api.pphat.me",
-                    "total_seconds": 416.629,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "ai_model_line_changes": {},
-                    "ai_input_tokens": 36336,
-                    "ai_cached_input_tokens": 8430724,
-                    "ai_output_tokens": 11313,
-                    "ai_prompt_length_sum": 596,
-                    "ai_prompt_events_total": 1,
-                    "color": null,
-                    "ai_model_costs": {
-                        "Opus": 4.679867
-                    },
-                    "ai_model_breakdown": [
-                        {
-                            "name": "Opus",
-                            "lines": 0,
-                            "cost": 4.679867
-                        }
-                    ],
-                    "ai_model_total_cost": 4.679867,
-                    "ai_prompt_length_avg": 596,
-                    "ai_prompt_length_avg_per_session": 596,
-                    "ai_prompt_length_median_per_session": 596,
-                    "ai_prompt_events_avg_per_session": 1,
-                    "ai_prompt_events_median_per_session": 1,
-                    "ai_sessions": 1,
-                    "digital": "0:06:56",
-                    "decimal": "0.10",
-                    "text": "6 mins",
-                    "hours": 0,
-                    "minutes": 6,
-                    "seconds": 56,
-                    "percent": 1.86
-                },
-                {
-                    "name": "Unknown Project",
-                    "total_seconds": 12.0,
-                    "ai_additions": 1,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "ai_model_line_changes": {
-                        "Gemini": 1
-                    },
-                    "ai_input_tokens": 0,
-                    "ai_cached_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events_total": 0,
-                    "color": null,
-                    "ai_model_costs": {},
-                    "ai_model_breakdown": [
-                        {
-                            "name": "Gemini",
-                            "lines": 1,
-                            "cost": 0.0
-                        }
-                    ],
-                    "ai_model_total_cost": 0.0,
-                    "ai_prompt_length_avg": 0,
-                    "ai_prompt_length_avg_per_session": 0,
-                    "ai_prompt_length_median_per_session": 0,
-                    "ai_prompt_events_avg_per_session": 0,
-                    "ai_prompt_events_median_per_session": 0,
-                    "ai_sessions": 1,
-                    "digital": "0:00:12",
-                    "decimal": "0.00",
-                    "text": "12 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 12,
-                    "percent": 0.05
-                }
-            ],
             "languages": [
                 {
                     "name": "TypeScript",
@@ -418,6 +155,177 @@
                     "minutes": 0,
                     "seconds": 39,
                     "percent": 0.18
+                }
+            ],
+            "grand_total": {
+                "hours": 6,
+                "minutes": 13,
+                "total_seconds": 22430.357,
+                "digital": "6:13",
+                "decimal": "6.22",
+                "text": "6 hrs 13 mins",
+                "ai_additions": 12788,
+                "ai_deletions": 1390,
+                "human_additions": 18,
+                "human_deletions": 22,
+                "ai_model_line_changes": {
+                    "Gemini": 1086,
+                    "Opus": 13092
+                },
+                "ai_input_tokens": 463299,
+                "ai_cached_input_tokens": 64372240,
+                "ai_output_tokens": 351842,
+                "ai_prompt_length_sum": 39702,
+                "ai_prompt_events_total": 100,
+                "ai_sessions": 12,
+                "ai_model_costs": {
+                    "Opus": 43.298667
+                },
+                "ai_model_breakdown": [
+                    {
+                        "name": "Opus",
+                        "lines": 13092,
+                        "cost": 43.298667
+                    },
+                    {
+                        "name": "Gemini",
+                        "lines": 1086,
+                        "cost": 0.0
+                    }
+                ],
+                "ai_model_total_cost": 43.298667,
+                "ai_prompt_length_avg": 397,
+                "ai_prompt_events_avg_per_session": 8,
+                "ai_prompt_events_median_per_session": 5,
+                "ai_prompt_length_avg_per_session": 567,
+                "ai_prompt_length_median_per_session": 190
+            },
+            "editors": [
+                {
+                    "name": "Antigravity IDE",
+                    "total_seconds": 13447.48,
+                    "ai_additions": 1071,
+                    "ai_deletions": 15,
+                    "human_additions": 18,
+                    "human_deletions": 22,
+                    "ai_model_line_changes": {
+                        "Gemini": 1086
+                    },
+                    "ai_input_tokens": 0,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 26734,
+                    "ai_prompt_events_total": 69,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Gemini",
+                            "lines": 1086,
+                            "cost": 0.0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.0,
+                    "ai_prompt_length_avg": 387,
+                    "ai_prompt_length_avg_per_session": 528,
+                    "ai_prompt_length_median_per_session": 154,
+                    "ai_prompt_events_avg_per_session": 6,
+                    "ai_prompt_events_median_per_session": 2,
+                    "ai_sessions": 12,
+                    "digital": "3:44:07",
+                    "decimal": "3.73",
+                    "text": "3 hrs 44 mins",
+                    "hours": 3,
+                    "minutes": 44,
+                    "seconds": 7,
+                    "percent": 59.95
+                },
+                {
+                    "name": "Claude Code",
+                    "total_seconds": 8982.877,
+                    "ai_additions": 11717,
+                    "ai_deletions": 1375,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Opus": 13092
+                    },
+                    "ai_input_tokens": 463299,
+                    "ai_cached_input_tokens": 64372240,
+                    "ai_output_tokens": 351842,
+                    "ai_prompt_length_sum": 12968,
+                    "ai_prompt_events_total": 31,
+                    "ai_model_costs": {
+                        "Opus": 43.298667
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Opus",
+                            "lines": 13092,
+                            "cost": 43.298667
+                        }
+                    ],
+                    "ai_model_total_cost": 43.298667,
+                    "ai_prompt_length_avg": 418,
+                    "ai_prompt_length_avg_per_session": 262,
+                    "ai_prompt_length_median_per_session": 262,
+                    "ai_prompt_events_avg_per_session": 16,
+                    "ai_prompt_events_median_per_session": 16,
+                    "ai_sessions": 2,
+                    "digital": "2:29:42",
+                    "decimal": "2.48",
+                    "text": "2 hrs 29 mins",
+                    "hours": 2,
+                    "minutes": 29,
+                    "seconds": 42,
+                    "percent": 40.05
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 22430.357,
+                    "digital": "6:13:50",
+                    "decimal": "6.22",
+                    "text": "6 hrs 13 mins",
+                    "hours": 6,
+                    "minutes": 13,
+                    "seconds": 50,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 20732.797,
+                    "digital": "5:45:32",
+                    "decimal": "5.75",
+                    "text": "5 hrs 45 mins",
+                    "hours": 5,
+                    "minutes": 45,
+                    "seconds": 32,
+                    "percent": 92.43
+                },
+                {
+                    "name": "Coding",
+                    "total_seconds": 1542.524,
+                    "digital": "0:25:42",
+                    "decimal": "0.42",
+                    "text": "25 mins",
+                    "hours": 0,
+                    "minutes": 25,
+                    "seconds": 42,
+                    "percent": 6.88
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 155.036,
+                    "digital": "0:02:35",
+                    "decimal": "0.03",
+                    "text": "2 mins",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 35,
+                    "percent": 0.69
                 }
             ],
             "dependencies": [
@@ -2801,134 +2709,226 @@
                     "percent": 100.0
                 }
             ],
-            "editors": [
+            "projects": [
                 {
-                    "name": "Antigravity IDE",
-                    "total_seconds": 13447.48,
-                    "ai_additions": 1071,
-                    "ai_deletions": 15,
-                    "human_additions": 18,
-                    "human_deletions": 22,
-                    "ai_model_line_changes": {
-                        "Gemini": 1086
-                    },
-                    "ai_input_tokens": 0,
-                    "ai_cached_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 26734,
-                    "ai_prompt_events_total": 69,
-                    "ai_model_costs": {},
-                    "ai_model_breakdown": [
-                        {
-                            "name": "Gemini",
-                            "lines": 1086,
-                            "cost": 0.0
-                        }
-                    ],
-                    "ai_model_total_cost": 0.0,
-                    "ai_prompt_length_avg": 387,
-                    "ai_prompt_length_avg_per_session": 528,
-                    "ai_prompt_length_median_per_session": 154,
-                    "ai_prompt_events_avg_per_session": 6,
-                    "ai_prompt_events_median_per_session": 2,
-                    "ai_sessions": 12,
-                    "digital": "3:44:07",
-                    "decimal": "3.73",
-                    "text": "3 hrs 44 mins",
-                    "hours": 3,
-                    "minutes": 44,
-                    "seconds": 7,
-                    "percent": 59.95
-                },
-                {
-                    "name": "Claude Code",
-                    "total_seconds": 8982.877,
-                    "ai_additions": 11717,
-                    "ai_deletions": 1375,
-                    "human_additions": 0,
+                    "name": "telegram-bot",
+                    "total_seconds": 10161.422,
+                    "ai_additions": 2535,
+                    "ai_deletions": 971,
+                    "human_additions": 10,
                     "human_deletions": 0,
                     "ai_model_line_changes": {
-                        "Opus": 13092
+                        "Gemini": 466,
+                        "Opus": 3040
                     },
-                    "ai_input_tokens": 463299,
-                    "ai_cached_input_tokens": 64372240,
-                    "ai_output_tokens": 351842,
-                    "ai_prompt_length_sum": 12968,
-                    "ai_prompt_events_total": 31,
+                    "ai_input_tokens": 165428,
+                    "ai_cached_input_tokens": 15926822,
+                    "ai_output_tokens": 87231,
+                    "ai_prompt_length_sum": 23274,
+                    "ai_prompt_events_total": 42,
+                    "color": null,
                     "ai_model_costs": {
-                        "Opus": 43.298667
+                        "Opus": 10.971323
                     },
                     "ai_model_breakdown": [
                         {
                             "name": "Opus",
-                            "lines": 13092,
-                            "cost": 43.298667
+                            "lines": 3040,
+                            "cost": 10.971323
+                        },
+                        {
+                            "name": "Gemini",
+                            "lines": 466,
+                            "cost": 0.0
                         }
                     ],
-                    "ai_model_total_cost": 43.298667,
-                    "ai_prompt_length_avg": 418,
-                    "ai_prompt_length_avg_per_session": 262,
-                    "ai_prompt_length_median_per_session": 262,
-                    "ai_prompt_events_avg_per_session": 16,
-                    "ai_prompt_events_median_per_session": 16,
-                    "ai_sessions": 2,
-                    "digital": "2:29:42",
-                    "decimal": "2.48",
-                    "text": "2 hrs 29 mins",
+                    "ai_model_total_cost": 10.971323,
+                    "ai_prompt_length_avg": 554,
+                    "ai_prompt_length_avg_per_session": 616,
+                    "ai_prompt_length_median_per_session": 190,
+                    "ai_prompt_events_avg_per_session": 4,
+                    "ai_prompt_events_median_per_session": 2,
+                    "ai_sessions": 10,
+                    "digital": "2:49:21",
+                    "decimal": "2.82",
+                    "text": "2 hrs 49 mins",
                     "hours": 2,
-                    "minutes": 29,
-                    "seconds": 42,
-                    "percent": 40.05
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 22430.357,
-                    "digital": "6:13:50",
-                    "decimal": "6.22",
-                    "text": "6 hrs 13 mins",
-                    "hours": 6,
-                    "minutes": 13,
-                    "seconds": 50,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "AI Coding",
-                    "total_seconds": 20732.797,
-                    "digital": "5:45:32",
-                    "decimal": "5.75",
-                    "text": "5 hrs 45 mins",
-                    "hours": 5,
-                    "minutes": 45,
-                    "seconds": 32,
-                    "percent": 92.43
+                    "minutes": 49,
+                    "seconds": 21,
+                    "percent": 45.3
                 },
                 {
-                    "name": "Coding",
-                    "total_seconds": 1542.524,
-                    "digital": "0:25:42",
-                    "decimal": "0.42",
-                    "text": "25 mins",
-                    "hours": 0,
-                    "minutes": 25,
-                    "seconds": 42,
-                    "percent": 6.88
+                    "name": "admin.pphat.me",
+                    "total_seconds": 8472.251,
+                    "ai_additions": 9777,
+                    "ai_deletions": 404,
+                    "human_additions": 8,
+                    "human_deletions": 16,
+                    "ai_model_line_changes": {
+                        "Gemini": 129,
+                        "Opus": 10052
+                    },
+                    "ai_input_tokens": 261535,
+                    "ai_cached_input_tokens": 40014694,
+                    "ai_output_tokens": 253298,
+                    "ai_prompt_length_sum": 14868,
+                    "ai_prompt_events_total": 49,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Opus": 27.647477
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Opus",
+                            "lines": 10052,
+                            "cost": 27.647477
+                        },
+                        {
+                            "name": "Gemini",
+                            "lines": 129,
+                            "cost": 0.0
+                        }
+                    ],
+                    "ai_model_total_cost": 27.647477,
+                    "ai_prompt_length_avg": 303,
+                    "ai_prompt_length_avg_per_session": 214,
+                    "ai_prompt_length_median_per_session": 105,
+                    "ai_prompt_events_avg_per_session": 16,
+                    "ai_prompt_events_median_per_session": 24,
+                    "ai_sessions": 3,
+                    "digital": "2:21:12",
+                    "decimal": "2.35",
+                    "text": "2 hrs 21 mins",
+                    "hours": 2,
+                    "minutes": 21,
+                    "seconds": 12,
+                    "percent": 37.77
                 },
                 {
-                    "name": "Writing Docs",
-                    "total_seconds": 155.036,
-                    "digital": "0:02:35",
-                    "decimal": "0.03",
-                    "text": "2 mins",
+                    "name": "red-ant-mobile-admin",
+                    "total_seconds": 3368.055,
+                    "ai_additions": 475,
+                    "ai_deletions": 15,
+                    "human_additions": 0,
+                    "human_deletions": 6,
+                    "ai_model_line_changes": {
+                        "Gemini": 490
+                    },
+                    "ai_input_tokens": 0,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 964,
+                    "ai_prompt_events_total": 8,
+                    "color": null,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Gemini",
+                            "lines": 490,
+                            "cost": 0.0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.0,
+                    "ai_prompt_length_avg": 120,
+                    "ai_prompt_length_avg_per_session": 120,
+                    "ai_prompt_length_median_per_session": 120,
+                    "ai_prompt_events_avg_per_session": 8,
+                    "ai_prompt_events_median_per_session": 8,
+                    "ai_sessions": 1,
+                    "digital": "0:56:08",
+                    "decimal": "0.93",
+                    "text": "56 mins",
                     "hours": 0,
-                    "minutes": 2,
-                    "seconds": 35,
-                    "percent": 0.69
+                    "minutes": 56,
+                    "seconds": 8,
+                    "percent": 15.02
+                },
+                {
+                    "name": "api.pphat.me",
+                    "total_seconds": 416.629,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 36336,
+                    "ai_cached_input_tokens": 8430724,
+                    "ai_output_tokens": 11313,
+                    "ai_prompt_length_sum": 596,
+                    "ai_prompt_events_total": 1,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Opus": 4.679867
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Opus",
+                            "lines": 0,
+                            "cost": 4.679867
+                        }
+                    ],
+                    "ai_model_total_cost": 4.679867,
+                    "ai_prompt_length_avg": 596,
+                    "ai_prompt_length_avg_per_session": 596,
+                    "ai_prompt_length_median_per_session": 596,
+                    "ai_prompt_events_avg_per_session": 1,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 1,
+                    "digital": "0:06:56",
+                    "decimal": "0.10",
+                    "text": "6 mins",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 56,
+                    "percent": 1.86
+                },
+                {
+                    "name": "Unknown Project",
+                    "total_seconds": 12.0,
+                    "ai_additions": 1,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Gemini": 1
+                    },
+                    "ai_input_tokens": 0,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "color": null,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Gemini",
+                            "lines": 1,
+                            "cost": 0.0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 1,
+                    "digital": "0:00:12",
+                    "decimal": "0.00",
+                    "text": "12 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "percent": 0.05
                 }
-            ]
+            ],
+            "range": {
+                "start": "2026-08-27T17:00:00Z",
+                "end": "2026-08-28T16:59:59Z",
+                "date": "2026-08-28",
+                "text": "Fri Aug 28th 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-08-27T17:00:00Z",
