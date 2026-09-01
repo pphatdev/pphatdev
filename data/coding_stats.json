@@ -109,13 +109,13 @@
                 "digital": "7:41",
                 "decimal": "7.68",
                 "text": "7 hrs 41 mins",
-                "ai_additions": 5677,
+                "ai_additions": 5781,
                 "ai_deletions": 382,
                 "human_additions": 35,
                 "human_deletions": 268,
                 "ai_model_line_changes": {
                     "Gemini": 885,
-                    "Opus": 5174
+                    "Opus": 5278
                 },
                 "ai_input_tokens": 758339,
                 "ai_cached_input_tokens": 121525899,
@@ -129,7 +129,7 @@
                 "ai_model_breakdown": [
                     {
                         "name": "Opus",
-                        "lines": 5174,
+                        "lines": 5278,
                         "cost": 74.382664
                     },
                     {
@@ -149,12 +149,12 @@
                 {
                     "name": "Claude Code",
                     "total_seconds": 14200.639,
-                    "ai_additions": 4927,
+                    "ai_additions": 5031,
                     "ai_deletions": 247,
                     "human_additions": 0,
                     "human_deletions": 0,
                     "ai_model_line_changes": {
-                        "Opus": 5174
+                        "Opus": 5278
                     },
                     "ai_input_tokens": 758339,
                     "ai_cached_input_tokens": 121525899,
@@ -167,7 +167,7 @@
                     "ai_model_breakdown": [
                         {
                             "name": "Opus",
-                            "lines": 5174,
+                            "lines": 5278,
                             "cost": 74.382664
                         }
                     ],
@@ -418,7 +418,7 @@
                     "percent": 1.99
                 },
                 {
-                    "name": "gallery-node",
+                    "name": "extension-placeholder",
                     "total_seconds": 2732.505,
                     "digital": "0:45:32",
                     "decimal": "0.75",
@@ -429,7 +429,7 @@
                     "percent": 1.99
                 },
                 {
-                    "name": "extension-placeholder",
+                    "name": "gallery-node",
                     "total_seconds": 2732.505,
                     "digital": "0:45:32",
                     "decimal": "0.75",
@@ -528,7 +528,7 @@
                     "percent": 1.54
                 },
                 {
-                    "name": "MarkdownSourceEditor",
+                    "name": "CommentsManager",
                     "total_seconds": 2047.777,
                     "digital": "0:34:07",
                     "decimal": "0.57",
@@ -539,7 +539,7 @@
                     "percent": 1.49
                 },
                 {
-                    "name": "CommentsManager",
+                    "name": "MarkdownSourceEditor",
                     "total_seconds": 2047.777,
                     "digital": "0:34:07",
                     "decimal": "0.57",
@@ -627,28 +627,6 @@
                     "percent": 0.86
                 },
                 {
-                    "name": "checkbox-group",
-                    "total_seconds": 1183.668,
-                    "digital": "0:19:43",
-                    "decimal": "0.32",
-                    "text": "19 mins",
-                    "hours": 0,
-                    "minutes": 19,
-                    "seconds": 43,
-                    "percent": 0.86
-                },
-                {
-                    "name": "datepicker",
-                    "total_seconds": 1183.668,
-                    "digital": "0:19:43",
-                    "decimal": "0.32",
-                    "text": "19 mins",
-                    "hours": 0,
-                    "minutes": 19,
-                    "seconds": 43,
-                    "percent": 0.86
-                },
-                {
                     "name": "json",
                     "total_seconds": 1183.668,
                     "digital": "0:19:43",
@@ -671,17 +649,6 @@
                     "percent": 0.86
                 },
                 {
-                    "name": "setLoading",
-                    "total_seconds": 1183.668,
-                    "digital": "0:19:43",
-                    "decimal": "0.32",
-                    "text": "19 mins",
-                    "hours": 0,
-                    "minutes": 19,
-                    "seconds": 43,
-                    "percent": 0.86
-                },
-                {
                     "name": "upload2text",
                     "total_seconds": 1183.668,
                     "digital": "0:19:43",
@@ -694,6 +661,39 @@
                 },
                 {
                     "name": "format-datetime",
+                    "total_seconds": 1183.668,
+                    "digital": "0:19:43",
+                    "decimal": "0.32",
+                    "text": "19 mins",
+                    "hours": 0,
+                    "minutes": 19,
+                    "seconds": 43,
+                    "percent": 0.86
+                },
+                {
+                    "name": "datepicker",
+                    "total_seconds": 1183.668,
+                    "digital": "0:19:43",
+                    "decimal": "0.32",
+                    "text": "19 mins",
+                    "hours": 0,
+                    "minutes": 19,
+                    "seconds": 43,
+                    "percent": 0.86
+                },
+                {
+                    "name": "setLoading",
+                    "total_seconds": 1183.668,
+                    "digital": "0:19:43",
+                    "decimal": "0.32",
+                    "text": "19 mins",
+                    "hours": 0,
+                    "minutes": 19,
+                    "seconds": 43,
+                    "percent": 0.86
+                },
+                {
+                    "name": "checkbox-group",
                     "total_seconds": 1183.668,
                     "digital": "0:19:43",
                     "decimal": "0.32",
@@ -748,7 +748,7 @@
                     "percent": 0.45
                 },
                 {
-                    "name": "select",
+                    "name": "imageTransform",
                     "total_seconds": 502.711,
                     "digital": "0:08:22",
                     "decimal": "0.13",
@@ -759,7 +759,7 @@
                     "percent": 0.37
                 },
                 {
-                    "name": "imageTransform",
+                    "name": "select",
                     "total_seconds": 502.711,
                     "digital": "0:08:22",
                     "decimal": "0.13",
@@ -825,7 +825,18 @@
                     "percent": 0.26
                 },
                 {
-                    "name": "QueryProvider",
+                    "name": "google",
+                    "total_seconds": 361.262,
+                    "digital": "0:06:01",
+                    "decimal": "0.10",
+                    "text": "6 mins",
+                    "hours": 0,
+                    "minutes": 6,
+                    "seconds": 1,
+                    "percent": 0.26
+                },
+                {
+                    "name": "globals",
                     "total_seconds": 361.262,
                     "digital": "0:06:01",
                     "decimal": "0.10",
@@ -847,18 +858,7 @@
                     "percent": 0.26
                 },
                 {
-                    "name": "google",
-                    "total_seconds": 361.262,
-                    "digital": "0:06:01",
-                    "decimal": "0.10",
-                    "text": "6 mins",
-                    "hours": 0,
-                    "minutes": 6,
-                    "seconds": 1,
-                    "percent": 0.26
-                },
-                {
-                    "name": "globals",
+                    "name": "QueryProvider",
                     "total_seconds": 361.262,
                     "digital": "0:06:01",
                     "decimal": "0.10",
@@ -924,7 +924,7 @@
                     "percent": 0.19
                 },
                 {
-                    "name": "UserMenu",
+                    "name": "MobileNav",
                     "total_seconds": 248.762,
                     "digital": "0:04:08",
                     "decimal": "0.07",
@@ -935,7 +935,7 @@
                     "percent": 0.18
                 },
                 {
-                    "name": "MobileNav",
+                    "name": "UserMenu",
                     "total_seconds": 248.762,
                     "digital": "0:04:08",
                     "decimal": "0.07",
@@ -957,7 +957,7 @@
                     "percent": 0.17
                 },
                 {
-                    "name": "author.types",
+                    "name": "tag.types",
                     "total_seconds": 192.912,
                     "digital": "0:03:12",
                     "decimal": "0.05",
@@ -968,7 +968,7 @@
                     "percent": 0.14
                 },
                 {
-                    "name": "tag.types",
+                    "name": "author.types",
                     "total_seconds": 192.912,
                     "digital": "0:03:12",
                     "decimal": "0.05",
@@ -1133,7 +1133,7 @@
                     "percent": 0.04
                 },
                 {
-                    "name": "axios",
+                    "name": "deep-merge",
                     "total_seconds": 46.282,
                     "digital": "0:00:46",
                     "decimal": "0.00",
@@ -1144,7 +1144,7 @@
                     "percent": 0.03
                 },
                 {
-                    "name": "deep-merge",
+                    "name": "axios",
                     "total_seconds": 46.282,
                     "digital": "0:00:46",
                     "decimal": "0.00",
@@ -1243,7 +1243,7 @@
                     "percent": 0.02
                 },
                 {
-                    "name": "extension-table",
+                    "name": "extension-table-row",
                     "total_seconds": 21.483,
                     "digital": "0:00:21",
                     "decimal": "0.00",
@@ -1265,7 +1265,7 @@
                     "percent": 0.02
                 },
                 {
-                    "name": "extension-table-row",
+                    "name": "extension-table",
                     "total_seconds": 21.483,
                     "digital": "0:00:21",
                     "decimal": "0.00",
@@ -1331,7 +1331,7 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "ConfirmDialog",
+                    "name": "useMedia",
                     "total_seconds": 7.0,
                     "digital": "0:00:07",
                     "decimal": "0.00",
@@ -1342,7 +1342,7 @@
                     "percent": 0.01
                 },
                 {
-                    "name": "useMedia",
+                    "name": "ConfirmDialog",
                     "total_seconds": 7.0,
                     "digital": "0:00:07",
                     "decimal": "0.00",
@@ -1386,7 +1386,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "tailwindcss",
+                    "name": "@tailwindcss/postcss",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1397,7 +1397,18 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "wrangler",
+                    "name": "tailwindcss-animate",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "eslint",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1419,7 +1430,106 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "cmdk",
+                    "name": "@radix-ui/react-scroll-area",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "eslint-config-next",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "date-fns",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "tailwindcss",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "@radix-ui/react-avatar",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "typescript",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "@tanstack/react-table",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "@radix-ui/react-tabs",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "@tanstack/react-query-devtools",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "@radix-ui/react-dropdown-menu",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1441,29 +1551,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "zod",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "@radix-ui/react-select",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "typescript",
+                    "name": "@types/react",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1496,7 +1584,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "date-fns",
+                    "name": "zod",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1507,73 +1595,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "@radix-ui/react-dropdown-menu",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "@types/react",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "@radix-ui/react-dialog",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "eslint",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "eslint-config-next",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "@radix-ui/react-tabs",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "@tanstack/react-table",
+                    "name": "@radix-ui/react-select",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1585,6 +1607,28 @@
                 },
                 {
                     "name": "@tiptap/core",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "@radix-ui/react-slot",
+                    "total_seconds": 1.525,
+                    "digital": "0:00:01",
+                    "decimal": "0.00",
+                    "text": "1 sec",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "percent": 0.0
+                },
+                {
+                    "name": "cmdk",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1617,51 +1661,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "tailwindcss-animate",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "@radix-ui/react-checkbox",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
                     "name": "prettier",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "@tailwindcss/postcss",
-                    "total_seconds": 1.525,
-                    "digital": "0:00:01",
-                    "decimal": "0.00",
-                    "text": "1 sec",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "@hookform/resolvers",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1683,7 +1683,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "@radix-ui/react-scroll-area",
+                    "name": "@radix-ui/react-dialog",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1694,7 +1694,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "@radix-ui/react-slot",
+                    "name": "@hookform/resolvers",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1705,7 +1705,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "@radix-ui/react-avatar",
+                    "name": "@radix-ui/react-checkbox",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1716,7 +1716,7 @@
                     "percent": 0.0
                 },
                 {
-                    "name": "@tanstack/react-query-devtools",
+                    "name": "wrangler",
                     "total_seconds": 1.525,
                     "digital": "0:00:01",
                     "decimal": "0.00",
@@ -1724,17 +1724,6 @@
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 1,
-                    "percent": 0.0
-                },
-                {
-                    "name": "ProjectStatusBadge",
-                    "total_seconds": 0.111,
-                    "digital": "0:00:00",
-                    "decimal": "0.00",
-                    "text": "0 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 0,
                     "percent": 0.0
                 },
                 {
@@ -1750,6 +1739,17 @@
                 },
                 {
                     "name": "search-input",
+                    "total_seconds": 0.111,
+                    "digital": "0:00:00",
+                    "decimal": "0.00",
+                    "text": "0 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "ProjectStatusBadge",
                     "total_seconds": 0.111,
                     "digital": "0:00:00",
                     "decimal": "0.00",
@@ -1778,26 +1778,27 @@
                 {
                     "name": "admin.pphat.me",
                     "total_seconds": 21952.047,
-                    "ai_additions": 5186,
+                    "ai_additions": 5290,
                     "ai_deletions": 356,
                     "human_additions": 22,
                     "human_deletions": 199,
                     "ai_model_line_changes": {
                         "Gemini": 368,
-                        "Opus": 5174
+                        "Opus": 5278
                     },
                     "ai_input_tokens": 758005,
                     "ai_cached_input_tokens": 121118038,
                     "ai_output_tokens": 392785,
                     "ai_prompt_length_sum": 28832,
                     "ai_prompt_events_total": 118,
+                    "color": null,
                     "ai_model_costs": {
                         "Opus": 74.168663
                     },
                     "ai_model_breakdown": [
                         {
                             "name": "Opus",
-                            "lines": 5174,
+                            "lines": 5278,
                             "cost": 74.168663
                         },
                         {
@@ -1836,6 +1837,7 @@
                     "ai_output_tokens": 336,
                     "ai_prompt_length_sum": 786,
                     "ai_prompt_events_total": 14,
+                    "color": null,
                     "ai_model_costs": {
                         "Opus": 0.214001
                     },
@@ -1879,6 +1881,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events_total": 0,
+                    "color": null,
                     "ai_model_costs": {},
                     "ai_model_breakdown": [],
                     "ai_model_total_cost": 0,
@@ -1909,6 +1912,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events_total": 0,
+                    "color": null,
                     "ai_model_costs": {},
                     "ai_model_breakdown": [],
                     "ai_model_total_cost": 0,
@@ -1939,6 +1943,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events_total": 0,
+                    "color": null,
                     "ai_model_costs": {},
                     "ai_model_breakdown": [],
                     "ai_model_total_cost": 0,
