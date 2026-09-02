@@ -183,7 +183,7 @@
             ],
             "dependencies": [
                 {
-                    "name": "format-datetime",
+                    "name": "datepicker",
                     "total_seconds": 9106.373,
                     "digital": "2:31:46",
                     "decimal": "2.52",
@@ -194,7 +194,7 @@
                     "percent": 8.78
                 },
                 {
-                    "name": "datepicker",
+                    "name": "format-datetime",
                     "total_seconds": 9106.373,
                     "digital": "2:31:46",
                     "decimal": "2.52",
@@ -227,18 +227,7 @@
                     "percent": 6.31
                 },
                 {
-                    "name": "upload2text",
-                    "total_seconds": 6305.918,
-                    "digital": "1:45:05",
-                    "decimal": "1.75",
-                    "text": "1 hr 45 mins",
-                    "hours": 1,
-                    "minutes": 45,
-                    "seconds": 5,
-                    "percent": 6.08
-                },
-                {
-                    "name": "json",
+                    "name": "create-form",
                     "total_seconds": 6305.918,
                     "digital": "1:45:05",
                     "decimal": "1.75",
@@ -260,40 +249,29 @@
                     "percent": 6.08
                 },
                 {
+                    "name": "json",
+                    "total_seconds": 6305.918,
+                    "digital": "1:45:05",
+                    "decimal": "1.75",
+                    "text": "1 hr 45 mins",
+                    "hours": 1,
+                    "minutes": 45,
+                    "seconds": 5,
+                    "percent": 6.08
+                },
+                {
+                    "name": "upload2text",
+                    "total_seconds": 6305.918,
+                    "digital": "1:45:05",
+                    "decimal": "1.75",
+                    "text": "1 hr 45 mins",
+                    "hours": 1,
+                    "minutes": 45,
+                    "seconds": 5,
+                    "percent": 6.08
+                },
+                {
                     "name": "input",
-                    "total_seconds": 6305.918,
-                    "digital": "1:45:05",
-                    "decimal": "1.75",
-                    "text": "1 hr 45 mins",
-                    "hours": 1,
-                    "minutes": 45,
-                    "seconds": 5,
-                    "percent": 6.08
-                },
-                {
-                    "name": "create-form",
-                    "total_seconds": 6305.918,
-                    "digital": "1:45:05",
-                    "decimal": "1.75",
-                    "text": "1 hr 45 mins",
-                    "hours": 1,
-                    "minutes": 45,
-                    "seconds": 5,
-                    "percent": 6.08
-                },
-                {
-                    "name": "checkbox-group",
-                    "total_seconds": 6305.918,
-                    "digital": "1:45:05",
-                    "decimal": "1.75",
-                    "text": "1 hr 45 mins",
-                    "hours": 1,
-                    "minutes": 45,
-                    "seconds": 5,
-                    "percent": 6.08
-                },
-                {
-                    "name": "sweetalert",
                     "total_seconds": 6305.918,
                     "digital": "1:45:05",
                     "decimal": "1.75",
@@ -315,48 +293,26 @@
                     "percent": 6.08
                 },
                 {
-                    "name": "datatable-action",
-                    "total_seconds": 2800.455,
-                    "digital": "0:46:40",
-                    "decimal": "0.77",
-                    "text": "46 mins",
-                    "hours": 0,
-                    "minutes": 46,
-                    "seconds": 40,
-                    "percent": 2.7
+                    "name": "sweetalert",
+                    "total_seconds": 6305.918,
+                    "digital": "1:45:05",
+                    "decimal": "1.75",
+                    "text": "1 hr 45 mins",
+                    "hours": 1,
+                    "minutes": 45,
+                    "seconds": 5,
+                    "percent": 6.08
                 },
                 {
-                    "name": "csv",
-                    "total_seconds": 2800.455,
-                    "digital": "0:46:40",
-                    "decimal": "0.77",
-                    "text": "46 mins",
-                    "hours": 0,
-                    "minutes": 46,
-                    "seconds": 40,
-                    "percent": 2.7
-                },
-                {
-                    "name": "currency",
-                    "total_seconds": 2800.455,
-                    "digital": "0:46:40",
-                    "decimal": "0.77",
-                    "text": "46 mins",
-                    "hours": 0,
-                    "minutes": 46,
-                    "seconds": 40,
-                    "percent": 2.7
-                },
-                {
-                    "name": "select",
-                    "total_seconds": 2800.455,
-                    "digital": "0:46:40",
-                    "decimal": "0.77",
-                    "text": "46 mins",
-                    "hours": 0,
-                    "minutes": 46,
-                    "seconds": 40,
-                    "percent": 2.7
+                    "name": "checkbox-group",
+                    "total_seconds": 6305.918,
+                    "digital": "1:45:05",
+                    "decimal": "1.75",
+                    "text": "1 hr 45 mins",
+                    "hours": 1,
+                    "minutes": 45,
+                    "seconds": 5,
+                    "percent": 6.08
                 },
                 {
                     "name": "dropdown",
@@ -381,7 +337,51 @@
                     "percent": 2.7
                 },
                 {
+                    "name": "currency",
+                    "total_seconds": 2800.455,
+                    "digital": "0:46:40",
+                    "decimal": "0.77",
+                    "text": "46 mins",
+                    "hours": 0,
+                    "minutes": 46,
+                    "seconds": 40,
+                    "percent": 2.7
+                },
+                {
                     "name": "excel",
+                    "total_seconds": 2800.455,
+                    "digital": "0:46:40",
+                    "decimal": "0.77",
+                    "text": "46 mins",
+                    "hours": 0,
+                    "minutes": 46,
+                    "seconds": 40,
+                    "percent": 2.7
+                },
+                {
+                    "name": "datatable-action",
+                    "total_seconds": 2800.455,
+                    "digital": "0:46:40",
+                    "decimal": "0.77",
+                    "text": "46 mins",
+                    "hours": 0,
+                    "minutes": 46,
+                    "seconds": 40,
+                    "percent": 2.7
+                },
+                {
+                    "name": "csv",
+                    "total_seconds": 2800.455,
+                    "digital": "0:46:40",
+                    "decimal": "0.77",
+                    "text": "46 mins",
+                    "hours": 0,
+                    "minutes": 46,
+                    "seconds": 40,
+                    "percent": 2.7
+                },
+                {
+                    "name": "select",
                     "total_seconds": 2800.455,
                     "digital": "0:46:40",
                     "decimal": "0.77",
@@ -414,7 +414,7 @@
                     "percent": 0.23
                 },
                 {
-                    "name": "lucide-react",
+                    "name": "badge",
                     "total_seconds": 30.0,
                     "digital": "0:00:30",
                     "decimal": "0.00",
@@ -436,7 +436,7 @@
                     "percent": 0.03
                 },
                 {
-                    "name": "button",
+                    "name": "lucide-react",
                     "total_seconds": 30.0,
                     "digital": "0:00:30",
                     "decimal": "0.00",
@@ -458,6 +458,17 @@
                     "percent": 0.03
                 },
                 {
+                    "name": "sonner",
+                    "total_seconds": 30.0,
+                    "digital": "0:00:30",
+                    "decimal": "0.00",
+                    "text": "30 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "percent": 0.03
+                },
+                {
                     "name": "react",
                     "total_seconds": 30.0,
                     "digital": "0:00:30",
@@ -469,18 +480,7 @@
                     "percent": 0.03
                 },
                 {
-                    "name": "badge",
-                    "total_seconds": 30.0,
-                    "digital": "0:00:30",
-                    "decimal": "0.00",
-                    "text": "30 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 30,
-                    "percent": 0.03
-                },
-                {
-                    "name": "sonner",
+                    "name": "button",
                     "total_seconds": 30.0,
                     "digital": "0:00:30",
                     "decimal": "0.00",
@@ -521,6 +521,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 4087,
                     "ai_prompt_events_total": 25,
+                    "color": null,
                     "ai_model_costs": {},
                     "ai_model_breakdown": [
                         {
@@ -557,6 +558,7 @@
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 671,
                     "ai_prompt_events_total": 1,
+                    "color": null,
                     "ai_model_costs": {},
                     "ai_model_breakdown": [],
                     "ai_model_total_cost": 0,
