@@ -39,10 +39,10 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <!--START_SECTION:daily-->
 ```diff
-||||||||||||||··········· ⁝ 57.09% • Blade Template
-||||||||················· ⁝ 30.92% • JavaScript
-|||······················ ⁝ 11.73% • PHP
-························· ⁝ 0.26% • Bash
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ 57.09% • Blade Template
+🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ 30.92% • JavaScript
+🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ 11.73% • PHP
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⁝ 0.26% • Bash
 ```
 <!--END_SECTION:daily-->
 
