@@ -76,6 +76,7 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 
 <div>
 <!--START_SECTION:followers-->
+<a href="https://github.com/chumongtu-prog"><img src="https://avatars.githubusercontent.com/u/246102816?s=130&v=4" width="60" height="60" alt="chumongtu-prog" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/t99197702-rgb"><img src="https://avatars.githubusercontent.com/u/337396977?s=130&v=4" width="60" height="60" alt="t99197702-rgb" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/Sopheak-HUN"><img src="https://avatars.githubusercontent.com/u/111502203?s=130&v=4" width="60" height="60" alt="Sopheak-HUN" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/vitou18"><img src="https://avatars.githubusercontent.com/u/121754633?s=130&v=4" width="60" height="60" alt="vitou18" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
@@ -85,7 +86,6 @@ I am a Senior Front-End Developer at _TURBOTECH CO,.LTD_ also as a Open Source _
 <a href="https://github.com/ahmadrizal-baihaqi"><img src="https://avatars.githubusercontent.com/u/180535350?s=130&v=4" width="60" height="60" alt="ahmadrizal-baihaqi" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/duncuo164"><img src="https://avatars.githubusercontent.com/u/138113676?s=130&v=4" width="60" height="60" alt="duncuo164" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <a href="https://github.com/Dvurechensky"><img src="https://avatars.githubusercontent.com/u/46356631?s=130&v=4" width="60" height="60" alt="Dvurechensky" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
-<a href="https://github.com/standardgalactic"><img src="https://avatars.githubusercontent.com/u/43516554?s=130&v=4" width="60" height="60" alt="standardgalactic" style="border-radius: 50%; vertical-align: middle; margin: 10px;" /></a>
 <!--END_SECTION:followers-->
 </div>
 
