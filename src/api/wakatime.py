@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta
+import base64
 from requests.auth import HTTPBasicAuth
 
 import requests
@@ -19,8 +20,8 @@ class WakaTimeAPI:
 
         self.base_url = WAKA_API.rstrip("/")
         self.session = requests.Session()
-        self.session.auth = HTTPBasicAuth(WAKA_TOKEN, "")
-        self.session.headers.update({"Accept": "application/json"})
+        encoded_token = base64.b64encode(WAKA_TOKEN.encode("utf-8")).decode("utf-8")
+        self.session.headers.update({"Accept": "application/json", "Authorization": f"Basic {encoded_token}"})
 
     def _get(self, endpoint, *, params=None):
         try:
@@ -28,13 +29,13 @@ class WakaTimeAPI:
             response.raise_for_status()
             return response.json()
         except requests.exceptions.HTTPError as error:
-            status_code = error.response.status_code if error.response else "unknown"
+            status_code = error.response.status_code if error.response is not None else "unknown"
             if status_code == 401:
                 raise WakaTimeAPIError(
                     "Authentication failed. Please check your WakaTime API token."
                 ) from error
             raise WakaTimeAPIError(
-                f"WakaTime API request failed with status {status_code}."
+                f"WakaTime API request failed with status {status_code}: {error.response.text if error.response is not None else ''}"
             ) from error
         except requests.exceptions.RequestException as error:
             raise WakaTimeAPIError(f"Network error occurred: {error}") from error
