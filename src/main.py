@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+import sys
+from pathlib import Path
+
+# Ensure 'src' is in sys.path so sibling packages (services, config, api, utils) resolve
+src_dir = str(Path(__file__).resolve().parent)
+if src_dir not in sys.path:
+    sys.path.insert(0, src_dir)
 
 from services.readme_updater import get_daily_activity
 from services.follower_updater import get_recent_followers_activity
