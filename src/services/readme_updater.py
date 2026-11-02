@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 from config import BAR_STYLE, DATA_PATH, README_PATH
 from utils.formatting import BAR_STYLES, generate_progress_bar
-from api.wakatime import WakaTimeAPI
+from api.wakatime import WakaTimeAPI, WakaTimeAPIError
 
 
 START_TAG = "<!--START_SECTION:daily-->"
@@ -25,8 +25,13 @@ def _build_daily_section(languages, style="block"):
 def get_daily_activity():
     wakatimes = WakaTimeAPI()
     yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
-    stats = wakatimes.daily_activity(date=yesterday)
-    daily_entries = stats.get("data", [])
+    cached = None
+    stats = None
+    try:
+        stats = wakatimes.daily_activity(date=yesterday)
+    except WakaTimeAPIError as error:
+        print(f"Warning: Failed to fetch daily activity from WakaTime: {error}")
+    daily_entries = stats.get("data", []) if stats else []
     languages = daily_entries[0].get("languages", []) if daily_entries else []
 
     if not languages:
@@ -40,11 +45,17 @@ def get_daily_activity():
             print("No cached activity available. Skipping daily section update.")
             return None
 
-    DATA_PATH.mkdir(parents=True, exist_ok=True)
-    CODING_STATS_PATH.write_text(
-        json.dumps(stats, indent=4),
-        encoding="utf-8",
-    )
+    if stats:
+        DATA_PATH.mkdir(parents=True, exist_ok=True)
+        CODING_STATS_PATH.write_text(json.dumps(stats, indent=4), encoding="utf-8")
+    
+
+
+
+
+
+
+
 
     content = README_PATH.read_text(encoding="utf-8")
     start_index = content.find(START_TAG)
@@ -58,4 +69,4 @@ def get_daily_activity():
     updated_content = content[:start_index] + new_section + content[end_index:]
     README_PATH.write_text(updated_content, encoding="utf-8")
 
-    return stats
+    return stats or cached
